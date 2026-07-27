@@ -70,93 +70,120 @@
           <span>SYSTEM MAP · NORTHERN HEADWATERS</span>
           <span class="sh-status" id="sh-status">FIVE RIVERS · ONE SOURCE</span>
         </div>
-        <svg id="system-svg" viewBox="0 0 420 500" role="img" aria-label="A stylized planning map of the five headwaters. As the story progresses, mine markers appear across the map, risk flags pulse at legacy sites, consent markers join several mines, and three dashed protection outlines are drawn over the source areas.">
+        <svg id="system-svg" viewBox="0 0 420 500" role="img" aria-label="A stylized planning map of the five headwaters, oriented like the real region: the Taku rising in the far northwest, the Liard system with the Dease and Kechika in the northeast, and the Stikine arcing from the Spatsizi country north of the Klappan basin, where the Skeena and Nass also rise. As the story progresses, mine markers appear at their approximate real locations, risk flags pulse at legacy sites, consent markers join several mines, and three dashed protection outlines are drawn.">
           <rect x="0" y="0" width="420" height="500" fill="#04141c"/>
           <g stroke="#12303c" stroke-width="1">
             <line x1="0" y1="125" x2="420" y2="125"/><line x1="0" y1="250" x2="420" y2="250"/><line x1="0" y1="375" x2="420" y2="375"/>
             <line x1="105" y1="0" x2="105" y2="500"/><line x1="210" y1="0" x2="210" y2="500"/><line x1="315" y1="0" x2="315" y2="500"/>
           </g>
-          <text x="8" y="492" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">DIAGRAM — NOT TO SCALE · N ↑</text>
-
           <g id="rivers">
-            <path d="M228 190 C200 170 160 150 120 110 C90 80 60 65 0 62" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
-            <text x="16" y="52" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">TAKU →SEA</text>
-            <path d="M225 185 C180 190 120 195 60 205 C35 209 15 205 0 200" fill="none" stroke="#2a877e" stroke-width="4" stroke-linecap="round"/>
-            <text x="10" y="190" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">STIKINE</text>
-            <path d="M195 215 C160 260 120 320 95 380 C80 415 70 440 62 470" fill="none" stroke="#2a877e" stroke-width="3.6" stroke-linecap="round"/>
-            <text x="30" y="440" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">NASS</text>
-            <path d="M215 205 C215 265 190 340 175 400 C165 440 155 470 150 500" fill="none" stroke="#2a877e" stroke-width="4.2" stroke-linecap="round"/>
-            <text x="185" y="455" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">SKEENA</text>
-            <path d="M330 95 C355 85 385 72 420 62" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
-            <path d="M330 95 C310 120 300 140 296 160" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
-            <text x="342" y="112" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">LIARD →</text>
-            <path d="M196 214 L232 186 L246 210 L214 236 Z" fill="none" stroke="#c07d1d" stroke-width="1.6"/>
-            <text x="252" y="228" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">THE KLAPPAN</text>
-            <text x="252" y="241" font-family="IBM Plex Mono,monospace" font-size="9" fill="#7c8f9b">3 RIVERS RISE HERE</text>
+            <!-- Taku: Inklin/Nakina fork, its own source country in the far NW, to sea at Juneau -->
+            <path d="M95 55 C90 70 88 82 85 95" fill="none" stroke="#2a877e" stroke-width="2.4" stroke-linecap="round"/>
+            <path d="M135 75 C120 82 100 88 85 95" fill="none" stroke="#2a877e" stroke-width="2.4" stroke-linecap="round"/>
+            <path d="M85 95 C60 110 30 130 0 148" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
+            <text x="10" y="42" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">TAKU</text>
+            <!-- Stikine: rises in the Spatsizi country east of the Klappan, arcs north of it,
+                 then bends southwest to the sea; Klappan R. and Iskut join as tributaries -->
+            <path d="M330 240 C342 212 336 188 312 175 C280 160 240 158 205 163 C182 166 160 170 143 178 C118 190 92 212 68 236 C44 258 20 272 0 283" fill="none" stroke="#2a877e" stroke-width="4" stroke-linecap="round"/>
+            <path d="M232 245 C230 218 226 190 223 166" fill="none" stroke="#2a877e" stroke-width="2" stroke-linecap="round"/>
+            <path d="M175 205 C165 230 140 250 110 258 C92 262 72 258 58 248" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
+            <text x="252" y="146" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">STIKINE</text>
+            <text x="334" y="274" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">SPATSIZI</text>
+            <text x="118" y="274" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">ISKUT</text>
+            <!-- Skeena: south from the divide -->
+            <path d="M240 262 C248 300 245 340 232 380 C222 412 208 452 198 500" fill="none" stroke="#2a877e" stroke-width="4.2" stroke-linecap="round"/>
+            <text x="150" y="462" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">SKEENA</text>
+            <!-- Nass: southwest from the divide, past Meziadin -->
+            <path d="M218 268 C200 305 175 340 150 375 C132 400 116 430 106 470 C104 480 103 490 102 500" fill="none" stroke="#2a877e" stroke-width="3.6" stroke-linecap="round"/>
+            <text x="66" y="458" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">NASS</text>
+            <!-- Liard: in from the Yukon, east toward the Mackenzie; Dease and Kechika feed it.
+                 Arctic drainage — no salmon dots up here. -->
+            <path d="M330 25 C345 45 362 62 385 75 C400 82 412 88 420 92" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
+            <path d="M205 120 C240 105 275 92 310 72 C322 65 334 52 346 44" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
+            <path d="M352 205 C360 170 372 135 388 105 C392 98 398 91 404 86" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
+            <text x="370" y="38" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">LIARD →</text>
+            <text x="222" y="96" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">DEASE</text>
+            <text x="356" y="152" font-family="IBM Plex Mono,monospace" font-size="9" fill="#6b8492">KECHIKA</text>
+            <!-- The Klappan: the high basin at the three-way divide -->
+            <path d="M215 252 L232 232 L252 248 L236 270 Z" fill="none" stroke="#c07d1d" stroke-width="1.6"/>
+            <text x="258" y="240" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">THE KLAPPAN</text>
+            <text x="258" y="253" font-family="IBM Plex Mono,monospace" font-size="9" fill="#7c8f9b">SKEENA · NASS · STIKINE</text>
           </g>
 
           <g id="salmon-a">
             <g fill="#5fc2b8">
-              <circle cx="150" cy="490" r="3"/><circle cx="163" cy="452" r="3"/><circle cx="181" cy="392" r="3"/><circle cx="199" cy="322" r="3"/><circle cx="211" cy="262" r="3"/>
-              <circle cx="66" cy="458" r="3"/><circle cx="86" cy="400" r="3"/><circle cx="108" cy="340" r="3"/><circle cx="140" cy="285" r="3"/>
-              <circle cx="30" cy="203" r="3"/><circle cx="90" cy="199" r="3"/><circle cx="150" cy="192" r="3"/>
-              <circle cx="20" cy="63" r="3"/><circle cx="65" cy="68" r="3"/><circle cx="108" cy="98" r="3"/>
+              <circle cx="244" cy="320" r="3"/><circle cx="234" cy="372" r="3"/><circle cx="216" cy="430" r="3"/><circle cx="208" cy="452" r="3"/>
+              <circle cx="196" cy="312" r="3"/><circle cx="168" cy="356" r="3"/><circle cx="133" cy="394" r="3"/><circle cx="114" cy="442" r="3"/>
+              <circle cx="118" cy="190" r="3"/><circle cx="90" cy="214" r="3"/><circle cx="60" cy="242" r="3"/>
+              <circle cx="88" cy="92" r="3"/><circle cx="62" cy="108" r="3"/><circle cx="34" cy="128" r="3"/>
             </g>
-            <text x="222" y="292" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">● SALMON RUNS</text>
+            <text x="268" y="345" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">● SALMON RUNS</text>
           </g>
           <g id="salmon-b" class="off">
             <g fill="#5fc2b8" opacity=".45">
-              <circle cx="150" cy="490" r="3"/><circle cx="181" cy="392" r="3"/><circle cx="211" cy="262" r="3"/>
-              <circle cx="86" cy="400" r="3"/><circle cx="140" cy="285" r="3"/>
-              <circle cx="90" cy="199" r="3"/>
-              <circle cx="65" cy="68" r="3"/>
+              <circle cx="244" cy="320" r="3"/><circle cx="216" cy="430" r="3"/>
+              <circle cx="168" cy="356" r="3"/><circle cx="133" cy="394" r="3"/>
+              <circle cx="90" cy="214" r="3"/><circle cx="34" cy="128" r="3"/><circle cx="62" cy="108" r="3"/>
             </g>
-            <text x="222" y="292" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5f8a94">● WHAT'S AT STAKE</text>
+            <text x="268" y="345" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5f8a94">● WHAT'S AT STAKE</text>
           </g>
 
           <g id="mines" class="off">
             <g fill="#e0782e" stroke="#04141c" stroke-width="1">
-              <rect x="245" y="155" width="9" height="9"/><rect x="130" y="260" width="9" height="9"/><rect x="115" y="296" width="9" height="9"/>
-              <rect x="128" y="316" width="9" height="9"/><rect x="55" y="205" width="9" height="9"/><rect x="80" y="175" width="9" height="9"/>
-              <rect x="300" y="145" width="9" height="9"/><rect x="326" y="122" width="9" height="9"/><rect x="228" y="425" width="9" height="9"/>
-              <rect x="336" y="55" width="9" height="9"/><rect x="118" y="338" width="9" height="9"/>
+              <rect x="203" y="183" width="9" height="9"/><!-- Red Chris (Todagin plateau, Iskut side) -->
+              <rect x="118" y="213" width="9" height="9"/><!-- Schaft Creek -->
+              <rect x="66" y="253" width="9" height="9"/><!-- Galore Creek -->
+              <rect x="93" y="288" width="9" height="9"/><!-- Eskay Creek -->
+              <rect x="114" y="314" width="9" height="9"/><!-- KSM -->
+              <rect x="131" y="306" width="9" height="9"/><!-- Brucejack -->
+              <rect x="140" y="332" width="9" height="9"/><!-- Premier/Cambria -->
+              <rect x="278" y="453" width="9" height="9"/><!-- Dome Mountain -->
+              <rect x="376" y="198" width="9" height="9"/><!-- Turnagain -->
+              <rect x="313" y="205" width="9" height="9"/><!-- Kutcho -->
+              <rect x="260" y="86" width="9" height="9"/><!-- Cassiar -->
+              <rect x="34" y="116" width="9" height="9"/><!-- Tulsequah Chief -->
             </g>
-            <text x="262" y="163" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">■ MINES &amp; PROJECTS</text>
+            <text x="268" y="360" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">■ MINES &amp; PROJECTS</text>
           </g>
 
           <g id="rush" class="off">
-            <path d="M410 330 L360 310" stroke="#e0782e" stroke-width="2.4" stroke-dasharray="7 5" fill="none"/>
-            <path d="M360 310 l14 -2 l-7 13 Z" fill="#e0782e"/>
-            <text x="298" y="352" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">FAST-TRACK</text>
-            <text x="298" y="365" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">$1T+ IN THE GROUND</text>
+            <rect x="296" y="402" width="120" height="38" rx="4" fill="none" stroke="#e0782e" stroke-width="1.6" stroke-dasharray="6 4"/>
+            <text x="306" y="418" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">FAST-TRACK</text>
+            <text x="306" y="431" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">$1T+ IN THE GROUND</text>
           </g>
 
           <g id="risk" class="off">
-            <circle cx="52" cy="80" r="10" fill="none" stroke="#d64545" stroke-width="2" class="pulse-dot"/>
-            <circle cx="52" cy="80" r="17" fill="none" stroke="#d64545" stroke-width="1" class="pulse-dot"/>
-            <text x="30" y="107" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TULSEQUAH: 65 YRS OF ACID</text>
-            <path d="M120 262 q-20 24 -1 56" fill="none" stroke="#d64545" stroke-width="1.6" stroke-dasharray="4 4"/>
-            <text x="30" y="248" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TAILINGS ABOVE NURSERIES</text>
+            <circle cx="38" cy="120" r="10" fill="none" stroke="#d64545" stroke-width="2" class="pulse-dot"/>
+            <circle cx="38" cy="120" r="17" fill="none" stroke="#d64545" stroke-width="1" class="pulse-dot"/>
+            <text x="6" y="170" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TULSEQUAH: ~70 YRS OF ACID</text>
+            <path d="M125 322 q34 14 62 8" fill="none" stroke="#d64545" stroke-width="1.6" stroke-dasharray="4 4"/>
+            <text x="22" y="356" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TAILINGS ABOVE NURSERIES</text>
           </g>
 
           <g id="consent" class="off">
             <g fill="none" stroke="#5fc2b8" stroke-width="2">
-              <path d="M258 152 l7 -7 l7 7 l-7 7 Z"/>
-              <path d="M143 258 l7 -7 l7 7 l-7 7 Z"/>
+              <path d="M207 178 l8 8 l-8 8 l-8 -8 Z"/><!-- Red Chris -->
+              <path d="M97 282 l8 8 l-8 8 l-8 -8 Z"/><!-- Eskay Creek -->
             </g>
-            <text x="242" y="140" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">◇ CONSENT AGREEMENTS</text>
+            <text x="146" y="181" font-family="IBM Plex Mono,monospace" font-size="9" fill="#5fc2b8">RED CHRIS</text>
+            <text x="108" y="285" font-family="IBM Plex Mono,monospace" font-size="9" fill="#5fc2b8">ESKAY CK</text>
+            <text x="268" y="375" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">◇ CONSENT AGREEMENTS</text>
           </g>
 
           <g id="protect" class="off">
-            <path d="M186 222 L240 178 L262 214 L216 252 Z" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
-            <ellipse cx="112" cy="345" rx="26" ry="34" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
-            <path d="M270 55 L400 40 L412 130 L330 170 L280 130 Z" fill="rgba(192,125,29,.12)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
-            <text x="88" y="398" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">MEZIADIN</text>
-            <text x="318" y="185" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">DENE K'ÉH KUSĀN</text>
+            <path d="M205 258 L233 226 L262 250 L237 282 Z" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <ellipse cx="132" cy="390" rx="22" ry="30" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <path d="M330 62 L398 100 L410 140 L370 175 L320 168 L302 122 Z" fill="rgba(192,125,29,.12)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <text x="100" y="434" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">MEZIADIN</text>
+            <text x="296" y="190" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">DENE K'ÉH</text>
+            <text x="296" y="202" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">KUSĀN</text>
           </g>
 
+          <rect x="0" y="481" width="420" height="19" fill="#04141c"/>
+          <text x="8" y="494" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">DIAGRAM — RIVER COURSES SIMPLIFIED · N ↑</text>
+
           <g id="tagline" class="off">
-            <text x="210" y="480" text-anchor="middle" font-family="Barlow Condensed,sans-serif" font-weight="700" font-size="20" letter-spacing="2" fill="#f2efe3">PROTECT THE SOURCE. KEEP THE COUNTRY OPEN.</text>
+            <text x="210" y="480" text-anchor="middle" font-family="Barlow Condensed,sans-serif" font-weight="700" font-size="13" letter-spacing=".5" fill="#f2efe3">PROTECT THE SOURCE. KEEP THE COUNTRY OPEN.</text>
           </g>
         </svg>
       </div>
@@ -186,7 +213,7 @@
     <section class="step" data-ch="3">
       <p class="chnum">Chapter 3 — The stakes</p>
       <h2>Some things don't come back</h2>
-      <p>Nobody up here needs a lecture about mining — it's a neighbour's paycheque. The question is <em>where</em>, and what happens when it goes wrong in the wrong place. The Tulsequah Chief mine closed in 1957 and has leaked acid into the Taku watershed for <strong>about 65 years</strong> — the cleanup is still being planned today, with a draft targeted for 2026.</p>
+      <p>Nobody up here needs a lecture about mining — it's a neighbour's paycheque. The question is <em>where</em>, and what happens when it goes wrong in the wrong place. The Tulsequah Chief mine closed in 1957 and has leaked acid into the Taku watershed for <strong>almost 70 years</strong> — the cleanup is still being planned today, with a draft targeted for 2026.</p>
       <p>Now scale that risk against what's on the table: tailings and roads uphill of the creeks that produce three-quarters of the Nass sockeye; the winter ranges that hold 23,000&nbsp;hectares of mountain goat habitat in the Meziadin plan area alone; some of the best intact moose and caribou country left in the province. A mine has a closing date. A lost salmon run doesn't reopen.</p>
     </section>
 
@@ -304,7 +331,7 @@
       <summary>The stakes and the table</summary>
       <div class="acc-body">
         <ol>
-          <li>Tulsequah Chief: acid drainage since the 1950s (~65+ years); 2024 MOU (BC, Taku River Tlingit, Teck); draft remediation plan targeted 2026, final by 2028 — <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine" rel="noopener">BC Gov</a>, <a href="https://thenarwhal.ca/tulsequah-chief-mine-clean-up/" rel="noopener">The Narwhal</a>.</li>
+          <li>Tulsequah Chief: acid drainage since 1957 (~69 years); 2024 MOU (BC, Taku River Tlingit, Teck); draft remediation plan targeted 2026, final by 2028 — <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine" rel="noopener">BC Gov</a>, <a href="https://thenarwhal.ca/tulsequah-chief-mine-clean-up/" rel="noopener">The Narwhal</a>.</li>
           <li>Tahltan consent agreements (Declaration Act s.7): Eskay Creek approved Jan 2026 — the first consent-agreement mine; Red Chris block cave approved June 2026 — <a href="https://news.gov.bc.ca/releases/2026MCM0008-000078" rel="noopener">BC Gov (Eskay)</a>, <a href="https://news.gov.bc.ca/releases/2026MCM0029-000727" rel="noopener">BC Gov (Red Chris)</a>.</li>
           <li>Nations Royalty — Nisga'a Nation ~77% ownership; royalties on Brucejack, KSM, Premier/Red Mountain, Kitsault — <a href="https://www.cbc.ca/news/canada/british-columbia/nations-royalty-mining-company-nisga-a-nation-bc-canada-1.7386290" rel="noopener">CBC</a>.</li>
           <li>KSM consultation ordered (Tsetsaut Skii km Lax Ha), June 2026 — <a href="https://www.newsfilecorp.com/release/300673/BC-Supreme-Court-Decides-Seabridge-Golds-KSM-Substantially-Started-Determination-Reasonable" rel="noopener">Seabridge release</a>.</li>
