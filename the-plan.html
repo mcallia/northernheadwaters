@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="js/gate.js"></script>
+<title>The Plan — Northern Headwaters</title>
+<meta name="description" content="The map of protection in the Northern Headwaters: every park, conservancy and proposal in its current state — and the three proposals open for public comment until Aug 4, 2026.">
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:site_name" content="Northern Headwaters">
+<meta property="og:title" content="The Plan — Northern Headwaters">
+<meta property="og:description" content="The map of protection in the Northern Headwaters: every park, conservancy and proposal in its current state — and the three proposals open for public comment until Aug 4, 2026.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mcallia.github.io/northernheadwaters/the-plan.html">
+<meta property="og:image" content="https://mcallia.github.io/northernheadwaters/img/og-share.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://mcallia.github.io/northernheadwaters/the-plan.html">
+<meta name="theme-color" content="#0e2237">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="apple-touch-icon" href="img/favicon-180.png">
+<link rel="preload" href="fonts/BarlowCondensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/site.css">
+<link rel="stylesheet" href="css/vendor/leaflet.css">
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-bar">
+  <a class="brand" href="home.html"><img src="img/logo.png" alt="Northern Headwaters" height="46"></a>
+  <nav class="nav-desktop" aria-label="Primary">
+      <a href="home.html">Home</a>
+      <a href="the-case.html">The Case</a>
+      <a href="the-plan.html" aria-current="page">The Plan</a>
+      <a href="headwaters-live.html">Headwaters LIVE</a>
+      <a href="explainers.html">Explainers</a>
+      <a href="humans.html">Humans</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a class="nav-cta" href="take-action.html">Take Action</a>
+  </nav>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="mnav" aria-label="Open menu"><span></span><span></span><span></span></button>
+</div></header>
+<nav class="nav-mobile" id="mnav" aria-label="Mobile">
+      <a href="home.html">Home</a>
+      <a href="the-case.html">The Case</a>
+      <a href="the-plan.html" aria-current="page">The Plan</a>
+      <a href="headwaters-live.html">Headwaters LIVE</a>
+      <a href="explainers.html">Explainers</a>
+      <a href="humans.html">Humans</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a class="nav-cta" href="take-action.html">Take Action</a>
+</nav>
+<main id="main">
+<div class="deadline-ribbon">Comment windows for all three proposals close <a href="https://gonorthernheadwaters.ca/" rel="noopener">August 4, 2026 at 4 pm PT</a></div>
+
+<section class="band band-abyss band-tight">
+  <div class="container">
+    <p class="kicker">The Plan</p>
+    <h1 style="font-size:var(--fs-1)">The map is the plan</h1>
+    <p class="lede" style="max-width:720px">One region, three kinds of country: protected sources, stewarded lands, and working lands with clear rules. Here is every park, conservancy and protected-area proposal in the Northern Headwaters, in its current state of planning — kept current as the process moves.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The map</p>
+      <h2>Protection in the headwaters, right now</h2>
+      <p class="lede">Solid boundaries are real, from the BC Data Catalogue. Dashed circles are the three current proposals — sized true to their hectares, placed approximately. Click anything.</p>
+    </div>
+    <div id="plan-map" style="height:560px;border-radius:var(--r-lg);box-shadow:var(--shadow-1);border:1px solid var(--line)" aria-label="Interactive map of parks, conservancies and proposed protected areas across the Northern Headwaters"></div>
+    <div class="chip-row">
+      <span class="chip"><span class="swatch" style="background:#2e7a4d"></span>Parks &amp; protected areas (est.)</span>
+      <span class="chip"><span class="swatch" style="background:#2a877e"></span>Conservancies (est.)</span>
+      <span class="chip"><span class="swatch" style="background:#c07d1d;border-style:dashed"></span>Proposed — comment open</span>
+    </div>
+    <p class="chart-note" id="map-note">Reference map, not a legal document. Established boundaries: BC Data Catalogue (Tantalis), retrieved July 2026. Proposal markers are approximate — official boundary maps are on the government engagement pages linked below.</p>
+  </div>
+</section>
+
+<section class="band band-creme">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">Status board</p>
+      <h2>Where each proposal stands</h2>
+    </div>
+    <div class="table-scroll reveal">
+      <table class="status-table">
+        <thead><tr><th>Area</th><th>What's proposed</th><th>Partners</th><th>Status</th><th>Next step</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><strong>The Meziadin</strong><br><span class="small">Nass headwaters · Gitanyow territory</span></td>
+            <td>~47,000 ha westward expansion of the Hanna-Tintina Conservancy</td>
+            <td>Gitanyow Hereditary Chiefs · Nisg̱a'a Lisims Government · BC</td>
+            <td><span class="status-open">Comment open to Aug 4</span></td>
+            <td>Engagement continues into fall 2026; recommendation to cabinet</td>
+          </tr>
+          <tr>
+            <td><strong>The Klappan</strong><br><span class="small">Sacred Headwaters · Tahltan territory</span></td>
+            <td>302,980 ha Park Act conservancy (Zone A + former coal-licence area)</td>
+            <td>Tahltan Central Government · BC (Klappan Management Board)</td>
+            <td><span class="status-open">Comment open to Aug 4</span></td>
+            <td>Final decision by the BC and Tahltan governments</td>
+          </tr>
+          <tr>
+            <td><strong>Dene K'éh Kusān</strong><br><span class="small">Liard headwaters &amp; the Kechika · Kaska territory</span></td>
+            <td>3,065,128 ha conservancy within the 9.9M-ha Kaska–BC planning area</td>
+            <td>Kaska First Nations · BC</td>
+            <td><span class="status-open">Comment open to Aug 4</span></td>
+            <td>Further engagement, then cabinet decisions</td>
+          </tr>
+          <tr>
+            <td><strong>Regional backdrop</strong></td>
+            <td>Pause on new mineral claims, placer registrations and coal licences across the Tahltan, Taku River Tlingit and Kaska planning areas</td>
+            <td>Province of BC</td>
+            <td>Extended to <strong>Jan 31, 2027</strong></td>
+            <td>Existing tenures unaffected; planning continues</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="review-note mt-2 reveal">
+      <strong>⟳</strong>
+      <div><strong>This board changes.</strong> Statuses above are current to <strong>July 26, 2026</strong> and are reviewed weekly while comment windows are open (then monthly). More protected-area proposals are expected as planning advances — they'll be added here as they're announced. Sources: <a href="https://news.gov.bc.ca/releases/2026WLRS0031-000781" rel="noopener">BC land-use release</a> · <a href="https://news.gov.bc.ca/releases/2026MCM0015-000649" rel="noopener">claims-pause extension</a>.</div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">Act on each one</p>
+      <h2>Three proposals. Three tours. One deadline.</h2>
+      <p class="lede">Each area has a guided map tour that walks you through exactly what's proposed — then takes you straight to the official comment page. The buttons go to the right page and the right inbox.</p>
+    </div>
+    <div class="grid-3">
+      <div class="card reveal">
+        <a class="card-link" href="https://gonorthernheadwaters.ca/Meziadin.dc.html" rel="noopener">
+          <img class="card-img" src="img/mez-hero.jpg" alt="Meziadin Lake country, headwaters of the Nass">
+          <div class="card-body">
+            <span class="card-tag">Nass headwaters · Gitanyow territory</span>
+            <h3>The Meziadin</h3>
+            <p>3% of the Nass watershed, ~75% of its sockeye. About 5 minutes to comment.</p>
+          </div>
+        </a>
+        <div class="card-body" style="padding-top:0">
+          <a class="btn btn-ochre" href="https://www.planninginpartnership.ca/p/666765246b56900039b8e007/commenting" rel="noopener">Comment officially ↗</a>
+          <a class="btn btn-ghost" href="https://gonorthernheadwaters.ca/Meziadin-tour.html" rel="noopener">Guided tour</a>
+        </div>
+      </div>
+      <div class="card reveal">
+        <a class="card-link" href="https://gonorthernheadwaters.ca/Klappan.dc.html" rel="noopener">
+          <img class="card-img" src="img/klap-interlude.jpg" alt="Subalpine river valley in the Klappan">
+          <div class="card-body">
+            <span class="card-tag">Stikine–Skeena–Nass · Tahltan territory</span>
+            <h3>The Klappan</h3>
+            <p>Three of BC's great salmon rivers rise here. About 5 minutes to comment.</p>
+          </div>
+        </a>
+        <div class="card-body" style="padding-top:0">
+          <a class="btn btn-ochre" href="https://feedback.engage.gov.bc.ca/682169" rel="noopener">Comment officially ↗</a>
+          <a class="btn btn-ghost" href="https://gonorthernheadwaters.ca/Klappan-tour.html" rel="noopener">Guided tour</a>
+        </div>
+      </div>
+      <div class="card reveal">
+        <a class="card-link" href="https://gonorthernheadwaters.ca/Kaska.dc.html" rel="noopener">
+          <img class="card-img" src="img/kaska-hero.jpg" alt="Big open country in Kaska territory">
+          <div class="card-body">
+            <span class="card-tag">Kaska–BC planning · Kaska territory</span>
+            <h3>Dene K'éh Kusān</h3>
+            <p>Big country, still whole — 3 million hectares. 10–15 minutes, best from a computer.</p>
+          </div>
+        </a>
+        <div class="card-body" style="padding-top:0">
+          <a class="btn btn-ochre" href="https://feedback.engage.gov.bc.ca/911662" rel="noopener">Comment officially ↗</a>
+          <a class="btn btn-ghost" href="https://gonorthernheadwaters.ca/Kaska-tour.html" rel="noopener">Guided tour</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band band-spruce">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The framework</p>
+      <h2>Three zones, honestly drawn</h2>
+      <p class="lede">The plan behind the proposals is simple enough to say in one breath: protect the sources, steward the living country, keep working lands working — with rules everyone can see.</p>
+    </div>
+    <div class="grid-3">
+      <div class="zone-card zone-protected reveal">
+        <span class="zc-tag">Zone · Protected</span>
+        <h3>The sources</h3>
+        <p>Salmon nurseries, spawning grounds, critical winter ranges, cultural heartlands. No industrial disturbance — and hunting, fishing and recreation access stays.</p>
+      </div>
+      <div class="zone-card zone-stewardship reveal">
+        <span class="zc-tag">Zone · Stewardship</span>
+        <h3>The living country</h3>
+        <p>Cultural use, guardian programs, restoration, and low-impact economies — guiding, tourism, trapping — managed with the Nations who know it best.</p>
+      </div>
+      <div class="zone-card zone-working reveal">
+        <span class="zc-tag">Zone · Working</span>
+        <h3>The working lands</h3>
+        <p>Mining, forestry and energy in defined footprints, to best-practice standards, with monitoring that means something — certainty for workers and investors alike.</p>
+      </div>
+    </div>
+    <p class="chart-note mt-2 reveal" style="color:var(--mist-dark)">The three current proposals are the first pieces of the protected zone. What's protected protects what's working: clean water and healthy runs are the North's longest-running paycheque.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The values on the line</p>
+      <h2>What these places actually hold</h2>
+      <p class="lede">Not scenery — inventory. The things Northerners name when they explain why this country matters.</p>
+    </div>
+    <div class="grid-4">
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image1.jpg" alt="Sockeye salmon running a shallow river — sample image NHI_Image1"><div class="card-body"><h3>Sockeye, chinook &amp; steelhead</h3><p>The Meziadin runs, the Skeena's steelhead water, the Stikine's kings — food, income, identity.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/kaska-interlude.jpg" alt="Bull moose in northern BC"><div class="card-body"><h3>Moose &amp; caribou country</h3><p>Seven caribou herds range the Kaska plan area; the moose draw sustains families across the North.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image4.jpg" alt="Placeholder for Mount Edziza — sample image NHI_Image4"><div class="card-body"><h3>Volcanoes &amp; obsidian</h3><p>Mount Edziza — Ice Mountain — armed ten millennia of trade with volcanic glass. Before Rome, there was the Stikine.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image5.jpg" alt="Placeholder for berry-picking grounds — sample image NHI_Image5"><div class="card-body"><h3>Berry grounds &amp; cultural sites</h3><p>Harvest slopes, trails, camps and villages — law, memory and food carried across generations.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image6.jpg" alt="Placeholder for a lodge dock — sample image NHI_Image6"><div class="card-body"><h3>Lodges &amp; guiding</h3><p>World-class steelhead lodges and guide territories that bring visitors' dollars into northern towns.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image8.jpg" alt="Placeholder for steelhead water — sample image NHI_Image8"><div class="card-body"><h3>Recreation that lasts</h3><p>Sledding, hunting, fishing, riding, hiking — the access the conservancies keep open.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image9.jpg" alt="Placeholder for grizzly country — sample image NHI_Image9"><div class="card-body"><h3>Grizzly &amp; goat ranges</h3><p>23,000+ ha of mountain-goat winter range in the Meziadin plan area alone.</p></div></div>
+      <div class="card reveal"><img class="card-img" src="img/NHI_Image2.jpg" alt="Spawning salmon — sample image NHI_Image2"><div class="card-body"><h3>Spawning grounds</h3><p>Glacier-fed creeks — 60.8 km of them in the Meziadin plan area — where next decade's runs begin.</p></div></div>
+    </div>
+    <p class="chart-note reveal">Images marked <span class="sample-flag">SAMPLE ONLY</span> carry reference IDs (NHI_Image#) and will be replaced with licensed or campaign photography before launch.</p>
+  </div>
+</section>
+
+<section class="band band-abyss">
+  <div class="container" style="text-align:center">
+    <h2 class="reveal">The clock is real</h2>
+    <div class="grid-4 mt-2" style="max-width:760px;margin-left:auto;margin-right:auto">
+      <div class="live-tile loading" data-live="deadline" style="grid-column:span 2">
+        <span class="live-flag" style="color:var(--sockeye)">THE CLOCK</span>
+        <div class="live-num">–</div>
+        <div class="live-label">until all three comment windows close</div>
+        <div class="live-ts">Aug 4, 2026 · 4 pm PT</div>
+      </div>
+      <div class="live-tile" style="grid-column:span 2">
+        <span class="live-flag">START HERE</span>
+        <div class="live-num" style="font-size:1.05rem;line-height:1.35;font-family:var(--f-body);font-weight:600;color:var(--creme-text)">One hub, three comment pages, zero hunting for the right link.</div>
+        <div class="live-ts"><a href="https://gonorthernheadwaters.ca/" rel="noopener">gonorthernheadwaters.ca →</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container foot-grid">
+    <div class="foot-brand">
+      <img src="img/logo.png" alt="Northern Headwaters" height="52">
+      <p class="foot-tag">PROTECT THE SOURCE. KEEP THE COUNTRY OPEN.</p>
+      <p>The vast and mountainous expanse of northern British Columbia is home to some of the most important headwaters on the continent — the Skeena, the Nass, the Stikine, the Taku, and the Liard. Northern Headwaters is a common-sense effort to protect these living systems while keeping the country open, the water clean, and the jobs long-lasting.</p>
+      <p class="foot-proto">Review prototype &mdash; not the live northernheadwaters.ca</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h3>Explore</h3>
+      <a href="the-case.html">The Case</a>
+      <a href="the-plan.html">The Plan</a>
+      <a href="headwaters-live.html">Headwaters LIVE</a>
+      <a href="explainers.html">Explainers</a>
+      <a href="humans.html">Humans of the North</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a href="resources.html">Resources &amp; Organizations</a>
+      <a href="swag.html">Swag</a>
+      <a href="about.html">About</a>
+    </nav>
+    <nav class="foot-col" aria-label="Act">
+      <h3>Act</h3>
+      <a href="take-action.html">Take Action</a>
+      <a href="https://gonorthernheadwaters.ca/" rel="noopener">Comment on the 3 protected areas</a>
+      <a href="https://buy.stripe.com/cNiaEQ8I21cccySbRo9MY00" rel="noopener">Donate</a>
+      <a href="swag.html">Wear the North</a>
+    </nav>
+    <div class="foot-col">
+      <h3>Contact</h3>
+      <a href="mailto:info@northernheadwaters.ca">info@northernheadwaters.ca</a>
+      <p>3556 Second Avenue<br>Smithers, BC<br>+1 867-467-7575</p>
+      <div class="foot-social">
+        <a href="https://www.facebook.com/NorthernHeadwatersBC" rel="noopener">Facebook</a>
+        <a href="https://www.instagram.com/northernheadwatersbc/" rel="noopener">Instagram</a>
+      </div>
+    </div>
+  </div>
+  <div class="container foot-base">
+    <span>&copy; <span data-year>2026</span> Northern Headwaters Initiative &middot; a project of the <a href="https://stronglivelihoods.ca/" rel="noopener">Strong Livelihoods Society</a></span>
+    <span><a href="about.html#credits">Photo &amp; data credits</a></span>
+  </div>
+</footer>
+<script src="js/site.js"></script>
+<script src="js/vendor/leaflet.js"></script>
+<script src="js/maps.js"></script>
+<script src="js/live-tiles.js"></script>
+</body>
+</html>

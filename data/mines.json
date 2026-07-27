@@ -1,0 +1,138 @@
+{
+  "updated": "2026-07-26",
+  "note": "Locations are approximate (for orientation, not navigation). Every row carries a public source. Stages: operating | approved | development | advanced | exploration | legacy.",
+  "mines": [
+    {
+      "name": "Red Chris",
+      "commodity": "Copper · gold",
+      "owner": "Newmont 70% (operator) · Imperial Metals 30%",
+      "stage": "operating",
+      "stage_label": "Operating — block-cave expansion approved June 2026",
+      "watershed": "Stikine (Todagin Plateau)",
+      "detail": "Open pit since 2015. Block-cave transition approved through the Tahltan consent-based process in June 2026; on the federal Major Projects Office first tranche; ~$500M in federal support announced July 2026. Extends mine life to the mid-2040s.",
+      "source": "https://news.gov.bc.ca/releases/2026MCM0029-000727",
+      "lat": 57.68, "lon": -129.79
+    },
+    {
+      "name": "Brucejack",
+      "commodity": "Gold",
+      "owner": "Newmont",
+      "stage": "operating",
+      "stage_label": "Operating (underground)",
+      "watershed": "Sulphurets country NW of Stewart",
+      "detail": "High-grade underground gold mine, in production since 2017.",
+      "source": "https://operations.newmont.com/canada/brucejack-canada/",
+      "lat": 56.47, "lon": -130.19
+    },
+    {
+      "name": "Dome Mountain",
+      "commodity": "Gold · silver",
+      "owner": "Blue Lagoon Resources",
+      "stage": "operating",
+      "stage_label": "Commercial production May 2026",
+      "watershed": "Skeena (Babine, near Smithers)",
+      "detail": "Small underground operation (~100–150 t/day) that reached commercial production in May 2026.",
+      "source": "https://www.northernminer.com/news/blue-lagoon-hits-commercial-production-at-bc-gold-silver-project/1003891418/",
+      "lat": 54.95, "lon": -126.75
+    },
+    {
+      "name": "Eskay Creek (restart)",
+      "commodity": "Gold · silver",
+      "owner": "Skeena Gold & Silver",
+      "stage": "approved",
+      "stage_label": "Approved Jan 2026 — first consent-agreement mine",
+      "watershed": "Unuk / Iskut",
+      "detail": "The first mine approved under a Declaration Act Section 7 consent agreement with the Tahltan Nation: EA certificate, Mines Act permit and federal approvals, January 2026.",
+      "source": "https://news.gov.bc.ca/releases/2026MCM0008-000078",
+      "lat": 56.64, "lon": -130.45
+    },
+    {
+      "name": "KSM (Kerr-Sulphurets-Mitchell)",
+      "commodity": "Gold · copper",
+      "owner": "Seabridge Gold",
+      "stage": "development",
+      "stage_label": "In development — consultation ordered June 2026",
+      "watershed": "Unuk / Bell-Irving",
+      "detail": "One of the world's largest undeveloped gold-copper projects (47.3 Moz gold, 7.3 Blb copper in reserves; US$1.2B spent). In June 2026 the BC Supreme Court upheld its 'substantially started' designation as reasonable but ordered a 90-day consultation with the Tsetsaut Skii km Lax Ha Nation and EAO reconsideration.",
+      "source": "https://www.newsfilecorp.com/release/300673/BC-Supreme-Court-Decides-Seabridge-Golds-KSM-Substantially-Started-Determination-Reasonable",
+      "lat": 56.52, "lon": -130.28
+    },
+    {
+      "name": "Galore Creek",
+      "commodity": "Copper · gold · silver",
+      "owner": "Teck · Newmont (50:50)",
+      "stage": "advanced",
+      "stage_label": "Pre-development — consent talks underway",
+      "watershed": "Stikine (Galore Creek)",
+      "detail": "Large copper-gold project; BC and the Tahltan opened consent-agreement discussions on its review in 2023. Teck cites ~1,200 direct jobs at build-out.",
+      "source": "https://www.teck.com/operations/canada/projects/galore-creek-project/",
+      "lat": 57.13, "lon": -131.46
+    },
+    {
+      "name": "Schaft Creek",
+      "commodity": "Copper · gold · molybdenum",
+      "owner": "Teck 75% · Copper Fox 25%",
+      "stage": "advanced",
+      "stage_label": "Scoping — pre-feasibility anticipated from 2026",
+      "watershed": "Stikine (Mess Creek)",
+      "detail": "One of Canada's largest undeveloped copper porphyries, at scoping stage.",
+      "source": "https://copperfoxmetals.com/news/copper-fox-provides-update-on-2025-schaft-creek-pr-259879/",
+      "lat": 57.36, "lon": -131.0
+    },
+    {
+      "name": "Turnagain",
+      "commodity": "Nickel · cobalt",
+      "owner": "Giga Metals · Mitsubishi",
+      "stage": "advanced",
+      "stage_label": "Pre-feasibility (2023) — exploration ongoing",
+      "watershed": "Turnagain → Kechika → Liard",
+      "detail": "Large nickel-cobalt project in Kaska country; 2023 PFS outlines ~2.17 Blb of nickel over roughly 30 years.",
+      "source": "https://www.miningnewsnorth.com/story/2026/06/26/northern-neighbors/giga-seeks-copper-in-turnagains-attic/9742.html",
+      "lat": 58.48, "lon": -128.9
+    },
+    {
+      "name": "Kutcho",
+      "commodity": "Copper · zinc · silver · gold",
+      "owner": "Kutcho Copper Corp",
+      "stage": "advanced",
+      "stage_label": "Feasibility — in federal environmental assessment",
+      "watershed": "Kutcho Creek → Turnagain → Liard",
+      "detail": "Feasibility-stage copper-zinc project ~100 km east of Dease Lake, in the federal EA process; drilling in July 2026.",
+      "source": "https://iaac-aeic.gc.ca/050/evaluations/proj/36352?culture=en-CA",
+      "lat": 58.2, "lon": -128.35
+    },
+    {
+      "name": "Cassiar Gold",
+      "commodity": "Gold",
+      "owner": "Cassiar Gold Corp",
+      "stage": "exploration",
+      "stage_label": "Exploration (Taurus deposit)",
+      "watershed": "Liard (Dease)",
+      "detail": "Exploration-stage gold project at the historic Cassiar district.",
+      "source": "https://cassiargold.com/",
+      "lat": 59.28, "lon": -129.8
+    },
+    {
+      "name": "Premier / Cambria (Ascot)",
+      "commodity": "Gold · silver",
+      "owner": "Ascot Resources",
+      "stage": "development",
+      "stage_label": "Restarted 2024, operations suspended — status to confirm",
+      "watershed": "Salmon River (Portland Canal), near Stewart",
+      "detail": "Historic Premier mine restarted in 2024, then suspended operations. Current status marked for team verification before launch.",
+      "source": "https://ascotgold.com/projects/premier-gold-project/",
+      "lat": 56.06, "lon": -130.02
+    },
+    {
+      "name": "Tulsequah Chief",
+      "commodity": "Legacy polymetallic",
+      "owner": "Abandoned (remediation: BC · Taku River Tlingit · Teck)",
+      "stage": "legacy",
+      "stage_label": "Closed — leaking acid drainage for ~65 years",
+      "watershed": "Taku",
+      "detail": "Abandoned in 1957 and leaking acid rock drainage into the Taku watershed ever since. A BC–Taku River Tlingit–Teck remediation framework (2024 MOU) targets a draft cleanup plan in 2026 and a final plan by 2028.",
+      "source": "https://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine",
+      "lat": 58.74, "lon": -133.59
+    }
+  ]
+}

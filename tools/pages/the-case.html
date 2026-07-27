@@ -1,0 +1,266 @@
+<!--META {"title":"The Case — Northern Headwaters","desc":"The whole argument in one scroll: five great rivers, a trillion-dollar rush, what's actually at stake, the Nations at the table, and the plan that keeps the country open.","nav":"case","og":"og-share.jpg","css":["css/case.css","css/vendor/leaflet.css"],"js":["js/case.js","js/vendor/leaflet.js","js/maps.js"]} -->
+
+<section class="hero case-hero">
+  <img class="hero-img" src="img/klap-interlude.jpg" alt="Subalpine river valley in the Klappan, headwaters country">
+  <div class="hero-inner">
+    <p class="kicker">The whole argument, one scroll</p>
+    <h1>Five rivers.<br>One <span class="tint">decision</span>.</h1>
+    <p class="lede">A river gauge doesn't do opinions. It tells you what the country is producing. Here's what the Northern Headwaters produce, what's headed their way — and the plan that keeps both the water and the paycheques flowing.</p>
+  </div>
+  <span class="hero-credit">Photo: Dan Mesec — the Klappan</span>
+</section>
+
+<div class="band-abyss" style="padding:2.5rem 0 1rem">
+<div class="scrolly">
+  <div class="scrolly-fig">
+    <div class="sounder-wrap">
+      <div class="sounder">
+        <div class="sounder-head">
+          <span>SYSTEM MAP · NORTHERN HEADWATERS</span>
+          <span class="sh-status" id="sh-status">FIVE RIVERS · ONE SOURCE</span>
+        </div>
+        <svg id="system-svg" viewBox="0 0 420 500" role="img" aria-label="A stylized planning map of the five headwaters. As the story progresses, mine markers appear across the map, risk flags pulse at legacy sites, consent markers join several mines, and three dashed protection outlines are drawn over the source areas.">
+          <rect x="0" y="0" width="420" height="500" fill="#04141c"/>
+          <g stroke="#12303c" stroke-width="1">
+            <line x1="0" y1="125" x2="420" y2="125"/><line x1="0" y1="250" x2="420" y2="250"/><line x1="0" y1="375" x2="420" y2="375"/>
+            <line x1="105" y1="0" x2="105" y2="500"/><line x1="210" y1="0" x2="210" y2="500"/><line x1="315" y1="0" x2="315" y2="500"/>
+          </g>
+          <text x="8" y="492" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">DIAGRAM — NOT TO SCALE · N ↑</text>
+
+          <g id="rivers">
+            <path d="M228 190 C200 170 160 150 120 110 C90 80 60 65 0 62" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
+            <text x="16" y="52" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">TAKU →SEA</text>
+            <path d="M225 185 C180 190 120 195 60 205 C35 209 15 205 0 200" fill="none" stroke="#2a877e" stroke-width="4" stroke-linecap="round"/>
+            <text x="10" y="190" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">STIKINE</text>
+            <path d="M195 215 C160 260 120 320 95 380 C80 415 70 440 62 470" fill="none" stroke="#2a877e" stroke-width="3.6" stroke-linecap="round"/>
+            <text x="30" y="440" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">NASS</text>
+            <path d="M215 205 C215 265 190 340 175 400 C165 440 155 470 150 500" fill="none" stroke="#2a877e" stroke-width="4.2" stroke-linecap="round"/>
+            <text x="185" y="455" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">SKEENA</text>
+            <path d="M330 95 C355 85 385 72 420 62" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
+            <path d="M330 95 C310 120 300 140 296 160" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
+            <text x="342" y="112" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">LIARD →</text>
+            <path d="M196 214 L232 186 L246 210 L214 236 Z" fill="none" stroke="#c07d1d" stroke-width="1.6"/>
+            <text x="252" y="228" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">THE KLAPPAN</text>
+            <text x="252" y="241" font-family="IBM Plex Mono,monospace" font-size="9" fill="#7c8f9b">3 RIVERS RISE HERE</text>
+          </g>
+
+          <g id="salmon-a">
+            <g fill="#5fc2b8">
+              <circle cx="150" cy="490" r="3"/><circle cx="163" cy="452" r="3"/><circle cx="181" cy="392" r="3"/><circle cx="199" cy="322" r="3"/><circle cx="211" cy="262" r="3"/>
+              <circle cx="66" cy="458" r="3"/><circle cx="86" cy="400" r="3"/><circle cx="108" cy="340" r="3"/><circle cx="140" cy="285" r="3"/>
+              <circle cx="30" cy="203" r="3"/><circle cx="90" cy="199" r="3"/><circle cx="150" cy="192" r="3"/>
+              <circle cx="20" cy="63" r="3"/><circle cx="65" cy="68" r="3"/><circle cx="108" cy="98" r="3"/>
+            </g>
+            <text x="222" y="292" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">● SALMON RUNS</text>
+          </g>
+          <g id="salmon-b" class="off">
+            <g fill="#5fc2b8" opacity=".45">
+              <circle cx="150" cy="490" r="3"/><circle cx="181" cy="392" r="3"/><circle cx="211" cy="262" r="3"/>
+              <circle cx="86" cy="400" r="3"/><circle cx="140" cy="285" r="3"/>
+              <circle cx="90" cy="199" r="3"/>
+              <circle cx="65" cy="68" r="3"/>
+            </g>
+            <text x="222" y="292" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5f8a94">● WHAT'S AT STAKE</text>
+          </g>
+
+          <g id="mines" class="off">
+            <g fill="#e0782e" stroke="#04141c" stroke-width="1">
+              <rect x="245" y="155" width="9" height="9"/><rect x="130" y="260" width="9" height="9"/><rect x="115" y="296" width="9" height="9"/>
+              <rect x="128" y="316" width="9" height="9"/><rect x="55" y="205" width="9" height="9"/><rect x="80" y="175" width="9" height="9"/>
+              <rect x="300" y="145" width="9" height="9"/><rect x="326" y="122" width="9" height="9"/><rect x="228" y="425" width="9" height="9"/>
+              <rect x="336" y="55" width="9" height="9"/><rect x="118" y="338" width="9" height="9"/>
+            </g>
+            <text x="262" y="163" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">■ MINES &amp; PROJECTS</text>
+          </g>
+
+          <g id="rush" class="off">
+            <path d="M410 330 L360 310" stroke="#e0782e" stroke-width="2.4" stroke-dasharray="7 5" fill="none"/>
+            <path d="M360 310 l14 -2 l-7 13 Z" fill="#e0782e"/>
+            <text x="298" y="352" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">FAST-TRACK</text>
+            <text x="298" y="365" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">$1T+ IN THE GROUND</text>
+          </g>
+
+          <g id="risk" class="off">
+            <circle cx="52" cy="80" r="10" fill="none" stroke="#d64545" stroke-width="2" class="pulse-dot"/>
+            <circle cx="52" cy="80" r="17" fill="none" stroke="#d64545" stroke-width="1" class="pulse-dot"/>
+            <text x="30" y="107" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TULSEQUAH: 65 YRS OF ACID</text>
+            <path d="M120 262 q-20 24 -1 56" fill="none" stroke="#d64545" stroke-width="1.6" stroke-dasharray="4 4"/>
+            <text x="30" y="248" font-family="IBM Plex Mono,monospace" font-size="10" fill="#d64545">TAILINGS ABOVE NURSERIES</text>
+          </g>
+
+          <g id="consent" class="off">
+            <g fill="none" stroke="#5fc2b8" stroke-width="2">
+              <path d="M258 152 l7 -7 l7 7 l-7 7 Z"/>
+              <path d="M143 258 l7 -7 l7 7 l-7 7 Z"/>
+            </g>
+            <text x="242" y="140" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">◇ CONSENT AGREEMENTS</text>
+          </g>
+
+          <g id="protect" class="off">
+            <path d="M186 222 L240 178 L262 214 L216 252 Z" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <ellipse cx="112" cy="345" rx="26" ry="34" fill="rgba(192,125,29,.14)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <path d="M270 55 L400 40 L412 130 L330 170 L280 130 Z" fill="rgba(192,125,29,.12)" stroke="#c07d1d" stroke-width="2.5" stroke-dasharray="9 7"/>
+            <text x="88" y="398" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">MEZIADIN</text>
+            <text x="318" y="185" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">DENE K'ÉH KUSĀN</text>
+          </g>
+
+          <g id="tagline" class="off">
+            <text x="210" y="480" text-anchor="middle" font-family="Barlow Condensed,sans-serif" font-weight="700" font-size="20" letter-spacing="2" fill="#f2efe3">PROTECT THE SOURCE. KEEP THE COUNTRY OPEN.</text>
+          </g>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <div class="scrolly-steps">
+    <section class="step" data-ch="1">
+      <p class="chnum">Chapter 1 — The engine</p>
+      <h2>Five rivers begin here</h2>
+      <p>The Skeena. The Nass. The Stikine. The Taku. The Liard. Five of the continent's great river systems rise in the mountains of northern British Columbia — and three of them, remarkably, rise in one high basin the Tahltan call the Klappan. National Geographic's writers reached for "the Serengeti of Canada." People here just call it the country.</p>
+      <p>These are cold factories of salmon. The Meziadin — 3% of the Nass watershed — produces roughly 75% of its sockeye and feeds an Indigenous subsistence fishery worth close to $4&nbsp;million a year. The Skeena's chinook and steelhead, the Stikine's kings, the moose and caribou herds of the Kaska country: everything downstream draws from what starts up here.</p>
+    </section>
+
+    <section class="step" data-ch="2">
+      <p class="chnum">Chapter 2 — The rush</p>
+      <h2>Then the money headed north</h2>
+      <p>BC's Geological Survey has been cited for as much as <strong>$1&nbsp;trillion or more</strong> in mineral wealth under the Golden Triangle, and roughly <strong>$20&nbsp;billion in mining investment</strong> is planned or underway across the region. Ottawa's new Major Projects Office put the Red Chris expansion in its first tranche of "national interest" projects, then backed it with <strong>~$500&nbsp;million</strong>; BC's Bill 15 gives cabinet its own fast-track lever.</p>
+      <p>Count what's actually on the board: our ledger below tracks <strong>a dozen mines and major projects</strong> — operating, approved, or advancing — across the five watersheds. This isn't a maybe. The rush is here.</p>
+      <div class="statline">
+        <div><strong>$1T+</strong><span>cited mineral wealth, Golden Triangle</span></div>
+        <div><strong>~$20B</strong><span>mining investment planned or underway</span></div>
+        <div><strong>12</strong><span>projects on the ledger below</span></div>
+      </div>
+    </section>
+
+    <section class="step" data-ch="3">
+      <p class="chnum">Chapter 3 — The stakes</p>
+      <h2>Some things don't come back</h2>
+      <p>Nobody up here needs a lecture about mining — it's a neighbour's paycheque. The question is <em>where</em>, and what happens when it goes wrong in the wrong place. The Tulsequah Chief mine closed in 1957 and has leaked acid into the Taku watershed for <strong>about 65 years</strong> — the cleanup is still being planned today, with a draft targeted for 2026.</p>
+      <p>Now scale that risk against what's on the table: tailings and roads uphill of the creeks that produce three-quarters of the Nass sockeye; the winter ranges that hold 23,000&nbsp;hectares of mountain goat habitat in the Meziadin plan area alone; some of the best intact moose and caribou country left in the province. A mine has a closing date. A lost salmon run doesn't reopen.</p>
+    </section>
+
+    <section class="step" data-ch="4">
+      <p class="chnum">Chapter 4 — The table</p>
+      <h2>The Nations are already at the table — on both sides of the ledger</h2>
+      <p>Here's the part the shouting matches skip: the Nations of this region are not anti-mining, and the protection proposals are not anti-jobs. The Tahltan signed Canada's first consent-based decision-making agreements under the Declaration Act — and used them to approve the Eskay Creek restart in January 2026 and the Red Chris expansion in June. The Nisga'a Nation majority-owns <strong>Nations Royalty</strong>, the world's first Indigenous-majority public mining-royalty company.</p>
+      <p>The same governments and Nations advancing the conservancies just approved those mines. That's not a contradiction — that's what a plan looks like: development where it's wanted, protection where it counts.</p>
+    </section>
+
+    <section class="step" data-ch="5">
+      <p class="chnum">Chapter 5 — The plan</p>
+      <h2>Zone it. Don't trade it away.</h2>
+      <p>Three protected areas are proposed right now: the <strong>Meziadin</strong> (a ~47,000&nbsp;ha expansion of the Hanna-Tintina Conservancy, backed by the Gitanyow, the Nisga'a and BC), the <strong>Klappan</strong> (a 302,980&nbsp;ha conservancy at the Sacred Headwaters, recommended by the BC–Tahltan Klappan Management Board), and <strong>Dene K'éh Kusān</strong> (a 3.07-million-ha conservancy proposed by the Kaska, 92% of it already inside the Muskwa-Kechika Management Area).</p>
+      <p>In every one of them: hunting, fishing, trapping, snowmobiling, guiding and recreation stay in. Industrial mining, logging, and oil and gas stay out. Existing tenures in the Meziadin would be retired — and ~89% of the surrounding planning area stays open to exploration. Protection and development, zoned — not traded off wholesale.</p>
+    </section>
+
+    <section class="step" data-ch="6">
+      <p class="chnum">Chapter 6 — The ask</p>
+      <h2>Say it on the record</h2>
+      <p>All three proposals are open for public comment until <strong>August 4, 2026 at 4&nbsp;pm</strong>. Decisions like this get finished when government can see the support is real — on the record, from real people who work, hunt, fish and guide this country. Two honest sentences beat an essay.</p>
+      <div class="hero-actions">
+        <a class="btn btn-ochre" href="https://gonorthernheadwaters.ca/" rel="noopener">Comment on all three</a>
+        <a class="btn btn-ghost" href="the-plan.html">See the Plan</a>
+      </div>
+      <p class="mt-2"><a href="headwaters-live.html">Or watch the rivers live on Headwaters LIVE →</a></p>
+    </section>
+  </div>
+</div>
+</div>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The ledger</p>
+      <h2>Every mine on the map, sourced</h2>
+      <p class="lede">No rumours, no round numbers from a podium — the projects, their owners, and exactly where they stand. Click any marker. Locations are approximate; every entry links its public source.</p>
+    </div>
+    <div id="mines-map" style="height:520px;border-radius:var(--r-lg);box-shadow:var(--shadow-1);border:1px solid var(--line)" aria-label="Interactive map of mines and major projects across the Northern Headwaters region"></div>
+    <div class="chip-row" id="mine-chips"></div>
+    <p class="chart-note" id="mines-note">Reference map, not a legal document. Project stages compiled July 2026 from BC Gov, federal and company disclosures — each marker links its source. Protected areas shown faintly for context (BC Data Catalogue). <strong>Review cadence: this ledger is checked and refreshed with each site review.</strong></p>
+  </div>
+</section>
+
+<section class="band band-creme">
+  <div class="container-text">
+    <div class="sec-head reveal">
+      <p class="kicker">Straight answers</p>
+      <h2>What the rumours get wrong</h2>
+      <p class="lede">You'll hear confident claims about these proposals at the coffee shop and in your feed. Here's what the documents actually say — sources linked, every time.</p>
+    </div>
+
+    <details class="acc reveal">
+      <summary>"We'll lose hunting and fishing access."</summary>
+      <div class="acc-body">
+        <p>No. These are <strong>conservancies</strong>, not park lockups — a BC designation created precisely because parks were too rigid. The Klappan recommendation explicitly keeps hunting, fishing, snowmobiling, off-road vehicle use, guide-outfitting and trapping. Dene K'éh Kusān grandfathers guide-outfitting and commercial trapping and is framed by the Kaska as open country for hikers, campers, anglers and hunters. The Meziadin plan lists hunting, fishing, snowmobiling, heli-skiing and tourism as continuing uses.</p>
+        <p>What's excluded is industrial: mining, commercial logging, oil and gas, large hydro. If your worry is access, the bigger long-term threat is what industrial build-out does to the game and the water — not the conservancy line. Sources: <a href="https://engage.gov.bc.ca/app/uploads/sites/121/2026/06/Klappan_Plan_Implementation_Recommendations_for_Zone_A-Sacred_Headwaters_and_CLPA.pdf" rel="noopener">Klappan implementation recommendations</a>, <a href="https://denakayeh.com/" rel="noopener">Dena Kayeh Institute</a>, <a href="https://gonorthernheadwaters.ca/Meziadin.dc.html" rel="noopener">Meziadin explainer</a>.</p>
+      </div>
+    </details>
+
+    <details class="acc reveal">
+      <summary>"This is a land grab — like that Cowichan court case."</summary>
+      <div class="acc-body">
+        <p>Different thing entirely. The <em>Cowichan</em> decision (2025, under appeal by BC, Canada, Richmond and others) concerned Aboriginal title to specific historic village lands on Lulu Island in Richmond. The court did not strip any private landowner's title, and Cowichan Tribes issued a formal statement that the case "has not and does not challenge" private titles. Whatever the appeal courts decide, it's about title on the Fraser delta — not about these conservancies.</p>
+        <p>The three northern proposals are on <strong>Crown land</strong>, advanced through a public provincial process — the same one asking for your comment right now. Co-management is not an ownership transfer, and a conservancy is not a court case. Sources: <a href="https://www.mandellpinder.com/cowichan-tribes-v-canada-attorney-general-2025-bcsc-1490-case-summary/" rel="noopener">case summary</a>, <a href="https://www.aptnnews.ca/national-news/cowichan-tribes-issues-statement-to-clear-up-misinformation-surrounding-its-aboriginal-title-case/" rel="noopener">Cowichan Tribes statement</a>.</p>
+      </div>
+    </details>
+
+    <details class="acc reveal">
+      <summary>"It'll kill mining and the jobs that come with it."</summary>
+      <div class="acc-body">
+        <p>The numbers say otherwise. The same month these proposals opened for comment, BC approved the Red Chris block-cave expansion and Ottawa backed it with ~$500&nbsp;million; Eskay Creek was fully approved in January. Dene K'éh Kusān covers about 3.07&nbsp;million of a 9.9-million-hectare planning area — and the plan explicitly updates the Dease-Liard area <em>outside</em> the conservancy to enable exploration in targeted high-potential areas with streamlined permitting. Retiring the Meziadin's 33 tenures leaves ~89% of that planning region open.</p>
+        <p>Mining keeps happening here — with more certainty about where. Certainty is what investment actually prices. Sources: <a href="https://news.gov.bc.ca/releases/2026MCM0029-000727" rel="noopener">Red Chris approval</a>, <a href="https://news.gov.bc.ca/releases/2026WLRS0031-000781" rel="noopener">BC land-use release</a>.</p>
+      </div>
+    </details>
+
+    <details class="acc reveal">
+      <summary>"Nobody up north asked for this."</summary>
+      <div class="acc-body">
+        <p>These proposals were built north of Terrace, not in a Vancouver office: seven years of BC–Tahltan planning behind the Klappan; the Gitanyow Hereditary Chiefs and Nisga'a Lisims Government jointly recommending the Meziadin; the Kaska Nations authoring Dene K'éh Kusān and cutting its boundary by more than 20% through engagement with trappers, guides and industry. The open-comment window — closing Aug 4 at 4&nbsp;pm — is the north's chance to finish what it started.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="band band-sand sources-band">
+  <div class="container-text">
+    <h2 class="reveal" id="sources">Sources &amp; methods</h2>
+    <p class="txt-slate reveal">Every number above, with its public source. Find an error? Tell us: <a href="mailto:info@northernheadwaters.ca">info@northernheadwaters.ca</a>.</p>
+    <details class="acc reveal">
+      <summary>The rivers, the salmon, and the Meziadin numbers</summary>
+      <div class="acc-body">
+        <ol>
+          <li>Meziadin = ~3% of the Nass watershed, ~75% of its sockeye; ~$4M/yr subsistence fishery; 47,000-ha Hanna-Tintina expansion; 33 tenures (~12,343 ha) would be retired; 23,000+ ha mountain goat winter range — <a href="https://engage.gov.bc.ca/govtogetherbc/engagement/meziadin-river-watershed-salmon-conservation-plan/" rel="noopener">BC Meziadin engagement</a> and <a href="https://www.gitanyowchiefs.ca/news/northwestern-land-use-planning-at-next-engagement-stage-public-invited-to-learn-more-weigh-in-on-three-planning-projects-in-northwestern-b-c/" rel="noopener">Gitanyow Hereditary Chiefs</a>.</li>
+          <li>Klappan: 302,980-ha conservancy recommendation (Zone A 286,580 ha + former coal-licence area 16,400 ha); 2019 Klappan Plan; uses kept in/out — <a href="https://engage.gov.bc.ca/govtogetherbc/engagement/klappan-plan/" rel="noopener">BC Klappan engagement</a>.</li>
+          <li>Dene K'éh Kusān: 3,065,128-ha proposed conservancy in a 9.9M-ha planning area; &gt;92% within the Muskwa-Kechika; boundary reduced &gt;20%; Dease-Liard SRMP updated to enable targeted exploration — <a href="https://news.gov.bc.ca/releases/2026WLRS0031-000781" rel="noopener">BC Gov news release, July 2, 2026</a> and <a href="https://engage.gov.bc.ca/govtogetherbc/engagement/kaska-land-use-planning/" rel="noopener">Kaska–BC engagement</a>.</li>
+          <li>"Serengeti of Canada" — National Geographic's characterization of the Sacred Headwaters region (Wade Davis).</li>
+          <li>Mount Edziza obsidian: ~10,000 years of tool-making and trade — <a href="https://bcparks.ca/mount-edziza-park/" rel="noopener">BC Parks</a>.</li>
+        </ol>
+      </div>
+    </details>
+    <details class="acc reveal">
+      <summary>The money and the fast-track</summary>
+      <div class="acc-body">
+        <ol>
+          <li>Mineral-wealth estimates: The Washington Post's Golden Triangle graphic (source: British Columbia Geological Survey) put it at <strong>$1&nbsp;trillion</strong>; the campaign has cited the BC Geological Survey at <strong>$1.28&nbsp;trillion</strong>. This page says "$1&nbsp;trillion or more." <span class="sample-flag">TEAM: reconcile the two figures before launch</span></li>
+          <li>~$20B in mining investment planned or underway — campaign-cleared figure (2026 Narrative Branding Strategy); consistent with industry estimates of ~C$20B capex across advanced Golden Triangle projects (<a href="https://www.miningnewsnorth.com/story/2026/01/15/mining-explorers-2025/major-copper-shift-in-bcs-golden-triangle/9468.html" rel="noopener">North of 60 Mining News</a>).</li>
+          <li>Bill C-5 / Building Canada Act and the Major Projects Office; Red Chris in first tranche (Sept 2025) — <a href="https://www.wcel.org/publication/what-you-need-know-about-bill-c-5-building-canada-act-legal-brief" rel="noopener">WCEL legal brief</a>, <a href="https://www.miningweekly.com/article/canada-unveils-first-projects-under-new-major-projects-office-aims-to-fast-track-c60bn-in-investment-2025-09-12" rel="noopener">Mining Weekly</a>.</li>
+          <li>~$500M federal support for Red Chris, July 2026 — <a href="https://www.miningweekly.com/article/newmont-imperial-metals-bags-500m-canadian-gov-support-for-red-chris-expansion-2026-07-03" rel="noopener">Mining Weekly</a>.</li>
+          <li>BC Bill 15 (Infrastructure Projects Act) and expedited permitting — <a href="https://thetyee.ca/News/2026/03/18/BC-Plan-Fast-Track-Environmental-Assessments/" rel="noopener">The Tyee</a>.</li>
+        </ol>
+      </div>
+    </details>
+    <details class="acc reveal">
+      <summary>The stakes and the table</summary>
+      <div class="acc-body">
+        <ol>
+          <li>Tulsequah Chief: acid drainage since the 1950s (~65+ years); 2024 MOU (BC, Taku River Tlingit, Teck); draft remediation plan targeted 2026, final by 2028 — <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine" rel="noopener">BC Gov</a>, <a href="https://thenarwhal.ca/tulsequah-chief-mine-clean-up/" rel="noopener">The Narwhal</a>.</li>
+          <li>Tahltan consent agreements (Declaration Act s.7): Eskay Creek approved Jan 2026 — the first consent-agreement mine; Red Chris block cave approved June 2026 — <a href="https://news.gov.bc.ca/releases/2026MCM0008-000078" rel="noopener">BC Gov (Eskay)</a>, <a href="https://news.gov.bc.ca/releases/2026MCM0029-000727" rel="noopener">BC Gov (Red Chris)</a>.</li>
+          <li>Nations Royalty — Nisga'a Nation ~77% ownership; royalties on Brucejack, KSM, Premier/Red Mountain, Kitsault — <a href="https://www.cbc.ca/news/canada/british-columbia/nations-royalty-mining-company-nisga-a-nation-bc-canada-1.7386290" rel="noopener">CBC</a>.</li>
+          <li>KSM consultation ordered (Tsetsaut Skii km Lax Ha), June 2026 — <a href="https://www.newsfilecorp.com/release/300673/BC-Supreme-Court-Decides-Seabridge-Golds-KSM-Substantially-Started-Determination-Reasonable" rel="noopener">Seabridge release</a>.</li>
+          <li>Cowichan decision and misinformation — <a href="https://www.mandellpinder.com/cowichan-tribes-v-canada-attorney-general-2025-bcsc-1490-case-summary/" rel="noopener">Mandell Pinder summary</a>, <a href="https://www.aptnnews.ca/national-news/cowichan-tribes-issues-statement-to-clear-up-misinformation-surrounding-its-aboriginal-title-case/" rel="noopener">APTN</a>, <a href="https://policyoptions.irpp.org/2025/12/cowichan-land-ruling-explained/" rel="noopener">Policy Options explainer</a>.</li>
+        </ol>
+      </div>
+    </details>
+    <p class="small txt-slate mt-2 reveal">Register note: this page uses only publicly released figures with named sources. The system map is an illustration of the argument, not a data plot. Mineral tenure retirement is described per the planning summaries' own operative wording.</p>
+  </div>
+</section>

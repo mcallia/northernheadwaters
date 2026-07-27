@@ -1,0 +1,54 @@
+{
+  "updated": "2026-07-26",
+  "review_note": "STATUS BOARD — review weekly until Aug 4, 2026, then monthly. Every field must match the official engagement pages before publishing an update.",
+  "areas": [
+    {
+      "id": "meziadin",
+      "name": "The Meziadin",
+      "official": "Meziadin River Watershed Salmon Habitat Conservation Planning",
+      "territory": "Gitanyow territory · Nass headwaters",
+      "partners": "Gitanyow Hereditary Chiefs · Nisg̱a'a Lisims Government · Province of BC",
+      "mechanism": "Proposed ~47,000 ha westward expansion of the Hanna-Tintina Conservancy (24,260 ha, est. 2013)",
+      "status": "Public comment open — closes Aug 4, 2026, 4 pm PT",
+      "stage": "comment",
+      "next": "Engagement continues into fall 2026; final recommendation goes to cabinet",
+      "facts": "3% of the Nass watershed by area, roughly 75% of its sockeye. 33 mineral tenures (~12,343 ha) would be retired; ~89% of the Nass South planning area stays open to exploration.",
+      "gov_url": "https://www.planninginpartnership.ca/p/666765246b56900039b8e007/commenting",
+      "info_url": "https://gonorthernheadwaters.ca/Meziadin.dc.html",
+      "tour_url": "https://gonorthernheadwaters.ca/Meziadin-tour.html",
+      "lat": 56.17, "lon": -129.72, "ha": 47000
+    },
+    {
+      "id": "klappan",
+      "name": "The Klappan · Sacred Headwaters",
+      "official": "Klappan Plan implementation — Zone A + former coal-licence area",
+      "territory": "Tahltan territory · where the Skeena, Nass and Stikine rise",
+      "partners": "Tahltan Central Government · Province of BC (Klappan Management Board)",
+      "mechanism": "Proposed 302,980 ha Park Act conservancy: Zone A (286,580 ha) plus the former Fortune Minerals coal-licence area (16,400 ha)",
+      "status": "Public comment open — closes Aug 4, 2026, 4 pm PT",
+      "stage": "comment",
+      "next": "Final decision by the BC and Tahltan governments after the comment window",
+      "facts": "Built on the 2019 BC–Tahltan Klappan Plan and the Tahltan Stewardship Plan 'Keep Our Trails Open'. Hunting, fishing, snowmobiling, guide-outfitting and trapping stay in; industrial mining, logging, oil and gas are out.",
+      "gov_url": "https://feedback.engage.gov.bc.ca/682169",
+      "info_url": "https://gonorthernheadwaters.ca/Klappan.dc.html",
+      "tour_url": "https://gonorthernheadwaters.ca/Klappan-tour.html",
+      "lat": 57.35, "lon": -128.85, "ha": 302980
+    },
+    {
+      "id": "kaska",
+      "name": "Dene K'éh Kusān",
+      "official": "Kaska–BC Land-Use Planning — draft plan",
+      "territory": "Kaska Dena territory · Liard headwaters and the Kechika",
+      "partners": "Kaska First Nations · Province of BC",
+      "mechanism": "Proposed 3,065,128 ha conservancy within the 9.9-million-ha Kaska–BC planning area",
+      "status": "Public comment open — closes Aug 4, 2026, 4 pm PT",
+      "stage": "comment",
+      "next": "Further engagement follows the comment window before cabinet decisions",
+      "facts": "'Always Will Be There' in the Kaska language. More than 92% already sits inside the Muskwa-Kechika Management Area; the Dease-Liard plan outside it would be updated to enable exploration in targeted areas. Guide-outfitting and trapping are grandfathered.",
+      "gov_url": "https://feedback.engage.gov.bc.ca/911662",
+      "info_url": "https://gonorthernheadwaters.ca/Kaska.dc.html",
+      "tour_url": "https://gonorthernheadwaters.ca/Kaska-tour.html",
+      "lat": 59.0, "lon": -127.2, "ha": 3065128
+    }
+  ]
+}

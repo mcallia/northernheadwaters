@@ -1,0 +1,75 @@
+<!--META {"gate":"skip"} -->
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Northern Headwaters — Review Preview</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="stylesheet" href="css/fonts.css">
+<style>
+  :root{--navy:#16324c;--abyss:#0e2237;--teal:#2a877e;--ochre:#c07d1d;--creme:#f2efe3;--mist:#a8bdb4;--line:#254a63}
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:
+    radial-gradient(ellipse 90% 70% at 50% -20%,rgba(42,135,126,.30),transparent 60%),var(--abyss);
+    font-family:"Barlow",sans-serif;color:var(--creme);padding:1.2rem}
+  .gate{width:min(440px,94vw);text-align:center}
+  .gate img{height:130px;margin:0 auto 1.4rem;display:block}
+  h1{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:1.7rem;letter-spacing:.06em;text-transform:uppercase;margin:0 0 .4rem}
+  p{color:var(--mist);font-size:.98rem;line-height:1.55;margin:0 0 1.6rem}
+  form{display:flex;gap:.6rem}
+  input{flex:1;background:var(--navy);border:1px solid var(--line);border-radius:8px;color:var(--creme);
+    font-family:"IBM Plex Mono",monospace;font-size:1rem;padding:.75rem 1rem;min-width:0}
+  input:focus{outline:2px solid var(--teal);outline-offset:1px;border-color:transparent}
+  button{background:var(--ochre);border:0;border-radius:8px;color:#fff;cursor:pointer;
+    font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:1.1rem;letter-spacing:.07em;
+    text-transform:uppercase;padding:.75rem 1.3rem}
+  button:hover{background:#9c6210}
+  .err{color:#e0782e;font-size:.9rem;min-height:1.4em;margin-top:.8rem;font-family:"IBM Plex Mono",monospace}
+  .foot{margin-top:2.4rem;font-size:.78rem;color:var(--mist);font-family:"IBM Plex Mono",monospace;letter-spacing:.04em}
+  .pulse{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--teal);margin-right:.45rem;
+    animation:pulse 1.8s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(42,135,126,.5)}70%{box-shadow:0 0 0 10px rgba(42,135,126,0)}100%{box-shadow:0 0 0 0 rgba(42,135,126,0)}}
+  @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+</head>
+<body>
+<main class="gate">
+  <img src="img/logo.png" alt="Northern Headwaters">
+  <h1><span class="pulse" aria-hidden="true"></span>Site redesign preview</h1>
+  <p>This is a private prototype of the new northernheadwaters.ca, prepared for team review. Enter the review password to continue.</p>
+  <form id="f" autocomplete="off">
+    <label for="pw" style="position:absolute;left:-9999px">Review password</label>
+    <input id="pw" type="password" placeholder="password" autofocus>
+    <button type="submit">Enter</button>
+  </form>
+  <div class="err" id="err" role="alert" aria-live="polite"></div>
+  <p class="foot">NORTHERN HEADWATERS · REVIEW BUILD · <a href="https://northernheadwaters.ca" style="color:var(--mist)">current live site ↗</a></p>
+</main>
+<script>
+(function () {
+  var HASH = "732d6e063020c2285fb12990972ffdfefe23629e5a54adb6f2a3d3abf6ef085a";
+  try { if (sessionStorage.getItem("nhi_gate") === "ok") location.replace("home.html"); } catch (e) {}
+  async function sha256(s) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+    return Array.from(new Uint8Array(buf)).map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+  document.getElementById("f").addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var v = document.getElementById("pw").value.trim().toLowerCase();
+    sha256(v).then(function (h) {
+      if (h === HASH) {
+        try { sessionStorage.setItem("nhi_gate", "ok"); } catch (e) {}
+        location.replace("home.html");
+      } else {
+        document.getElementById("err").textContent = "That's not it — check the password and try again.";
+      }
+    }).catch(function () {
+      document.getElementById("err").textContent = "This preview needs a modern browser (secure context).";
+    });
+  });
+})();
+</script>
+</body>
+</html>
