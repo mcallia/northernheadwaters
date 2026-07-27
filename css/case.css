@@ -26,6 +26,9 @@
 /* system-map groups fade in/out per chapter (case.js toggles .off) */
 #system-svg g{transition:opacity 1.1s var(--ease)}
 #system-svg g.off{opacity:0}
+/* Legend rows that swap between chapters share one slot, so they must hand off
+   instantly — a fading label would overprint the one replacing it. */
+#system-svg g.off .legend-swap{display:none}
 #system-svg .pulse-dot{animation:syspulse 2.4s infinite}
 @keyframes syspulse{0%,100%{opacity:.9}50%{opacity:.35}}
 @media (prefers-reduced-motion:reduce){#system-svg .pulse-dot{animation:none}}
