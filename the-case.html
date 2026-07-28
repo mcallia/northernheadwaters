@@ -70,7 +70,7 @@
           <span>SYSTEM MAP · NORTHERN HEADWATERS</span>
           <span class="sh-status" id="sh-status">FIVE RIVERS · ONE SOURCE</span>
         </div>
-        <svg id="system-svg" viewBox="0 0 420 500" role="img" aria-label="A stylized planning map of the five headwaters, oriented like the real region: the Taku rising in the far northwest, the Liard system with the Dease and Kechika in the northeast, and the Stikine arcing from the Spatsizi country north of the Klappan basin, where the Skeena and Nass also rise. As the story progresses, mine markers appear at their approximate real locations, risk flags pulse at legacy sites, consent markers join several mines, and three dashed protection outlines are drawn.">
+        <svg id="system-svg" viewBox="0 0 420 500" role="img" aria-label="A stylized planning map of the five headwaters, oriented like the real region: the Taku rising in the far northwest, the Liard system with the Dease and Kechika in the northeast — carrying a single hollow marker for the chum salmon documented in its BC reach below the Grand Canyon — and the Stikine arcing from the Spatsizi country north of the Klappan basin, where the Skeena and Nass also rise. As the story progresses, mine markers appear at their approximate real locations, risk flags pulse at legacy sites, consent markers join several mines, and three dashed protection outlines are drawn.">
           <rect x="0" y="0" width="420" height="500" fill="#04141c"/>
           <g stroke="#12303c" stroke-width="1">
             <line x1="0" y1="125" x2="420" y2="125"/><line x1="0" y1="250" x2="420" y2="250"/><line x1="0" y1="375" x2="420" y2="375"/>
@@ -97,17 +97,27 @@
             <path d="M218 268 C200 305 175 340 150 375 C132 400 116 430 106 470 C104 480 103 490 102 500" fill="none" stroke="#2a877e" stroke-width="3.6" stroke-linecap="round"/>
             <text x="66" y="458" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">NASS</text>
             <!-- Liard: in from the Yukon, east toward the Mackenzie; Dease and Kechika feed it.
-                 Arctic drainage — no salmon dots up here. -->
+                 Arctic (Mackenzie) drainage, but NOT salmon-free: chum are documented in the BC
+                 reach below the Grand Canyon of the Liard. Hollow dot, deliberately not filled —
+                 a few hundred fish and no spawning site ever located, so it must not read like a
+                 Skeena or Nass run. The canyon is the presumed upstream limit, so the Dease and
+                 Kechika carry no dot: zero records in BC's fish observations dataset. Never write
+                 "upper Liard" or "lower Liard" in copy — the literature uses both for this reach.
+                 See Sources & methods. -->
             <path d="M330 25 C345 45 362 62 385 75 C400 82 412 88 420 92" fill="none" stroke="#2a877e" stroke-width="3.4" stroke-linecap="round"/>
             <path d="M205 120 C240 105 275 92 310 72 C322 65 334 52 346 44" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
-            <path d="M352 205 C360 170 372 135 388 105 C392 98 398 91 404 86" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
+            <path d="M352 205 C358 168 368 130 380 98 C383 90 386 83 389 77" fill="none" stroke="#2a877e" stroke-width="2.2" stroke-linecap="round"/>
             <text x="370" y="38" font-family="IBM Plex Mono,monospace" font-size="11" fill="#5fc2b8">LIARD →</text>
             <text x="222" y="96" font-family="IBM Plex Mono,monospace" font-size="9" fill="#3d6273">DEASE</text>
             <text x="356" y="152" font-family="IBM Plex Mono,monospace" font-size="9" fill="#6b8492">KECHIKA</text>
+            <!-- chum: BC reach of the Liard, below the Grand Canyon (see legend) -->
+            <circle cx="406" cy="85" r="3.4" fill="none" stroke="#5fc2b8" stroke-width="1.7"/>
             <!-- The Klappan: the high basin at the three-way divide -->
             <path d="M215 252 L232 232 L252 248 L236 270 Z" fill="none" stroke="#c07d1d" stroke-width="1.6"/>
             <text x="258" y="240" font-family="IBM Plex Mono,monospace" font-size="10" fill="#c9a05a">THE KLAPPAN</text>
             <text x="258" y="253" font-family="IBM Plex Mono,monospace" font-size="9" fill="#7c8f9b">SKEENA · NASS · STIKINE</text>
+            <text x="268" y="358" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">○ CHUM — LIARD MAINSTEM,</text>
+            <text x="278" y="370" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">BELOW THE GRAND CANYON</text>
           </g>
 
           <g id="salmon-a">
@@ -117,7 +127,7 @@
               <circle cx="118" cy="190" r="3"/><circle cx="90" cy="214" r="3"/><circle cx="60" cy="242" r="3"/>
               <circle cx="88" cy="92" r="3"/><circle cx="62" cy="108" r="3"/><circle cx="34" cy="128" r="3"/>
             </g>
-            <text class="legend-swap" x="268" y="345" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">● SALMON RUNS</text>
+            <text class="legend-swap" x="268" y="345" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">● PACIFIC SALMON RUNS</text>
           </g>
           <g id="salmon-b" class="off">
             <g fill="#5fc2b8" opacity=".45">
@@ -143,7 +153,7 @@
               <rect x="260" y="86" width="9" height="9"/><!-- Cassiar -->
               <rect x="34" y="116" width="9" height="9"/><!-- Tulsequah Chief -->
             </g>
-            <text x="268" y="360" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">■ MINES &amp; PROJECTS</text>
+            <text x="268" y="384" font-family="IBM Plex Mono,monospace" font-size="10" fill="#e0782e">■ MINES &amp; PROJECTS</text>
           </g>
 
           <g id="rush" class="off">
@@ -167,7 +177,7 @@
             </g>
             <text x="146" y="181" font-family="IBM Plex Mono,monospace" font-size="9" fill="#5fc2b8">RED CHRIS</text>
             <text x="108" y="285" font-family="IBM Plex Mono,monospace" font-size="9" fill="#5fc2b8">ESKAY CK</text>
-            <text x="268" y="375" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">◇ CONSENT AGREEMENTS</text>
+            <text x="268" y="399" font-family="IBM Plex Mono,monospace" font-size="10" fill="#5fc2b8">◇ CONSENT AGREEMENTS</text>
           </g>
 
           <g id="protect" class="off">
@@ -195,7 +205,7 @@
       <p class="chnum">Chapter 1 — The engine</p>
       <h2>Five rivers begin here</h2>
       <p>The Skeena. The Nass. The Stikine. The Taku. The Liard. Five of the continent's great river systems rise in the mountains of northern British Columbia — and three of them, remarkably, rise in one high basin the Tahltan call the Klappan. National Geographic's writers reached for "the Serengeti of Canada." People here just call it the country.</p>
-      <p>These are cold factories of salmon. The Meziadin — 3% of the Nass watershed — produces roughly 75% of its sockeye and feeds an Indigenous subsistence fishery worth close to $4&nbsp;million a year. The Skeena's chinook and steelhead, the Stikine's kings, the moose and caribou herds of the Kaska country: everything downstream draws from what starts up here.</p>
+      <p>These are cold factories of salmon. The Meziadin — 3% of the Nass watershed — produces roughly 75% of its sockeye and feeds an Indigenous subsistence fishery worth close to $4&nbsp;million a year. The Skeena's chinook and steelhead, the Stikine's sockeye and chinook, the moose and caribou herds of the Kaska country, and the chum that run fifteen hundred kilometres from the Arctic Ocean, up the Mackenzie and into the BC reach of the Liard: everything downstream draws from what starts up here.</p>
     </section>
 
     <section class="step" data-ch="2">
@@ -331,6 +341,7 @@
       <summary>The stakes and the table</summary>
       <div class="acc-body">
         <ol>
+          <li>Salmon in the Liard (Arctic drainage): chum are documented in the BC reach of the Liard below the Grand Canyon — first reported by McLeod &amp; O'Neil (1983) from 1979–80 catches; reviewed in Stephenson, <a href="https://pubs.aina.ucalgary.ca/arctic/arctic59-1-37.pdf" rel="noopener">"A Review of the Occurrence of Pacific Salmon in the Canadian Western Arctic," <em>Arctic</em> 59(1)</a>; genetics and the 2000–01 field search in <a href="https://www.muskwa-kechika.com/uploads/174/Liard_R_Chum_Salmon_Report__Apr_2006_.pdf" rel="noopener">Hamilton, Shrimpton &amp; Heath, <em>Chum Salmon in the Mackenzie–Liard River</em> (Muskwa-Kechika Management Area, 2006)</a>; chum listed among sport fish at <a href="https://bcparks.ca/liard-river-corridor-protected-area/" rel="noopener">BC Parks, Liard River Corridor</a>; downstream harvest at Fort Liard and Fort Simpson per the <a href="https://www.gov.nt.ca/species-search/oncorhynchus-keta" rel="noopener">GNWT species profile</a>. Two caveats we keep on the record: <strong>no spawning site has ever been located</strong> anywhere in the Liard, and published counts for the 1979–80 catches disagree (246 vs 193). There are no salmon records for the Dease or the Kechika in <a href="https://open.canada.ca/data/en/dataset/aca81811-4b08-4382-9af7-204e0b9d2448" rel="noopener">BC's fish observations dataset</a>, and no pink salmon record anywhere in the Liard — the upstream-most Mackenzie pink is at Fort Good Hope, NWT, far downstream of where the Liard enters.</li>
           <li>Tulsequah Chief: acid drainage since 1957 (~69 years); 2024 MOU (BC, Taku River Tlingit, Teck); draft remediation plan targeted 2026, final by 2028 — <a href="https://www2.gov.bc.ca/gov/content/environment/air-land-water/site-permitting-compliance/tulsequah-mine" rel="noopener">BC Gov</a>, <a href="https://thenarwhal.ca/tulsequah-chief-mine-clean-up/" rel="noopener">The Narwhal</a>.</li>
           <li>Tahltan consent agreements (Declaration Act s.7): Eskay Creek approved Jan 2026 — the first consent-agreement mine; Red Chris block cave approved June 2026 — <a href="https://news.gov.bc.ca/releases/2026MCM0008-000078" rel="noopener">BC Gov (Eskay)</a>, <a href="https://news.gov.bc.ca/releases/2026MCM0029-000727" rel="noopener">BC Gov (Red Chris)</a>.</li>
           <li>Nations Royalty — Nisga'a Nation ~77% ownership; royalties on Brucejack, KSM, Premier/Red Mountain, Kitsault — <a href="https://www.cbc.ca/news/canada/british-columbia/nations-royalty-mining-company-nisga-a-nation-bc-canada-1.7386290" rel="noopener">CBC</a>.</li>
