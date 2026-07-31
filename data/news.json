@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T03:56:17.188Z",
+ "updated": "2026-07-31T09:20:54.397Z",
  "items": [
   {
    "cat": "media",
@@ -51,6 +51,13 @@
    "date": "2026-07-14"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Dease Lake Community Funds – 2026 Summer Newsletter",
+   "url": "https://tahltan.org/dease-lake-community-funds-2026-summer-newsletter/",
+   "date": "2026-07-03"
+  },
+  {
    "cat": "media",
    "source": "Mining.com",
    "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
@@ -73,7 +80,7 @@
   },
   {
    "cat": "media",
-   "source": "aptnnews.ca",
+   "source": "APTN News",
    "title": "Red Chris Mine in northern B.C. extends operations into 2040",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
    "date": "2026-06-26"
@@ -115,6 +122,13 @@
   },
   {
    "cat": "media",
+   "source": "Mining.com",
+   "title": "Newmont’s Red Chris underground expansion gets regulatory green light",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTJPY0Q2REc5RDFYbVBEZkZEV1VTanRMNmxaXzN1cU5EWks4Q0tjUkVTbzA5dzVQMW42ZUwzVzJORWJrTFk4TWpGZkJtU3YzWm1QR2VvRlVpdmZuVmJDSjZ0ck44OU1ubzRFNFhieVBBZERrcE92ZlBqY09pQUNIX3VZN1VmSVJrNWpLQXBLOTVJTkdhVnp4VG5SNTJYRnM?oc=5",
+   "date": "2026-06-19"
+  },
+  {
+   "cat": "media",
    "source": "Global News",
    "title": "B.C. government approves Red Chris mine expansion project",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdJRnpfV0hIVnI2SlFGY3FyTW41X2Y5Q1NjbE03ZEVKTTJaY1JvVV9malloYlpNTkFwSlNmcnMxXzBfZWtqNkRuMjdvd3Z5LUtUMllYLXZTLXlPdWpQRWp4aFptX2VvNUVEVlVJSTZhQUpjd29SMm1RUFN1RGJYcXkyREd2SUVsc095V21wbjZnVHhRWE5r?oc=5",
@@ -129,16 +143,16 @@
   },
   {
    "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
+   "source": "CBC",
+   "title": "5 people ordered banished from Taku River Tlingit territory",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
    "date": "2026-06-18"
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "5 people ordered banished from Taku River Tlingit territory",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
+   "source": "CityNews Vancouver",
+   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
   },
   {
@@ -175,13 +189,6 @@
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
-  },
-  {
-   "cat": "media",
-   "source": "Junior Mining Network",
-   "title": "Kingfisher Metals Reports 889.35 meters of 0.47% CuEq and 721.7 meters of 0.46% CuEq from surface at Williams, HWY 37 Project, Golden Triangle, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYU5qX1lxcXJSNER0R3BuSXAwNHZ1RFBEME83dHBoZG55NFY3NzYxNjlocTFQQW9HSTEtcU0temdDbGRnUHVjb25hVk1aWXFldUc0MFpHMWFvdFlsMkcwcFJIampXZGVtX192QlBFNUQyMmFldEpJNWhaWHBiRGt5WGZ4NnpQcXdhWTZHX0F3bEhLcEYzMV9ZQU1vQlJrZGRrQnNIZmExWlJCSU12UFE1NmlxdXp2OHYwZ2g3VDgzeFdqV2k1bHRKQnRzQkg1Q0ZyVGdVSjI2YUxMNjhVQ0JMWExOeGc5eXRpZnk2bkJQclkydThZQ01QUWpxVWZLdzl0WnhxYzdkVUZEVHFhQ3V0Nkc4Q3k5S0ZjcjV1dGhGVmxtSkUweWFQVFBHM25YRTA5UmRDUm5KYVVHTE4zM01iZFpyYmduTUh0NkFiYXRkQXppbVZSeGJSQkJvUURVSUE3M2xtckRrMHowNmNSZFl4cmxXcw?oc=5",
-   "date": "2026-01-13"
   }
  ]
 }
