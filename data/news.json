@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T08:36:44.815Z",
+ "updated": "2026-08-01T14:01:42.903Z",
  "items": [
   {
    "cat": "media",
@@ -66,7 +66,7 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "aptnnews.ca",
    "title": "Red Chris Mine in northern B.C. extends operations into 2040",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
    "date": "2026-06-26"
@@ -115,7 +115,7 @@
   },
   {
    "cat": "media",
-   "source": "Global News",
+   "source": "globalnews.ca",
    "title": "B.C. government approves Red Chris mine expansion project",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdJRnpfV0hIVnI2SlFGY3FyTW41X2Y5Q1NjbE03ZEVKTTJaY1JvVV9malloYlpNTkFwSlNmcnMxXzBfZWtqNkRuMjdvd3Z5LUtUMllYLXZTLXlPdWpQRWp4aFptX2VvNUVEVlVJSTZhQUpjd29SMm1RUFN1RGJYcXkyREd2SUVsc095V21wbjZnVHhRWE5r?oc=5",
    "date": "2026-06-19"
@@ -158,6 +158,13 @@
   {
    "cat": "media",
    "source": "juniorminingnetwork.com",
+   "title": "Canadian Securities Exchange Approves Gold Runner Exploration's Option to Acquire the Golden Girl Property from the B-ALL Syndicate in British Columbia's Prolific Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUFNFNGhtV20wQlRCMWdsTDZwMERTX0lYMFhDRDU1UEIwNmxLZnpGZkhHMl9kaE9XeXFGd3dLWnpMaXRIZ2p0SkVKVmhac1VhUGVuSE10U1FuaFRQUUJyeVJPUHJYcVpVZjVSM3dxZWdJR2U0S3hzV0pwa3c1TXlQUnF3R2dkM3ZkTW5fUEliTzQwTVN4ZVZvd2U3WWMwZnJIR2V5RzZ0TkNoOXBwNUtaTVFFY1lxdmdudmhtcXBGV1FoeGxkRFEtU2hIVnJPNFRIYUREZ0JTVmR4WlpKQTYwVlJGci1TMWV2MGYyUXQ3SURRWWVTbzhWcVdNcGhHLUpGblhlZ3Q4UmR6cGVSektFZlVXQ19uRm5SRVNfRHVTRFhHVHR2S0VjaUhvSkxCWW92Q2pGWVpES3QzZTdoYzZoTl9jMENodm0tcWMteU95U0llZGNRUll4SUpZWGlwTXd6VHdYT2xzRjZfRmM2cXN4aWlqLUNmaGg0Vy1ma1FESFZWb3pEZkk3ZVZhN0I1NU44V2c?oc=5",
+   "date": "2026-02-24"
+  },
+  {
+   "cat": "media",
+   "source": "juniorminingnetwork.com",
    "title": "Gold Runner Exploration Options Golden Girl Property in British Columbia's Prolific Golden Triangle from B-All Syndicate",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRG5lUUlvaVRTUnphckp3dU9RbUo2VGdFaF9VNjg1SnIzMDRIeGNrMnVFYzg2V2d3d3hJTmlxalY3cldCUEhicldWX3k1Q0g0dlJ5ejNIb2ZqWEtzblg1WmtSR21pWnRXeTMtQ1J1NWt2STVZNjhtcEFYM2pYOTVScVJrckYxQkJDcnkwYUdkSzA5YkFGUXBzcHg1OHJGZzVsVG9sM1FnbGRURk9ZZmZhT0RwQWJjeUlTNmVPUzhsNGVDeEZpWVRNQ1k4b1FUbWl0T25rRjFJWWlIVWk3N3B2X1hoZnZvLVBkMEw5R2RuQlplTGtIX2VPV3hXRXpJYWFIOVlfMElQOUlEQmVXaklqQkh0c0RyMGo3LW9aOG5zOWkyejluVXNZa25Cbw?oc=5",
    "date": "2026-01-23"
@@ -171,17 +178,10 @@
   },
   {
    "cat": "media",
-   "source": "North of 60 Mining News",
+   "source": "miningnewsnorth.com",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
-  },
-  {
-   "cat": "media",
-   "source": "juniorminingnetwork.com",
-   "title": "Kingfisher Metals Reports 889.35 meters of 0.47% CuEq and 721.7 meters of 0.46% CuEq from surface at Williams, HWY 37 Project, Golden Triangle, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOYU5qX1lxcXJSNER0R3BuSXAwNHZ1RFBEME83dHBoZG55NFY3NzYxNjlocTFQQW9HSTEtcU0temdDbGRnUHVjb25hVk1aWXFldUc0MFpHMWFvdFlsMkcwcFJIampXZGVtX192QlBFNUQyMmFldEpJNWhaWHBiRGt5WGZ4NnpQcXdhWTZHX0F3bEhLcEYzMV9ZQU1vQlJrZGRrQnNIZmExWlJCSU12UFE1NmlxdXp2OHYwZ2g3VDgzeFdqV2k1bHRKQnRzQkg1Q0ZyVGdVSjI2YUxMNjhVQ0JMWExOeGc5eXRpZnk2bkJQclkydThZQ01QUWpxVWZLdzl0WnhxYzdkVUZEVHFhQ3V0Nkc4Q3k5S0ZjcjV1dGhGVmxtSkUweWFQVFBHM25YRTA5UmRDUm5KYVVHTE4zM01iZFpyYmduTUh0NkFiYXRkQXppbVZSeGJSQkJvUURVSUE3M2xtckRrMHowNmNSZFl4cmxXcw?oc=5",
-   "date": "2026-01-13"
   }
  ]
 }
