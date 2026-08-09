@@ -1,6 +1,13 @@
 {
- "updated": "2026-08-09T07:27:16.515Z",
+ "updated": "2026-08-09T13:24:55.573Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "Mining.com.au",
+   "title": "Scottie Resources banks on port proximity",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jMlRqQklaWURhbVoxNk53Z0tELXh3Mk9RZ0poNlBzYTEtMEJvMU5yZXpEQ2FTQVV4eUQ2aks0NHh4WnFvcjVvdFB5X29uUmhJYkhzY3FWTTdiakpIbW1VMWI2UVZ4dksteEItc1loZ1MyZw?oc=5",
+   "date": "2026-07-30"
+  },
   {
    "cat": "media",
    "source": "Mining.com.au",
@@ -12,12 +19,12 @@
    "cat": "media",
    "source": "The Globe and Mail",
    "title": "Canagold Successfully Completes Taku River Landing Craft Trials for the New Polaris Project",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT08xVHl6U2Uzd1ROd1pIQllKa1JMRjI0UThtYmZad3hCVDUtYW52SU1SQVlTenp1SmE2a0daOEZycTRpZ1JBZ3NJa0Q5cF9FcWYxN2VPMnJWbFcwbVJKbjJXbnJCVUFsSE00Uk5aUW50cEZjbGIxSUJhWXU1UThDcHR0N042YnZvSGRlbnBkRjdIbFg1TzUyUTF1cW9Bb2YyeVV0aVlfbjdSMno2cjAyRE1wM1dsaVhHWkF6bExKNzNPalFfbUU4NzVVUFZDVEUzeVFaTTQ5VUFlUVIwN1gta2g3YlR4YWl0aW1XR3BSUHdqNnVvakRHQXN4bER2eU1wWkE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQXzJld2d0UjFpUlBEekhHdXhVRUJnc1NjNHlkVXY2cmhkVkIwQUdqend5NWlBYXlZa1UzQ3VncEdtRDJXZERoVFZEOTJDbWtGWkZQUFVtblZNOHBkZmhKSC00U0hjX3Fqb284S1NZYnIyejZNa0hOdnd4R3puUnhDR2oxcG5WdVE0M21LVE43aG9Rd0pYUXB3bEUyNTUtbEhQalB6bi1tYnU5VHFwby01cUFGUGRnN2VyMl94Wi10T0ZhdmVyaXNVMEhnYjZfaEFFdHluQVA4Y0tyakhoOVZuNXRXbmtDc1h0T1JFN1RkUVBYdHB3ZHh4X2k0Z0NGcTJoRDN2dm13ZG4?oc=5",
    "date": "2026-07-23"
   },
   {
    "cat": "media",
-   "source": "juneauindependent.com",
+   "source": "Juneau Independent",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
    "date": "2026-07-15"
@@ -28,13 +35,6 @@
    "title": "Three protected areas, one deadline: say yes to the Meziadin, the Klappan and Dene K'éh Kusān by Aug 4",
    "url": "https://gonorthernheadwaters.ca/",
    "date": "2026-07-14"
-  },
-  {
-   "cat": "coalition",
-   "source": "Tahltan Central Government",
-   "title": "Dease Lake Community Funds – 2026 Summer Newsletter",
-   "url": "https://tahltan.org/dease-lake-community-funds-2026-summer-newsletter/",
-   "date": "2026-07-03"
   },
   {
    "cat": "media",
@@ -66,7 +66,7 @@
   },
   {
    "cat": "media",
-   "source": "northernminer.com",
+   "source": "The Northern Miner",
    "title": "Newmont’s Red Chris underground expansion gets regulatory green light in BC",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVJHMHh5enBxVnJ3NkFkQUdzVU1ib0d5cWpQWkVXSmxna0pBMTlpT2VnNnAwUGZsbjd5dkRuLWVfNEhENjJvWlVWNVRzSms5UURJQmFySWhpd1N6aHRlTlZ2eWtBLXhiVkdsN2M5dWZsNDJkeVU0ZGtlRFBteFlNWUlFbGVnVExlSkdMR1pBUkxKMWNTMHR5Q1dFWGw0T05EYjh5SGpYMUJhSVc3a2MxclpzTVBoWW1aNlFqOWVB?oc=5",
    "date": "2026-06-24"
@@ -143,42 +143,35 @@
   },
   {
    "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Eskay Mining announces First Targets in its 5,000 meter Drill Program on its Corey-Eskay Property in British Columbia's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPS2llY3d0b0EzU3hja25RNW9idmYyM1d1N0tZZzFIU0hVZnFuVE9IclNjelAtWXpTeEZveHg5UXkzcG55T2czV1FNTHVPQ0hjQzY5M0JzMktDZ3l2MFpOOWRFLVhPdFlwZ2tzR1piSHV2bHV3YkQ1b1B0M2F3OGwzcHZpYURxMWprcy1tbGNqa1EzbmlyRDMzcUFBNUZuY1dxSDI4dmJYOF9MU2ZQMkh0OG5GcFE4ZWF1MS1zNzRpWUduc1MtY3l2VWVac0RFdll6dWd5Uk5oekNSQU9Yd2NSaWNGWk5IaEZUSjBBRml3VEtwZEQwNE04WEhFQ3I1YU5lWHMtNE9EWmxWOFJTdVpZdzZST0JtNVludTdhaFFHMkdON2kxU3VWaUlsNUxRSEJYQlZZbjdvdXRZQWxZSS1JRkRkZFFacGE2WWdXTTRSYWlmaTdjeHR4ek1tc0dGZw?oc=5",
    "date": "2026-06-01"
   },
   {
    "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Canadian Securities Exchange Approves Gold Runner Exploration's Option to Acquire the Golden Girl Property from the B-ALL Syndicate in British Columbia's Prolific Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUFNFNGhtV20wQlRCMWdsTDZwMERTX0lYMFhDRDU1UEIwNmxLZnpGZkhHMl9kaE9XeXFGd3dLWnpMaXRIZ2p0SkVKVmhac1VhUGVuSE10U1FuaFRQUUJyeVJPUHJYcVpVZjVSM3dxZWdJR2U0S3hzV0pwa3c1TXlQUnF3R2dkM3ZkTW5fUEliTzQwTVN4ZVZvd2U3WWMwZnJIR2V5RzZ0TkNoOXBwNUtaTVFFY1lxdmdudmhtcXBGV1FoeGxkRFEtU2hIVnJPNFRIYUREZ0JTVmR4WlpKQTYwVlJGci1TMWV2MGYyUXQ3SURRWWVTbzhWcVdNcGhHLUpGblhlZ3Q4UmR6cGVSektFZlVXQ19uRm5SRVNfRHVTRFhHVHR2S0VjaUhvSkxCWW92Q2pGWVpES3QzZTdoYzZoTl9jMENodm0tcWMteU95U0llZGNRUll4SUpZWGlwTXd6VHdYT2xzRjZfRmM2cXN4aWlqLUNmaGg0Vy1ma1FESFZWb3pEZkk3ZVZhN0I1NU44V2c?oc=5",
    "date": "2026-02-24"
   },
   {
    "cat": "media",
-   "source": "Resource Works",
-   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
-   "date": "2026-02-13"
-  },
-  {
-   "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Romios Gold Resources Sells Claims in British Columbia's Golden Triangle to Enduro Metals for $300,000",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxObjdtLUV0Q0I5N2haV2pYWm5Cby1HTzdwQ1JncnFYd1lxY3FDRGNEaEpXUUw2aVI4cEY2T2FBc25GeG01UE5GNlZRRkpJdXFlbGlrMl9aam5ITk1uNElHR2NIbjJjMjlGUTZtdVdKc2lyMmhQZUE1djh3TVNoWmhUWkZlTkVQQVUwMlVlTzJObzFmRThhTzlKU3U5dXNOQV9uUlJnMUVzUzVmYTZOTmFEOGV3c2ZmV3lrSC1OeFBjUHJkT2FfWUZzTDNNZGJjQmFVaE9sem51a00zT0M0cEJaYmlKajhXT3NlLVB4ajltLWpqbWwxOFRpYzc1eGptQ3I5MDlBQUxFbEZZOUxQT1NBWVI1OGJfQjNoM1g3d2N6QQ?oc=5",
    "date": "2026-01-29"
   },
   {
    "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Gold Runner Exploration Options Golden Girl Property in British Columbia's Prolific Golden Triangle from B-All Syndicate",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRG5lUUlvaVRTUnphckp3dU9RbUo2VGdFaF9VNjg1SnIzMDRIeGNrMnVFYzg2V2d3d3hJTmlxalY3cldCUEhicldWX3k1Q0g0dlJ5ejNIb2ZqWEtzblg1WmtSR21pWnRXeTMtQ1J1NWt2STVZNjhtcEFYM2pYOTVScVJrckYxQkJDcnkwYUdkSzA5YkFGUXBzcHg1OHJGZzVsVG9sM1FnbGRURk9ZZmZhT0RwQWJjeUlTNmVPUzhsNGVDeEZpWVRNQ1k4b1FUbWl0T25rRjFJWWlIVWk3N3B2X1hoZnZvLVBkMEw5R2RuQlplTGtIX2VPV3hXRXpJYWFIOVlfMElQOUlEQmVXaklqQkh0c0RyMGo3LW9aOG5zOWkyejluVXNZa25Cbw?oc=5",
    "date": "2026-01-23"
   },
   {
    "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Kingfisher Metals Confirms Blind Copper-Gold Porphyry Discovery at Hank, HWY 37 Project, Golden Triangle, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNRVNlRWx0ZlBBcEp1Y3VZUkFBQ2lNU1B0R0Iza1dBbi05c1VpS1R5QVBQTTZBOVRvVUEyLTFLVXBrdkhTVGNjeU1kRGV2Q0FFcXBXWW4xaGJ0NUl5NUMzbnp2dEcwMEc5MTFfcW9jVjdXaE1KMldoc2VLTkUyWkZYMlpWZVo5ZXdUY2lXUW0xRmR5SHgwUFNqNXdIMGZNbjhWNTV4U3hfczM0bnZxbE9MMy1sdnc0OVZBWkxqRlltbHhPdDh3Y1Q5Um9sTnd1VXRDVVhaV0JyLVA5NlRGbURnNkdndTRFNWFrTWQxcXIwLU9PY1hZMjVzN3lLMUdRcFdXeUtRYnRWdENzTnZMUDg4WUtxc3lJVG1kZGMyQ1VBZ0lGUXp2RWRFcldTT1JPaTVQbWlDQ0ljbmhEUQ?oc=5",
    "date": "2026-01-22"
