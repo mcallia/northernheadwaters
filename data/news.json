@@ -1,23 +1,23 @@
 {
- "updated": "2026-08-10T08:09:09.881Z",
+ "updated": "2026-08-10T13:49:45.927Z",
  "items": [
   {
    "cat": "media",
-   "source": "mining.com.au",
+   "source": "Mining.com.au",
    "title": "Scottie Resources banks on port proximity",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jMlRqQklaWURhbVoxNk53Z0tELXh3Mk9RZ0poNlBzYTEtMEJvMU5yZXpEQ2FTQVV4eUQ2aks0NHh4WnFvcjVvdFB5X29uUmhJYkhzY3FWTTdiakpIbW1VMWI2UVZ4dksteEItc1loZ1MyZw?oc=5",
    "date": "2026-07-30"
   },
   {
    "cat": "media",
-   "source": "mining.com.au",
+   "source": "Mining.com.au",
    "title": "Imperial Metals’ Red Chris copper output falls 24%",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XVTNOWFFPY0daVFFRZlNoeG1UM0NaSC14NURBZkI1TDlxMGRLelRPdFpiLUZNMmNZRlhGN1VRdDlIWU5rS0hfdzcyYTREU0pKRF9GTFVWalNSVGdUTFFwMlNoT1UyTVZiTWZsOC14OHlUclZlUVlqUnJxYw?oc=5",
    "date": "2026-07-27"
   },
   {
    "cat": "media",
-   "source": "theglobeandmail.com",
+   "source": "The Globe and Mail",
    "title": "Canagold Successfully Completes Taku River Landing Craft Trials for the New Polaris Project",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQXzJld2d0UjFpUlBEekhHdXhVRUJnc1NjNHlkVXY2cmhkVkIwQUdqend5NWlBYXlZa1UzQ3VncEdtRDJXZERoVFZEOTJDbWtGWkZQUFVtblZNOHBkZmhKSC00U0hjX3Fqb284S1NZYnIyejZNa0hOdnd4R3puUnhDR2oxcG5WdVE0M21LVE43aG9Rd0pYUXB3bEUyNTUtbEhQalB6bi1tYnU5VHFwby01cUFGUGRnN2VyMl94Wi10T0ZhdmVyaXNVMEhnYjZfaEFFdHluQVA4Y0tyakhoOVZuNXRXbmtDc1h0T1JFN1RkUVBYdHB3ZHh4X2k0Z0NGcTJoRDN2dm13ZG4?oc=5",
    "date": "2026-07-23"
@@ -35,6 +35,13 @@
    "title": "Three protected areas, one deadline: say yes to the Meziadin, the Klappan and Dene K'éh Kusān by Aug 4",
    "url": "https://gonorthernheadwaters.ca/",
    "date": "2026-07-14"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Dease Lake Community Funds – 2026 Summer Newsletter",
+   "url": "https://tahltan.org/dease-lake-community-funds-2026-summer-newsletter/",
+   "date": "2026-07-03"
   },
   {
    "cat": "media",
@@ -80,7 +87,7 @@
   },
   {
    "cat": "media",
-   "source": "newmont.com",
+   "source": "Newmont Corporation",
    "title": "Newmont’s Red Chris Block Cave Project Receives Major Regulatory Approvals",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREFoOUJUemRZcjFxZjY1SUR0WnlRSC1Gby13MVV3a2lvZjFtY3QtV29ORTZEcWE4Z19BTjVxRktHNXA0MjBoV2V3emhEQllJN19TQXk0d25LcTVXaENHSWozeWxYTW51RDBkM0tua0hGb2ktVG12VE9ZbGVUQlNkN3lRQlpVQWxlR2pKejllMkZQeGw1SFVlN2xER3BoaEU0M29xeHRaWE85bFhvMmpTaGNjZWlZYWUzMl9NdnVybDg1LTZkdWgyOWl3SlFVRHRuZUZZUGkteHFqQmEzYWxQWjFKXy1nQQ?oc=5",
    "date": "2026-06-19"
@@ -122,7 +129,7 @@
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
+   "source": "CityNews Vancouver",
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
@@ -178,7 +185,7 @@
   },
   {
    "cat": "media",
-   "source": "miningnewsnorth.com",
+   "source": "North of 60 Mining News",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
