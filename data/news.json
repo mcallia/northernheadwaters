@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T13:04:58.648Z",
+ "updated": "2026-08-16T18:50:08.226Z",
  "items": [
   {
    "cat": "media",
@@ -94,7 +94,14 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "BC Gov News",
+   "title": "Northwestern land-use planning at next engagement stage",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "aptnnews.ca",
    "title": "Red Chris Mine in northern B.C. extends operations into 2040",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
    "date": "2026-06-26"
@@ -118,13 +125,6 @@
    "source": "mining-journal.com",
    "title": "Newmont's Red Chris expansion gets regulatory nod",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnYwQ3o0eUJUcGJYM0ppSzhZSzlBN29KMEI4TlptS2UyeWZCUjFybHI2NEtMZ0hNbjVWbjBjRGJqVWdPOW53d2ZJTDh2c0RRMk9Ba1hsTU1xVXJ5WXJSbEVvMlZyNE9RTzMwaERoY1VhOVhXYlRWcG1wZElvRzFncFQ3ampKZU9IVFVLUDByd1F3ZDNsVVQxN280VkowQm11Um5aSjJra2FWQUk?oc=5",
-   "date": "2026-06-22"
-  },
-  {
-   "cat": "media",
-   "source": "TMX Newsfile",
-   "title": "Enduro Metals Outlines 2026 Exploration Program on Newmont Lake Project, British Columbia Initial 3,000 Metre Drill Program at the Andrei Copper-Gold Porphyry Target",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOdWJGeFZVT0ZDOGwtT1VFbHplaUNldWVEZkJzRWczVU4wWkJJeWRhTXRQNFEzZDJPdU1EWk1BOFRsekQwdFBGTjFvQlU1OVVDREZoSXljb2pwNUowQW5DZ2ZJM09idmVGVHlDanIzZUMwNUV5bUd0UVo1ZHpGbmRaZFQ1THlvNnE4bmtaQ2NLRnZ6cHBCVDIxaGxsbDdBMXMtLXBsaUd2R19sblBlcVZuVDBTR0dCcVVidFVaQmljQjU4d1FlNXBnbmpWY3M4Zi01bDhvTFBkQ3IxYnNsNE1XR2h6SjNtN0syRmx3Z2VqWUtHR2NUTVlCbDJuNFBQMWpPRHREZE1HbFEtTmNyTFZkcmNZOFV3c2lYdzhadm9wVG81OVZGV0ZSdF9WWmRTUXM?oc=5",
    "date": "2026-06-22"
   },
   {
@@ -157,7 +157,7 @@
   },
   {
    "cat": "media",
-   "source": "BNN Bloomberg",
+   "source": "bnnbloomberg.ca",
    "title": "Newmont’s Red Chris mine gets key approval for block cave transition",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOengtSTUzTFBZVWdtSjBIdVhLSnBZZlJBSUlzUXl3SVFuakVreG1lQmlCajFHM3VJc3ZtU0l0a29DMlJaZVRqQ24yTjZpbzU4ZVZ3alY0SUQ0QVE2ZmFPMGQ4RTVLQ0JXcm1Fa3dqZlBtU1RfaEVMRmFuTWZHc2xhaERJNy0taktHakxtZC14YlBzcVJScFlLbjczNzl6RjVKalU5cFpVWGRkZXlBdzJRbzFwNVZtaVphWEd2THlHUUVIWEx1RUk5Rg?oc=5",
    "date": "2026-06-19"
