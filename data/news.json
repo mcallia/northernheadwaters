@@ -1,13 +1,6 @@
 {
- "updated": "2026-08-19T18:57:43.364Z",
+ "updated": "2026-08-20T01:55:03.416Z",
  "items": [
-  {
-   "cat": "media",
-   "source": "Mining.com.au",
-   "title": "Doubleview engages Canada following US scandium funding",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2tVcGI5eUxDM2tvZkt4OE1NTVY0WVE5ZEpzclk5NmtueDctYUo0UElWc1B3aTdRVE9SdW1ibFJPTmF5aXJjQ25ReGdjdmItdGhkT09aZHRaR3ZwYk5WRTVTbzJTTTdHYVotamhkM05qX01Ccmdoa2NFWHhPNHc1WHpnREg?oc=5",
-   "date": "2026-08-13"
-  },
   {
    "cat": "media",
    "source": "The Globe and Mail",
@@ -80,7 +73,7 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "aptnnews.ca",
    "title": "Red Chris Mine in northern B.C. extends operations into 2040",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
    "date": "2026-06-26"
@@ -165,6 +158,13 @@
   {
    "cat": "media",
    "source": "Junior Mining Network",
+   "title": "Gold Runner Exploration Announces Mobilization Date and Exploration Program Update at Golden Girl Property, Golden Triangle B.C.",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPUGt5aS1KQ0RadkpTd2syb1RxYUplQWpvS2hVVEVHUjB2MVZ0cm9lOHlXc1E2VVR4Z2w2bEtBR09PUDREYWZGQUtuWlpOeGRqb0RRNFg5MnFFT21JYjJXTlhIVXJpaDBvejFTQmFaWmtvMjRqOG9UMkVDVEduVFFabHJKelFsRVo0ZXZvTUZnT2pCT1Vrb0hlNVJaWnJsMXJlNUwxX2NSaVl3aXlhUnFOVDh5MFZsN0RzV0pVbzJya0V3bHdHREFQWnEzODZuWFBhak93emJIcURCWEFhc1hQV3I5ZkViYk04N1RNOVdqWUotci1nb1JncURBWUFJRTExUkM5N0hiVzJoVVVZQ3BwRk9NUndsaUxsQzk0N1dqX1hiSmxaSUUwX2UtOFFPNWVnVkhnREJBeE95cnJxaUtYbEhFUnA3d0JYZ3lzWA?oc=5",
+   "date": "2026-05-20"
+  },
+  {
+   "cat": "media",
+   "source": "Junior Mining Network",
    "title": "Canadian Securities Exchange Approves Gold Runner Exploration's Option to Acquire the Golden Girl Property from the B-ALL Syndicate in British Columbia's Prolific Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUFNFNGhtV20wQlRCMWdsTDZwMERTX0lYMFhDRDU1UEIwNmxLZnpGZkhHMl9kaE9XeXFGd3dLWnpMaXRIZ2p0SkVKVmhac1VhUGVuSE10U1FuaFRQUUJyeVJPUHJYcVpVZjVSM3dxZWdJR2U0S3hzV0pwa3c1TXlQUnF3R2dkM3ZkTW5fUEliTzQwTVN4ZVZvd2U3WWMwZnJIR2V5RzZ0TkNoOXBwNUtaTVFFY1lxdmdudmhtcXBGV1FoeGxkRFEtU2hIVnJPNFRIYUREZ0JTVmR4WlpKQTYwVlJGci1TMWV2MGYyUXQ3SURRWWVTbzhWcVdNcGhHLUpGblhlZ3Q4UmR6cGVSektFZlVXQ19uRm5SRVNfRHVTRFhHVHR2S0VjaUhvSkxCWW92Q2pGWVpES3QzZTdoYzZoTl9jMENodm0tcWMteU95U0llZGNRUll4SUpZWGlwTXd6VHdYT2xzRjZfRmM2cXN4aWlqLUNmaGg0Vy1ma1FESFZWb3pEZkk3ZVZhN0I1NU44V2c?oc=5",
    "date": "2026-02-24"
@@ -185,7 +185,7 @@
   },
   {
    "cat": "media",
-   "source": "North of 60 Mining News",
+   "source": "miningnewsnorth.com",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
