@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T07:04:40.343Z",
+ "updated": "2026-08-22T13:05:15.107Z",
  "items": [
   {
    "cat": "media",
@@ -7,6 +7,13 @@
    "title": "Canagold Successfully Completes Taku River Landing Craft Trials for the New Polaris Project",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQXzJld2d0UjFpUlBEekhHdXhVRUJnc1NjNHlkVXY2cmhkVkIwQUdqend5NWlBYXlZa1UzQ3VncEdtRDJXZERoVFZEOTJDbWtGWkZQUFVtblZNOHBkZmhKSC00U0hjX3Fqb284S1NZYnIyejZNa0hOdnd4R3puUnhDR2oxcG5WdVE0M21LVE43aG9Rd0pYUXB3bEUyNTUtbEhQalB6bi1tYnU5VHFwby01cUFGUGRnN2VyMl94Wi10T0ZhdmVyaXNVMEhnYjZfaEFFdHluQVA4Y0tyakhoOVZuNXRXbmtDc1h0T1JFN1RkUVBYdHB3ZHh4X2k0Z0NGcTJoRDN2dm13ZG4?oc=5",
    "date": "2026-07-23"
+  },
+  {
+   "cat": "media",
+   "source": "Mining.com",
+   "title": "Barrick makes Golden Triangle bet with 9.9% Kingfisher stake",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0k0NWw3bjZtcFAwR05aNHcwbjRCdzNsOEZNaW14M3JYdlNhVU9KeUdXUVl0dFhKYkh1WjJYT2ZvNzBSLUFLcWF0OERoSTdWcjZHVFIxUEl4TUNUWFA1a1hyUUJjbXZWaDA5MXFjOFQySzRZaUh4dW12eEZhY3ZRYzFBOUlPazlGbmpv?oc=5",
+   "date": "2026-07-21"
   },
   {
    "cat": "media",
@@ -23,6 +30,13 @@
    "date": "2026-07-14"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Dease Lake Community Funds – 2026 Summer Newsletter",
+   "url": "https://tahltan.org/dease-lake-community-funds-2026-summer-newsletter/",
+   "date": "2026-07-03"
+  },
+  {
    "cat": "media",
    "source": "Mining.com",
    "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
@@ -34,6 +48,13 @@
    "source": "Mining Weekly",
    "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
+   "date": "2026-07-03"
+  },
+  {
+   "cat": "media",
+   "source": "Mining Technology",
+   "title": "Government of Canada to provide $352m for Red Chris project",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0p5N3VXS0JscnNic0pEZkJvSTVIOGxPa0xCblBMNW13a0dZOGFoNEliZUg1Y2FPOUlOZnRTYXNMbXYyZkprN3pTRmhSVzJoQzVhNzI2UUI2emRTcVBMa3JEVFFuX1NiWWFTckU1ZGdSanVUX3RLcmdkRHpTdEt6Qw?oc=5",
    "date": "2026-07-03"
   },
   {
@@ -94,13 +115,6 @@
   },
   {
    "cat": "media",
-   "source": "Global News",
-   "title": "B.C. government approves Red Chris mine expansion project",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdJRnpfV0hIVnI2SlFGY3FyTW41X2Y5Q1NjbE03ZEVKTTJaY1JvVV9malloYlpNTkFwSlNmcnMxXzBfZWtqNkRuMjdvd3Z5LUtUMllYLXZTLXlPdWpQRWp4aFptX2VvNUVEVlVJSTZhQUpjd29SMm1RUFN1RGJYcXkyREd2SUVsc095V21wbjZnVHhRWE5r?oc=5",
-   "date": "2026-06-19"
-  },
-  {
-   "cat": "media",
    "source": "Mining.com",
    "title": "Newmont’s Red Chris underground expansion gets regulatory green light",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTJPY0Q2REc5RDFYbVBEZkZEV1VTanRMNmxaXzN1cU5EWks4Q0tjUkVTbzA5dzVQMW42ZUwzVzJORWJrTFk4TWpGZkJtU3YzWm1QR2VvRlVpdmZuVmJDSjZ0ck44OU1ubzRFNFhieVBBZERrcE92ZlBqY09pQUNIX3VZN1VmSVJrNWpLQXBLOTVJTkdhVnp4VG5SNTJYRnM?oc=5",
@@ -108,16 +122,9 @@
   },
   {
    "cat": "media",
-   "source": "BNN Bloomberg",
-   "title": "Newmont’s Red Chris mine gets key approval for block cave transition",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOengtSTUzTFBZVWdtSjBIdVhLSnBZZlJBSUlzUXl3SVFuakVreG1lQmlCajFHM3VJc3ZtU0l0a29DMlJaZVRqQ24yTjZpbzU4ZVZ3alY0SUQ0QVE2ZmFPMGQ4RTVLQ0JXcm1Fa3dqZlBtU1RfaEVMRmFuTWZHc2xhaERJNy0taktHakxtZC14YlBzcVJScFlLbjczNzl6RjVKalU5cFpVWGRkZXlBdzJRbzFwNVZtaVphWEd2THlHUUVIWEx1RUk5Rg?oc=5",
-   "date": "2026-06-19"
-  },
-  {
-   "cat": "media",
-   "source": "Toronto Star",
-   "title": "Red Chris mine in B.C. expands with safety in mind after previous collapse",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdy1ndmxKSkprcjFnZllSLTdyRklLeXFXWnBoN2Q5M3gxdzkxVEpvdU5XbDVvSnRGUDJqbnlaSEVqQXpDLWN0cGdFNEZrc3ZXYWxtaWJoekwzaElUT3BWS2NaVFVfOU9MbXJqMVVJZnk3dG9zeVBiUW5xbjV3anh5QUktdzBfcktvY284UERKYXJvR2M3S082THpLMkVuTzdXLVBIZkUwcmxIMHBTNlpKMFp2a183V2xpUVd3UWtjMmwzTGRKdkRYNjRPYUFfbnFsdWthcjg0VWtKb2ZlaEVNOWo3b1N2XzRYdUZVcEhQMWZ3dkF6SEw1dnFOc205X2FJbVNtTDlB?oc=5",
+   "source": "Global News",
+   "title": "B.C. government approves Red Chris mine expansion project",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdJRnpfV0hIVnI2SlFGY3FyTW41X2Y5Q1NjbE03ZEVKTTJaY1JvVV9malloYlpNTkFwSlNmcnMxXzBfZWtqNkRuMjdvd3Z5LUtUMllYLXZTLXlPdWpQRWp4aFptX2VvNUVEVlVJSTZhQUpjd29SMm1RUFN1RGJYcXkyREd2SUVsc095V21wbjZnVHhRWE5r?oc=5",
    "date": "2026-06-19"
   },
   {
