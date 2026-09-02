@@ -1,12 +1,19 @@
 {
- "updated": "2026-09-02T11:28:38.515Z",
+ "updated": "2026-09-02T16:41:11.915Z",
  "items": [
   {
    "cat": "media",
-   "source": "GlobeNewswire",
-   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczF5UVctOU04Vl9tX0g4MHdlTmZHQ2F0cFhjMF9XQ1dRZjJ4WHhJV01RckQ0YjJHc09BU01NOExSd0dMcVZhR2VKM2VvUFdoVDJvZUZtMEsxaWpmVWd1aDF3WkQ3cVhUY0p6ajRFZDJsR0lZU3N6MnozRWwyNDNpSkRxb1ByUm96cjA4dGQ2aEluVVNqa0lyOEl4bjZKVmxlZ0M5SHRwT08tYXhmb1JyaHJiUlVPdFUzRnJnWTNqQkNEdjdsSndzNG1FNm9kZE5tVjBjMmV2V2ZoM1NTdTVNYU15ZklDZ2FqTXl3c3h6RkVUamdaQ0hqalRPUWZ2M0h1UzkxU3d3?oc=5",
+   "source": "Investing News Network",
+   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia's Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVlNUzR1NXVqdUY1Z0w5b0NfdkFBd2hGejgxdVduMmdJcldueFF4aHFnLURvQUVvdGNNQnRrY1c3QnFYYXZhNnUzVk9jMl9GcnF1dE5MSFp5NWVEU05hR0JfNnMtdVNTOHBZeUNESGJOcWI5OGlFWXlyVkN2OEF2X1piX2pmMXBXSnh2UUw3TkNSVXhvMFV5Tk03bkczSnhCdExDSU9vVEJWOVdWUnlHVXZYZ25ZclpmNWhtR2xYZUhSeTFybEJWeGhB?oc=5",
    "date": "2026-09-02"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "The planned Canadian Armed Forces (CAF) activities in Tahltan Territory have been CANCELLED",
+   "url": "https://tahltan.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-1.49.02-PM.png#new_tab",
+   "date": "2026-09-01"
   },
   {
    "cat": "media",
@@ -66,13 +73,6 @@
   },
   {
    "cat": "media",
-   "source": "Mining Weekly",
-   "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
-   "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
    "source": "Mining.com",
    "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
@@ -129,7 +129,7 @@
   },
   {
    "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "5 people ordered banished from Taku River Tlingit territory",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
    "date": "2026-06-18"
@@ -161,6 +161,13 @@
    "title": "2026 Drilling Program Begins at Treaty Creek Property, Golden Triangle, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTA5VG5OWUFFRlV4cDJrZFluTUV3VWtWcVNhdVIzRVlILUhNZy1GZ0E5WmJjOXY2aGF1dy1YRDh0SnVXUHlqZ0JINHN4bG92SndaWnhUTEdxaDE2elZjeXhBZXNHblhyV1Y0WEJtM0ZMZlJxcC1BNVM2MXcyR0oyeDBhbTdic1M4cHVtNDc3NjVuTzVDLUZna1FiNTh2YnpqRzlTeDFwQmhtbGlnUl9iOGxWUQ?oc=5",
    "date": "2026-05-21"
+  },
+  {
+   "cat": "media",
+   "source": "Resource Works",
+   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
+   "date": "2026-02-13"
   },
   {
    "cat": "media",
