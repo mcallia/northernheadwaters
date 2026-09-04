@@ -1,12 +1,19 @@
 {
- "updated": "2026-09-04T04:43:13.203Z",
+ "updated": "2026-09-04T11:28:06.323Z",
  "items": [
   {
    "cat": "media",
-   "source": "investingnews.com",
+   "source": "Investing News Network",
    "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVlNUzR1NXVqdUY1Z0w5b0NfdkFBd2hGejgxdVduMmdJcldueFF4aHFnLURvQUVvdGNNQnRrY1c3QnFYYXZhNnUzVk9jMl9GcnF1dE5MSFp5NWVEU05hR0JfNnMtdVNTOHBZeUNESGJOcWI5OGlFWXlyVkN2OEF2X1piX2pmMXBXSnh2UUw3TkNSVXhvMFV5Tk03bkczSnhCdExDSU9vVEJWOVdWUnlHVXZYZ25ZclpmNWhtR2xYZUhSeTFybEJWeGhB?oc=5",
    "date": "2026-09-02"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "The planned Canadian Armed Forces (CAF) activities in Tahltan Territory have been CANCELLED",
+   "url": "https://tahltan.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-1.49.02-PM.png#new_tab",
+   "date": "2026-09-01"
   },
   {
    "cat": "media",
@@ -20,6 +27,13 @@
    "source": "TMX Newsfile",
    "title": "Goldstorm Metals Provides Updates on the Ongoing Phase I Drilling and Reconnaissance Program and Completed Geophysical Survey at the Crown Project, Located in the Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPcE4zLUJHeEttbGFJU2pHYjRXUmwyMC1kMUVaV1lUOGNsTjFkdEFubVVUU3J5RE9hdWU5T3AwUFUwd3VVY3kzTjJUMTdJVm5jT3ExRExzYlBGV0hfQldvaFZXdFRjRm1ubTlrS2pKUXh5Qk5IRjdBb2hEUGFidnAyWEhyM2VNdFMzdGVxaTZjSDdZSEIxTVpxaHJhdVh0c1VFWElIbm9Qbms1ZnlpM1k2bTV4VFVUa3NocFJkWUtHa0FrUWQ4ei1yNHRZUzlHMmt3Tm1OUVBtbWIydUlvTnRNeVB0MG5BRzNUZ29QbXpJaFZEa3NpN2dXSEJGdVhiTGRTaVJfMXZSaXcxSVFGQTV6bWwtNE80amRKb255NUZFR3NlbTR4VmJxRlZ5N1lDVEdsWGZwdHdNaEdHMjUtelllNmctUlN0OE1taFJtdGNGQ3JtWVhOSHRwQXo2bEw?oc=5",
+   "date": "2026-08-31"
+  },
+  {
+   "cat": "media",
+   "source": "SpaceRef",
+   "title": "Kitimat-Stikine A Weather & Hourly Forecast",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oYlhraUZ3cmdjOEx5b3k1a2hkQ2FXdzlDb2JZYkZ3bnVTOVJoaUV3ZVlsTm5SWmRzRkZmSXVhTmp0TEZMUkJCbHF5U2JzMU1INS15ckUzT18xUjdjS1ZpYTIyV3VhRzNZZHpHTWtzZ2J5X3ZIRWc?oc=5",
    "date": "2026-08-31"
   },
   {
@@ -58,13 +72,6 @@
    "date": "2026-07-21"
   },
   {
-   "cat": "media",
-   "source": "Juneau Independent",
-   "title": "Canada will help pay for power line to expand mine in Stikine watershed",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
-   "date": "2026-07-15"
-  },
-  {
    "cat": "campaign",
    "source": "Northern Headwaters",
    "title": "Three protected areas, one deadline: say yes to the Meziadin, the Klappan and Dene K'éh Kusān by Aug 4",
@@ -73,7 +80,7 @@
   },
   {
    "cat": "media",
-   "source": "juniorminingnetwork.com",
+   "source": "Junior Mining Network",
    "title": "Gold Runner Exploration Announces Commencement of Radiometric and Airborne Magnetic Surveys at Golden Girl Property, Golden Triangle B.C.",
    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOTBlb0hmOE5aSEhRQ1FHV2FXdHNoMU1aS1kzWGJVb1BYZTF6M2Z0MzcyVlU5STM5MVMxalhmb3lseFlOclZLOGstWjlfUm9MNGNTc1hja3RldmlGY3NlNHR3cWNoWC1VZ1Z5WDduTllFaVhPVnRsR1NBUFppZHk2S1Ytdkd1YUNjQU5ra1VWMFZsVTlZb2NuNnhuQTBXRTZTcVotenMwQk5UdzdFTnlrdmxObXdTd3JjbHZCLXZfdVppczJZQWRSMnFMRl9vWWd3SDA0dXVmNGcycVdPVjl0UkZKV0FRSTEyT1RzVmVYZElrZ3R4WjRvV1VucW9LeFdtbDRIZUpnNzB0MFl4dE0xejZ3VnJoUWhXeExPTHEyT3pQSHNYLU9YTzBrbnpILUhtd2YxNnl1dzBOVWF0a05jOUE1cmZzVDRISi1HXzREaw?oc=5",
    "date": "2026-07-07"
@@ -83,13 +90,6 @@
    "source": "Mining.com",
    "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1A1b3RuSFYwU0N2VXJOckdBQ1ZzYlh6TG9SRWo1ZnBzekx3NHZ6WHNMd012UzFZMkNjbl9YRmVzMFpvbzkwZWdxSmg5V0NRdkpNN3o2aWJ4MklXeEZDRGljN1RBbTQ4d2s2Q3dxcTBsbGh5LWhfRjdWVWtwSnFFWThWWm5GUzRhQ1Y1LXF2NWN3czZ2dVFhV2s5WVVzdWs?oc=5",
-   "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "Mining Technology",
-   "title": "Government of Canada to provide $352m for Red Chris project",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0p5N3VXS0JscnNic0pEZkJvSTVIOGxPa0xCblBMNW13a0dZOGFoNEliZUg1Y2FPOUlOZnRTYXNMbXYyZkprN3pTRmhSVzJoQzVhNzI2UUI2emRTcVBMa3JEVFFuX1NiWWFTckU1ZGdSanVUX3RLcmdkRHpTdEt6Qw?oc=5",
    "date": "2026-07-03"
   },
   {
@@ -105,6 +105,13 @@
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "TMX Newsfile",
+   "title": "Enduro Metals Commences First-Ever Drill Program at the Andrei Copper-Gold Porphyry Target Golden Triangle Region, British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVaV2tBcnJMeW1STGdoNXE2R2FhOFhJclBUdEZpNVNua0N2a0NZazgydS1rVjQxaW84REhzRjl1UUoyMjNYUWRyY3M4VVNLbHVCbkNpUE95RVgzTmdXT2VwNl9aMzJjTUkxMmpjVlNyTV9tbWJoOVlZVGJiVFlROEZmd2N4c0dBZXNxR2YxTFAyeHo3UUJXeDZrb09FX0tYckJSQmdzbzZUNDRfYU9BeVIwWDlrMndteEFFRHQ2UDA2d19fb0pHVEtpM1dmbzZDTHVJTml5cmptVGVJU00wcUNkRkpYZXdjT3lCMUxkVW5PZURkbXBtTktzLVFsRS1HTnc?oc=5",
+   "date": "2026-06-29"
   },
   {
    "cat": "media",
@@ -150,7 +157,7 @@
   },
   {
    "cat": "media",
-   "source": "investingnews.com",
+   "source": "Investing News Network",
    "title": "Newmont's Red Chris Block Cave Project Receives Major Regulatory Approvals",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblRtZkpybVdqSS11SGxfMDYyZm4wOEtieDlmZ21TbC1xYmJ4MUpMa1lnLUxSaVN5NloybWNxeTU3RS13UExuWmxDODVCRDQtcVh1UTB2a243cTM2SUZTN2J5Y0s4VzYtVUFuS0dpSHE3TUZkZEJSNzRkeXJxMi1oN3gtMV9xdnpiR0JQcndaNkl0emgwMXhXVkJ6RUYyVlJ0cnl3?oc=5",
    "date": "2026-06-19"
@@ -164,7 +171,7 @@
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
+   "source": "CityNews Vancouver",
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
@@ -185,7 +192,7 @@
   },
   {
    "cat": "media",
-   "source": "investingnews.com",
+   "source": "Investing News Network",
    "title": "2026 Drilling Program Begins at Treaty Creek Property, Golden Triangle, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTA5VG5OWUFFRlV4cDJrZFluTUV3VWtWcVNhdVIzRVlILUhNZy1GZ0E5WmJjOXY2aGF1dy1YRDh0SnVXUHlqZ0JINHN4bG92SndaWnhUTEdxaDE2elZjeXhBZXNHblhyV1Y0WEJtM0ZMZlJxcC1BNVM2MXcyR0oyeDBhbTdic1M4cHVtNDc3NjVuTzVDLUZna1FiNTh2YnpqRzlTeDFwQmhtbGlnUl9iOGxWUQ?oc=5",
    "date": "2026-05-21"
