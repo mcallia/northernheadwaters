@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T11:06:06.810Z",
+ "updated": "2026-09-06T15:33:15.572Z",
  "items": [
   {
    "cat": "media",
@@ -7,6 +7,13 @@
    "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVlNUzR1NXVqdUY1Z0w5b0NfdkFBd2hGejgxdVduMmdJcldueFF4aHFnLURvQUVvdGNNQnRrY1c3QnFYYXZhNnUzVk9jMl9GcnF1dE5MSFp5NWVEU05hR0JfNnMtdVNTOHBZeUNESGJOcWI5OGlFWXlyVkN2OEF2X1piX2pmMXBXSnh2UUw3TkNSVXhvMFV5Tk03bkczSnhCdExDSU9vVEJWOVdWUnlHVXZYZ25ZclpmNWhtR2xYZUhSeTFybEJWeGhB?oc=5",
    "date": "2026-09-02"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "The planned Canadian Armed Forces (CAF) activities in Tahltan Territory have been CANCELLED",
+   "url": "https://tahltan.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-1.49.02-PM.png#new_tab",
+   "date": "2026-09-01"
   },
   {
    "cat": "media",
@@ -35,13 +42,6 @@
    "title": "Gitxsan Huwilp Government Withdraws Support for Seabridge Gold’s KSM Project",
    "url": "https://theskeena.com/2026/08/25/gitxsan-huwilp-government-withdraws-support-for-seabridge-golds-ksm-project/",
    "date": "2026-08-25"
-  },
-  {
-   "cat": "media",
-   "source": "resourceworld.com",
-   "title": "Imperial Metals says B.C. copper-gold mine on track to hit 2026 targets",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWVOck94c0diRjlMdGV3LW5KbV9RbTVyQmhBNVRXSDh1TTVqUzAyM1VmakxxQUFZVzNjOXJnM1NOVVdYOWNzMUNOM2J6OHFiX0doTlI0U0oybGxzWmxSVmFMTVVkQ3JwdGZndDRwbWIza0tPUl82M2M1ZzFrSThKRF9SZ3BMN0t5NmtSN3JfX19uUk90NmhlRWZndUlFUQ?oc=5",
-   "date": "2026-07-24"
   },
   {
    "cat": "campaign",
@@ -80,21 +80,7 @@
   },
   {
    "cat": "media",
-   "source": "mining-journal.com",
-   "title": "Canada backs Red Chris expansion with C$500M",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3NFUnBrRGVvM3FxTUZMeDVWQURDU1FTZUVuRThkOGsxSHU0dDdBRjRFVXNHREYyOGhuZHV6UTZUR0doajhkV29DWE04TDkxZ2xWSS1tMzg2TnZtWmdKSDMyZ3luY1pOQzd4c0h6ekRYMUw2OTFjazNKQXBaRF9mUFhkcU5QTk9ZWElSMDRPRDBoTHQ4SXJET3NBVmJkNnpiOVI5WFM0MDh1SnpBdG1F?oc=5",
-   "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "Mining Weekly",
-   "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
-   "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
@@ -108,7 +94,7 @@
   },
   {
    "cat": "media",
-   "source": "aptnnews.ca",
+   "source": "APTN News",
    "title": "Red Chris Mine in northern B.C. extends operations into 2040",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
    "date": "2026-06-26"
@@ -157,7 +143,7 @@
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
+   "source": "CityNews Vancouver",
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
@@ -189,6 +175,27 @@
    "title": "2026 Drilling Program Begins at Treaty Creek Property, Golden Triangle, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTA5VG5OWUFFRlV4cDJrZFluTUV3VWtWcVNhdVIzRVlILUhNZy1GZ0E5WmJjOXY2aGF1dy1YRDh0SnVXUHlqZ0JINHN4bG92SndaWnhUTEdxaDE2elZjeXhBZXNHblhyV1Y0WEJtM0ZMZlJxcC1BNVM2MXcyR0oyeDBhbTdic1M4cHVtNDc3NjVuTzVDLUZna1FiNTh2YnpqRzlTeDFwQmhtbGlnUl9iOGxWUQ?oc=5",
    "date": "2026-05-21"
+  },
+  {
+   "cat": "media",
+   "source": "resourceworks.com",
+   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
+   "date": "2026-02-13"
+  },
+  {
+   "cat": "media",
+   "source": "Junior Mining Network",
+   "title": "Gold Runner Exploration Options Golden Girl Property in British Columbia's Prolific Golden Triangle from B-All Syndicate",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRG5lUUlvaVRTUnphckp3dU9RbUo2VGdFaF9VNjg1SnIzMDRIeGNrMnVFYzg2V2d3d3hJTmlxalY3cldCUEhicldWX3k1Q0g0dlJ5ejNIb2ZqWEtzblg1WmtSR21pWnRXeTMtQ1J1NWt2STVZNjhtcEFYM2pYOTVScVJrckYxQkJDcnkwYUdkSzA5YkFGUXBzcHg1OHJGZzVsVG9sM1FnbGRURk9ZZmZhT0RwQWJjeUlTNmVPUzhsNGVDeEZpWVRNQ1k4b1FUbWl0T25rRjFJWWlIVWk3N3B2X1hoZnZvLVBkMEw5R2RuQlplTGtIX2VPV3hXRXpJYWFIOVlfMElQOUlEQmVXaklqQkh0c0RyMGo3LW9aOG5zOWkyejluVXNZa25Cbw?oc=5",
+   "date": "2026-01-23"
+  },
+  {
+   "cat": "media",
+   "source": "North of 60 Mining News",
+   "title": "Major copper shift in BC's Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
+   "date": "2026-01-14"
   }
  ]
 }
