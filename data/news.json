@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T04:49:59.277Z",
+ "updated": "2026-09-08T11:28:16.213Z",
  "items": [
   {
    "cat": "media",
@@ -9,8 +9,15 @@
    "date": "2026-09-02"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "The planned Canadian Armed Forces (CAF) activities in Tahltan Territory have been CANCELLED",
+   "url": "https://tahltan.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-1.49.02-PM.png#new_tab",
+   "date": "2026-09-01"
+  },
+  {
    "cat": "media",
-   "source": "alaskabeacon.com",
+   "source": "Alaska Beacon",
    "title": "Mining projects opposed by Alaska tribes get support from Canada, British Columbia and First Nation",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSV9QUVU0Y2VsRHdPV2g5ZmZmTlk0MHlRazctWW5SUXpOVXpWOEtpZGh6eFl4cHM4ZGdHLWxMdzdjS21EMDhWQU5sWUZ2bHQwUllvcFFqLWJsSVFGYUJ1VUItNWFITGF1c1NZT0lNMTdzUGZiOFY1UndMbE9qRkNWdHpvdVlpMFJ0d0xmNE40Wi00M0poNUs4cEhWYWQzQzlpeWFkbDM0Ym9fYVNtUk5uSkwtT3pZdlNuNXpQZVFXMzVnOS1tYVdzSGFsS3JjZlNU?oc=5",
    "date": "2026-08-31"
@@ -38,10 +45,10 @@
   },
   {
    "cat": "media",
-   "source": "Mining.com",
-   "title": "Barrick makes Golden Triangle bet with 9.9% Kingfisher stake",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0k0NWw3bjZtcFAwR05aNHcwbjRCdzNsOEZNaW14M3JYdlNhVU9KeUdXUVl0dFhKYkh1WjJYT2ZvNzBSLUFLcWF0OERoSTdWcjZHVFIxUEl4TUNUWFA1a1hyUUJjbXZWaDA5MXFjOFQySzRZaUh4dW12eEZhY3ZRYzFBOUlPazlGbmpv?oc=5",
-   "date": "2026-07-21"
+   "source": "The Globe and Mail",
+   "title": "Goliath Resources Extends High-Grade Surebet Gold Discovery in B.C.’s Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWW42R3BMVEJiNTNxcHFuNC1yZGJnUWUzSVFPYkV1c215WWFXOUcwMHFyUkcta1oyQ29mVjBZeTN6Q3k1QnBHRWdWQjloeV9uZW15QnIwYXFCWUYzdmRBRmowVy1scjRBaWNUcTZFTWtMQ0ZhMEdkRHJKTHlHcS00TjA1dlNxa2xRdHNpai1DQTVrRmtSWW5sSHNmNFA1anVBeUpYNDUyNHVRanpJUnI2SzJuanRqeTc3cC1SazltOWVnNFlTbi1TZnctX0RKSGY5bFE2dXdpM3NUMWwtRzAyY2RSQTZmd0pBNzhYUkIzeGlZc2UyTWlabQ?oc=5",
+   "date": "2026-08-22"
   },
   {
    "cat": "media",
@@ -73,7 +80,7 @@
   },
   {
    "cat": "media",
-   "source": "miningweekly.com",
+   "source": "Mining Weekly",
    "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
    "date": "2026-07-03"
@@ -94,16 +101,16 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "TMX Newsfile",
+   "source": "Junior Mining Network",
    "title": "Enduro Metals Commences First-Ever Drill Program at the Andrei Copper-Gold Porphyry Target Golden Triangle Region, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVaV2tBcnJMeW1STGdoNXE2R2FhOFhJclBUdEZpNVNua0N2a0NZazgydS1rVjQxaW84REhzRjl1UUoyMjNYUWRyY3M4VVNLbHVCbkNpUE95RVgzTmdXT2VwNl9aMzJjTUkxMmpjVlNyTV9tbWJoOVlZVGJiVFlROEZmd2N4c0dBZXNxR2YxTFAyeHo3UUJXeDZrb09FX0tYckJSQmdzbzZUNDRfYU9BeVIwWDlrMndteEFFRHQ2UDA2d19fb0pHVEtpM1dmbzZDTHVJTml5cmptVGVJU00wcUNkRkpYZXdjT3lCMUxkVW5PZURkbXBtTktzLVFsRS1HTnc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPa295MWdMTF9EbDhxbVJpblo2ZkRhdEJjRDZrZWFrSE90M20xWUxRRE43U0JNMDRVQ3RtSjNMVTVlY3RuUVpGdW80Ujd1QVVYUFRBUGVNcG5xYi1uQ1NVQ0VwaDduOUdxZENfRlU4cjh2OWlrTVM0TmRXc1lHQ0RxcXJDbjNTQUJoejZxZkp3SXpnTHBZTmsxUlE0aVJrWDVNa1p5Z0lSUDA5MFJlVHVmLXFvTEJ0TG5sQkYwN1ZBZ3R2cmZoaS1Pb3daNGdCejd4YVpBNUZTMERkcmhUVUJqUGxkMmEyR3BNWDYwVklhQlZPSk9jN0stMUp4YVVIbmNGSXFlLW1WSV9NZlFUeGJtRUt5b1BPWTN1M0hDZVlNQ2VvVUdiUUpqVDR3WldWTHBfUGJiblNsRkFuT19zR09OaEZlT1VYZlMtRUIzRHVWZ3VMaTQ?oc=5",
    "date": "2026-06-29"
   },
   {
@@ -157,13 +164,6 @@
   },
   {
    "cat": "media",
-   "source": "Streetwise Reports",
-   "title": "Decade Resources Ltd. Advances Multiple Drill-Ready Projects in British Columbia's Golden Triangle Amid 2026 Metals Market Strength",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVldUNVVqdGhjYi1MLWlSZ1lNNlR6dHVBM0R4dzBfT2wyY1BaelNfSUoybFlHNFRjS1BKTFZ3cktDWnZlei11Qi1YR0lxRGxWSUVuWXBnMFJoU1M4LWZxY0NtNjVvUlYzaVU5bVZCaFd1dUt6YldpZHZWSGk2X1lHNXNCOUdOQkVldDc2UmV5alNNZFozVk9WclM1c0Z1bl9jbW9XZWhTYjJvdndfMXNDRzRvOVYyUHNZZ0JpREZKS1ZNWEM0UlZrSW41WjNtT1FkUTVMTjlMaGZKZ1NxMDZKVkRNQmNweG5YMTc5ZGk4WEFUb1lYdi1WV3YxTXZpck1XdkE1UnBZbV9pUXVwWVBpYTVVZ0Uzdw?oc=5",
-   "date": "2026-06-13"
-  },
-  {
-   "cat": "media",
    "source": "Junior Mining Network",
    "title": "Eskay Mining announces First Targets in its 5,000 meter Drill Program on its Corey-Eskay Property in British Columbia's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPS2llY3d0b0EzU3hja25RNW9idmYyM1d1N0tZZzFIU0hVZnFuVE9IclNjelAtWXpTeEZveHg5UXkzcG55T2czV1FNTHVPQ0hjQzY5M0JzMktDZ3l2MFpOOWRFLVhPdFlwZ2tzR1piSHV2bHV3YkQ1b1B0M2F3OGwzcHZpYURxMWprcy1tbGNqa1EzbmlyRDMzcUFBNUZuY1dxSDI4dmJYOF9MU2ZQMkh0OG5GcFE4ZWF1MS1zNzRpWUduc1MtY3l2VWVac0RFdll6dWd5Uk5oekNSQU9Yd2NSaWNGWk5IaEZUSjBBRml3VEtwZEQwNE04WEhFQ3I1YU5lWHMtNE9EWmxWOFJTdVpZdzZST0JtNVludTdhaFFHMkdON2kxU3VWaUlsNUxRSEJYQlZZbjdvdXRZQWxZSS1JRkRkZFFacGE2WWdXTTRSYWlmaTdjeHR4ek1tc0dGZw?oc=5",
@@ -175,6 +175,13 @@
    "title": "2026 Drilling Program Begins at Treaty Creek Property, Golden Triangle, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTA5VG5OWUFFRlV4cDJrZFluTUV3VWtWcVNhdVIzRVlILUhNZy1GZ0E5WmJjOXY2aGF1dy1YRDh0SnVXUHlqZ0JINHN4bG92SndaWnhUTEdxaDE2elZjeXhBZXNHblhyV1Y0WEJtM0ZMZlJxcC1BNVM2MXcyR0oyeDBhbTdic1M4cHVtNDc3NjVuTzVDLUZna1FiNTh2YnpqRzlTeDFwQmhtbGlnUl9iOGxWUQ?oc=5",
    "date": "2026-05-21"
+  },
+  {
+   "cat": "media",
+   "source": "Junior Mining Network",
+   "title": "Romios Gold Resources Announces Sale of Select Golden Triangle British Columbia Claim Blocks to Galore Creek Mining",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQmphaHBNYWhIVGdBUnhmc3gzR3NDcnNlSDVRY1IzSlI0WGlSU3VyMG03bmJyaVQ4MFI3NXRqcFlxdE5PV2FQNnBmZ040dkNaRXhCc240RmQyRTVkVGlfU1A5LWZ4czh6SmhrUjN4Y09SU1N5MzdfWk5PaDJXSDFncGdrQ2dwZ0ljUEZYMFlLUWc2VnZFUnY3akNQRWhIaGdyWjBHbGF1N2lqLTFDTThOQ1F3OEliTjVwVjFtNXRCU2QxV2cwR3dMa1h6U0RnTjhzRkd0cmJ3LTBNVHc3YVdUaDlJckpkSk8xaC1HUmdMVUpqc0kwVnN6UUl5RnhVeUt4RmpMSkVCaTE4SGdfWUpRNFVGbk5BX204bjNPd1ZWcUVrZ3VXbU5Gc2lqUUx4cFkteXhLeFhPQVJNRlZCeUxTOEtENlM2WF9rVTQ2Rmw5MHBVbExH?oc=5",
+   "date": "2026-01-29"
   },
   {
    "cat": "media",
