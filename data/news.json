@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-12T20:39:34.842Z",
+ "updated": "2026-09-13T04:57:51.468Z",
  "items": [
   {
    "cat": "media",
-   "source": "worldatlas.com",
+   "source": "WorldAtlas",
    "title": "The Fastest River In The United States",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDhhbVFPZ011MWdBdmt6ZnkzbkViLVBFZno4UjEyd25WM1hBVHJUR0xMZk1tSGRDSnl2VFVtVGwtSHhJNVJ0b0FBc21yaU5PYzF3ZGZ6eldpVmoxVHk5UDMwYUlnNFNCelFrY3pUSWxfMFNkSlpBSC1rQnpwdktNbnBVTQ?oc=5",
    "date": "2026-09-11"
@@ -16,6 +16,13 @@
    "date": "2026-09-02"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "The planned Canadian Armed Forces (CAF) activities in Tahltan Territory have been CANCELLED",
+   "url": "https://tahltan.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-1.49.02-PM.png#new_tab",
+   "date": "2026-09-01"
+  },
+  {
    "cat": "media",
    "source": "Alaska Beacon",
    "title": "Mining projects opposed by Alaska tribes get support from Canada, British Columbia and First Nation",
@@ -24,7 +31,7 @@
   },
   {
    "cat": "media",
-   "source": "newsfilecorp.com",
+   "source": "TMX Newsfile",
    "title": "Goldstorm Metals Provides Updates on the Ongoing Phase I Drilling and Reconnaissance Program and Completed Geophysical Survey at the Crown Project, Located in the Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPcE4zLUJHeEttbGFJU2pHYjRXUmwyMC1kMUVaV1lUOGNsTjFkdEFubVVUU3J5RE9hdWU5T3AwUFUwd3VVY3kzTjJUMTdJVm5jT3ExRExzYlBGV0hfQldvaFZXdFRjRm1ubTlrS2pKUXh5Qk5IRjdBb2hEUGFidnAyWEhyM2VNdFMzdGVxaTZjSDdZSEIxTVpxaHJhdVh0c1VFWElIbm9Qbms1ZnlpM1k2bTV4VFVUa3NocFJkWUtHa0FrUWQ4ei1yNHRZUzlHMmt3Tm1OUVBtbWIydUlvTnRNeVB0MG5BRzNUZ29QbXpJaFZEa3NpN2dXSEJGdVhiTGRTaVJfMXZSaXcxSVFGQTV6bWwtNE80amRKb255NUZFR3NlbTR4VmJxRlZ5N1lDVEdsWGZwdHdNaEdHMjUtelllNmctUlN0OE1taFJtdGNGQ3JtWVhOSHRwQXo2bEw?oc=5",
    "date": "2026-08-31"
@@ -87,7 +94,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
@@ -164,7 +171,7 @@
   },
   {
    "cat": "media",
-   "source": "streetwisereports.com",
+   "source": "Streetwise Reports",
    "title": "Decade Resources Ltd. Advances Multiple Drill-Ready Projects in British Columbia's Golden Triangle Amid 2026 Metals Market Strength",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVldUNVVqdGhjYi1MLWlSZ1lNNlR6dHVBM0R4dzBfT2wyY1BaelNfSUoybFlHNFRjS1BKTFZ3cktDWnZlei11Qi1YR0lxRGxWSUVuWXBnMFJoU1M4LWZxY0NtNjVvUlYzaVU5bVZCaFd1dUt6YldpZHZWSGk2X1lHNXNCOUdOQkVldDc2UmV5alNNZFozVk9WclM1c0Z1bl9jbW9XZWhTYjJvdndfMXNDRzRvOVYyUHNZZ0JpREZKS1ZNWEM0UlZrSW41WjNtT1FkUTVMTjlMaGZKZ1NxMDZKVkRNQmNweG5YMTc5ZGk4WEFUb1lYdi1WV3YxTXZpck1XdkE1UnBZbV9pUXVwWVBpYTVVZ0Uzdw?oc=5",
    "date": "2026-06-13"
@@ -185,7 +192,7 @@
   },
   {
    "cat": "media",
-   "source": "North of 60 Mining News",
+   "source": "miningnewsnorth.com",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
