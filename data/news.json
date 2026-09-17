@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T05:00:19.491Z",
+ "updated": "2026-09-17T11:51:27.924Z",
  "items": [
   {
    "cat": "media",
@@ -94,7 +94,14 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "mining-journal.com",
+   "title": "Canada backs Red Chris expansion with C$500M",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3NFUnBrRGVvM3FxTUZMeDVWQURDU1FTZUVuRThkOGsxSHU0dDdBRjRFVXNHREYyOGhuZHV6UTZUR0doajhkV29DWE04TDkxZ2xWSS1tMzg2TnZtWmdKSDMyZ3luY1pOQzd4c0h6ekRYMUw2OTFjazNKQXBaRF9mUFhkcU5QTk9ZWElSMDRPRDBoTHQ4SXJET3NBVmJkNnpiOVI5WFM0MDh1SnpBdG1F?oc=5",
+   "date": "2026-07-03"
+  },
+  {
+   "cat": "media",
+   "source": "news.gov.bc.ca",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
@@ -150,24 +157,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "5 people ordered banished from Taku River Tlingit territory",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
-   "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
    "source": "Toronto Star",
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdHlfS01hbkxVRlRFNExlc01yTUl0cnhoSUhhZklnNG4wWG9qQ3l5eUxOcGNPdUZPTlhSZEpkbWRFLUdxNlhhb0U4blFHaENBOElYQkdqYUNTUHBDV0lnbWo0VTF5ZV82bUZvaTdPb3g3UkkybDVKVkh5dnJIRlNZQ29UVjloanpPQ2RQUjFoM1VvMzJWZkNZb1FUallSa2lnZnQwSFVNUF9DMlNZaGhvcDZlMDExNG14OWVVdkFJZHY2Njc0cFFCMWVaVFQwOW01Vk1nSnRuZ0JlTEtNZ1JpenNqM1ZhdW9HNU5saHZRWXpYcG15R19IS1RjaV9Ca0NQUGwwQmJWaFFOR2NZRUlxWnRn?oc=5",
    "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
-   "source": "Resource Works",
-   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
-   "date": "2026-02-13"
   },
   {
    "cat": "media",
@@ -189,6 +182,13 @@
    "title": "Gold Runner Exploration Options Golden Girl Property in British Columbia's Prolific Golden Triangle from B-All Syndicate",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRG5lUUlvaVRTUnphckp3dU9RbUo2VGdFaF9VNjg1SnIzMDRIeGNrMnVFYzg2V2d3d3hJTmlxalY3cldCUEhicldWX3k1Q0g0dlJ5ejNIb2ZqWEtzblg1WmtSR21pWnRXeTMtQ1J1NWt2STVZNjhtcEFYM2pYOTVScVJrckYxQkJDcnkwYUdkSzA5YkFGUXBzcHg1OHJGZzVsVG9sM1FnbGRURk9ZZmZhT0RwQWJjeUlTNmVPUzhsNGVDeEZpWVRNQ1k4b1FUbWl0T25rRjFJWWlIVWk3N3B2X1hoZnZvLVBkMEw5R2RuQlplTGtIX2VPV3hXRXpJYWFIOVlfMElQOUlEQmVXaklqQkh0c0RyMGo3LW9aOG5zOWkyejluVXNZa25Cbw?oc=5",
    "date": "2026-01-23"
+  },
+  {
+   "cat": "media",
+   "source": "Junior Mining Network",
+   "title": "Kingfisher Metals Confirms Blind Copper-Gold Porphyry Discovery at Hank, HWY 37 Project, Golden Triangle, British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNRVNlRWx0ZlBBcEp1Y3VZUkFBQ2lNU1B0R0Iza1dBbi05c1VpS1R5QVBQTTZBOVRvVUEyLTFLVXBrdkhTVGNjeU1kRGV2Q0FFcXBXWW4xaGJ0NUl5NUMzbnp2dEcwMEc5MTFfcW9jVjdXaE1KMldoc2VLTkUyWkZYMlpWZVo5ZXdUY2lXUW0xRmR5SHgwUFNqNXdIMGZNbjhWNTV4U3hfczM0bnZxbE9MMy1sdnc0OVZBWkxqRlltbHhPdDh3Y1Q5Um9sTnd1VXRDVVhaV0JyLVA5NlRGbURnNkdndTRFNWFrTWQxcXIwLU9PY1hZMjVzN3lLMUdRcFdXeUtRYnRWdENzTnZMUDg4WUtxc3lJVG1kZGMyQ1VBZ0lGUXp2RWRFcldTT1JPaTVQbWlDQ0ljbmhEUQ?oc=5",
+   "date": "2026-01-22"
   },
   {
    "cat": "media",
