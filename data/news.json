@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T12:42:22.419Z",
+ "updated": "2026-09-25T18:34:42.337Z",
  "items": [
   {
    "cat": "coalition",
@@ -10,7 +10,7 @@
   },
   {
    "cat": "media",
-   "source": "wrangellsentinel.com",
+   "source": "Wrangell Sentinel",
    "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTExpRTVHbjd0U1dFTEVocW12Vjd2U1pNdGZUcG41b2U2bWxCUGJkVVZxcjk0LXFpa25QbjR3ZXVWTnJ0Y1AxbUxUN2taVnhaWm5WLWNPRTgwbm41RkoxczQ1VExnWmp1ZWFSdzcwZnl1ZkxwZFRIZGJiZ2JQTjBudU42NGNudnozOTBER3FiSW5GaW1iR3YyaWxaaUx0dmJPQWN0VkpCbWhUNFFJcWtOQnBDSDVucEhpZE5JX2FOTWYzVDJwSGc?oc=5",
    "date": "2026-09-23"
@@ -28,13 +28,6 @@
    "title": "Gold Runner Expands Golden Girl Property in Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWklSdnFPT2dYa3ZOZ1NYTUtvZE11aEs0M29zNFZPcmhHQUdtVUJCLXZxelM3azBuQjVTbDl1cU51UXpLRmZKd2VTNDFGWVFNWEJ1TXhWMG1Cd2U4allNajF6MDJzSDdCSFoyWnFoazFSSmU3MEVWcFhuMUQzRWdDQ2l2V3VsaHJTRWx3Um5jaEo5ZEJoQzZkd045b0lWd05HQTdr?oc=5",
    "date": "2026-09-10"
-  },
-  {
-   "cat": "media",
-   "source": "The Globe and Mail",
-   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNFpSU241YVNJUUhudkQ4QjVWS2RjVGI5c1ZsaVRDMGJyc1NWLWI2NDRrd0NzRS1Wd3RzMzBURHR4b2g1MTJNRDJzbGZGWkdXdWRiaHdwdjN3SVAwNWh6ZG1rbXJfUUs4Wjh1emVLTWtBY0VhNzhvYXZEZ1JiMzJ3WDVXTDBKM0Z4OUZoR05UWDIxQ19NdTZWY2c3amhwdlg3c0g3WjlNUXliN2g0R1VBUXRaNlBoUElnelp0RS1pRndIaW04R3ZETDFCb3FycW5KZWE3RWNCX1lkWjdSb19EcHIyX01iQ1pmSHhRelBseEdDa1o1a1ZPZndTQmMyank5cWhadmxtSFVqWlYzWURTdkZVc3ZqcXc?oc=5",
-   "date": "2026-09-02"
   },
   {
    "cat": "media",
@@ -98,6 +91,13 @@
    "title": "Enduro Metals Commences First-Ever Drill Program at the Andrei Copper-Gold Porphyry Target Golden Triangle Region, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVaV2tBcnJMeW1STGdoNXE2R2FhOFhJclBUdEZpNVNua0N2a0NZazgydS1rVjQxaW84REhzRjl1UUoyMjNYUWRyY3M4VVNLbHVCbkNpUE95RVgzTmdXT2VwNl9aMzJjTUkxMmpjVlNyTV9tbWJoOVlZVGJiVFlROEZmd2N4c0dBZXNxR2YxTFAyeHo3UUJXeDZrb09FX0tYckJSQmdzbzZUNDRfYU9BeVIwWDlrMndteEFFRHQ2UDA2d19fb0pHVEtpM1dmbzZDTHVJTml5cmptVGVJU00wcUNkRkpYZXdjT3lCMUxkVW5PZURkbXBtTktzLVFsRS1HTnc?oc=5",
    "date": "2026-06-29"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "Red Chris Mine in northern B.C. extends operations into 2040",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
+   "date": "2026-06-26"
   },
   {
    "cat": "media",
@@ -178,7 +178,7 @@
   },
   {
    "cat": "media",
-   "source": "resourceworks.com",
+   "source": "Resource Works",
    "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
    "date": "2026-02-13"
@@ -192,7 +192,7 @@
   },
   {
    "cat": "media",
-   "source": "miningnewsnorth.com",
+   "source": "North of 60 Mining News",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
