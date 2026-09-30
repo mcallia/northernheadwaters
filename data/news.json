@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T12:48:58.125Z",
+ "updated": "2026-09-30T18:38:32.201Z",
  "items": [
   {
    "cat": "media",
@@ -23,6 +23,13 @@
    "date": "2026-09-23"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Reminder: One more week to apply for the Tahltan Bursaries with Galore Creek",
+   "url": "https://gcmc.jotform.com/form/2026-tahltan-gcmc-and-ann-m-ball#new_tab",
+   "date": "2026-09-22"
+  },
+  {
    "cat": "media",
    "source": "SpaceRef",
    "title": "Kitimat-Stikine E Weather Today & Hourly Forecast",
@@ -35,6 +42,13 @@
    "title": "Gold Runner Expands Golden Girl Property in Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWklSdnFPT2dYa3ZOZ1NYTUtvZE11aEs0M29zNFZPcmhHQUdtVUJCLXZxelM3azBuQjVTbDl1cU51UXpLRmZKd2VTNDFGWVFNWEJ1TXhWMG1Cd2U4allNajF6MDJzSDdCSFoyWnFoazFSSmU3MEVWcFhuMUQzRWdDQ2l2V3VsaHJTRWx3Um5jaEo5ZEJoQzZkd045b0lWd05HQTdr?oc=5",
    "date": "2026-09-10"
+  },
+  {
+   "cat": "media",
+   "source": "Investing News Network",
+   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia's Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVlNUzR1NXVqdUY1Z0w5b0NfdkFBd2hGejgxdVduMmdJcldueFF4aHFnLURvQUVvdGNNQnRrY1c3QnFYYXZhNnUzVk9jMl9GcnF1dE5MSFp5NWVEU05hR0JfNnMtdVNTOHBZeUNESGJOcWI5OGlFWXlyVkN2OEF2X1piX2pmMXBXSnh2UUw3TkNSVXhvMFV5Tk03bkczSnhCdExDSU9vVEJWOVdWUnlHVXZYZ25ZclpmNWhtR2xYZUhSeTFybEJWeGhB?oc=5",
+   "date": "2026-09-02"
   },
   {
    "cat": "media",
@@ -66,21 +80,14 @@
   },
   {
    "cat": "media",
-   "source": "miningweekly.com",
-   "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
-   "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "newsfilecorp.com",
+   "source": "TMX Newsfile",
    "title": "Enduro Metals Commences First-Ever Drill Program at the Andrei Copper-Gold Porphyry Target Golden Triangle Region, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVaV2tBcnJMeW1STGdoNXE2R2FhOFhJclBUdEZpNVNua0N2a0NZazgydS1rVjQxaW84REhzRjl1UUoyMjNYUWRyY3M4VVNLbHVCbkNpUE95RVgzTmdXT2VwNl9aMzJjTUkxMmpjVlNyTV9tbWJoOVlZVGJiVFlROEZmd2N4c0dBZXNxR2YxTFAyeHo3UUJXeDZrb09FX0tYckJSQmdzbzZUNDRfYU9BeVIwWDlrMndteEFFRHQ2UDA2d19fb0pHVEtpM1dmbzZDTHVJTml5cmptVGVJU00wcUNkRkpYZXdjT3lCMUxkVW5PZURkbXBtTktzLVFsRS1HTnc?oc=5",
    "date": "2026-06-29"
@@ -129,7 +136,7 @@
   },
   {
    "cat": "media",
-   "source": "Toronto Star",
+   "source": "thestar.com",
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdHlfS01hbkxVRlRFNExlc01yTUl0cnhoSUhhZklnNG4wWG9qQ3l5eUxOcGNPdUZPTlhSZEpkbWRFLUdxNlhhb0U4blFHaENBOElYQkdqYUNTUHBDV0lnbWo0VTF5ZV82bUZvaTdPb3g3UkkybDVKVkh5dnJIRlNZQ29UVjloanpPQ2RQUjFoM1VvMzJWZkNZb1FUallSa2lnZnQwSFVNUF9DMlNZaGhvcDZlMDExNG14OWVVdkFJZHY2Njc0cFFCMWVaVFQwOW01Vk1nSnRuZ0JlTEtNZ1JpenNqM1ZhdW9HNU5saHZRWXpYcG15R19IS1RjaV9Ca0NQUGwwQmJWaFFOR2NZRUlxWnRn?oc=5",
    "date": "2026-06-18"
@@ -164,16 +171,16 @@
   },
   {
    "cat": "media",
-   "source": "Resource Works",
-   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
-   "date": "2026-02-13"
+   "source": "Junior Mining Network",
+   "title": "Romios Gold Resources Announces Sale of Select Golden Triangle British Columbia Claim Blocks to Galore Creek Mining",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQmphaHBNYWhIVGdBUnhmc3gzR3NDcnNlSDVRY1IzSlI0WGlSU3VyMG03bmJyaVQ4MFI3NXRqcFlxdE5PV2FQNnBmZ040dkNaRXhCc240RmQyRTVkVGlfU1A5LWZ4czh6SmhrUjN4Y09SU1N5MzdfWk5PaDJXSDFncGdrQ2dwZ0ljUEZYMFlLUWc2VnZFUnY3akNQRWhIaGdyWjBHbGF1N2lqLTFDTThOQ1F3OEliTjVwVjFtNXRCU2QxV2cwR3dMa1h6U0RnTjhzRkd0cmJ3LTBNVHc3YVdUaDlJckpkSk8xaC1HUmdMVUpqc0kwVnN6UUl5RnhVeUt4RmpMSkVCaTE4SGdfWUpRNFVGbk5BX204bjNPd1ZWcUVrZ3VXbU5Gc2lqUUx4cFkteXhLeFhPQVJNRlZCeUxTOEtENlM2WF9rVTQ2Rmw5MHBVbExH?oc=5",
+   "date": "2026-01-29"
   },
   {
    "cat": "media",
    "source": "Junior Mining Network",
-   "title": "Romios Gold Resources Announces Sale of Select Golden Triangle British Columbia Claim Blocks to Galore Creek Mining",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQmphaHBNYWhIVGdBUnhmc3gzR3NDcnNlSDVRY1IzSlI0WGlSU3VyMG03bmJyaVQ4MFI3NXRqcFlxdE5PV2FQNnBmZ040dkNaRXhCc240RmQyRTVkVGlfU1A5LWZ4czh6SmhrUjN4Y09SU1N5MzdfWk5PaDJXSDFncGdrQ2dwZ0ljUEZYMFlLUWc2VnZFUnY3akNQRWhIaGdyWjBHbGF1N2lqLTFDTThOQ1F3OEliTjVwVjFtNXRCU2QxV2cwR3dMa1h6U0RnTjhzRkd0cmJ3LTBNVHc3YVdUaDlJckpkSk8xaC1HUmdMVUpqc0kwVnN6UUl5RnhVeUt4RmpMSkVCaTE4SGdfWUpRNFVGbk5BX204bjNPd1ZWcUVrZ3VXbU5Gc2lqUUx4cFkteXhLeFhPQVJNRlZCeUxTOEtENlM2WF9rVTQ2Rmw5MHBVbExH?oc=5",
+   "title": "Romios Gold Resources Sells Claims in British Columbia's Golden Triangle to Enduro Metals for $300,000",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxObjdtLUV0Q0I5N2haV2pYWm5Cby1HTzdwQ1JncnFYd1lxY3FDRGNEaEpXUUw2aVI4cEY2T2FBc25GeG01UE5GNlZRRkpJdXFlbGlrMl9aam5ITk1uNElHR2NIbjJjMjlGUTZtdVdKc2lyMmhQZUE1djh3TVNoWmhUWkZlTkVQQVUwMlVlTzJObzFmRThhTzlKU3U5dXNOQV9uUlJnMUVzUzVmYTZOTmFEOGV3c2ZmV3lrSC1OeFBjUHJkT2FfWUZzTDNNZGJjQmFVaE9sem51a00zT0M0cEJaYmlKajhXT3NlLVB4ajltLWpqbWwxOFRpYzc1eGptQ3I5MDlBQUxFbEZZOUxQT1NBWVI1OGJfQjNoM1g3d2N6QQ?oc=5",
    "date": "2026-01-29"
   },
   {
@@ -185,7 +192,7 @@
   },
   {
    "cat": "media",
-   "source": "North of 60 Mining News",
+   "source": "miningnewsnorth.com",
    "title": "Major copper shift in BC's Golden Triangle",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
    "date": "2026-01-14"
