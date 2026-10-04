@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T19:08:11.313Z",
+ "updated": "2026-10-04T01:37:12.556Z",
  "items": [
   {
    "cat": "media",
@@ -30,20 +30,6 @@
    "date": "2026-09-23"
   },
   {
-   "cat": "coalition",
-   "source": "Tahltan Central Government",
-   "title": "Reminder: One more week to apply for the Tahltan Bursaries with Galore Creek",
-   "url": "https://gcmc.jotform.com/form/2026-tahltan-gcmc-and-ann-m-ball#new_tab",
-   "date": "2026-09-22"
-  },
-  {
-   "cat": "media",
-   "source": "SpaceRef",
-   "title": "Kitimat-Stikine E Weather Today & Hourly Forecast",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeW5YdjZZMWozQkFGcnJNOHFRa1dsZWZIZXh0VXZQV3dkYmV5SFREa1hSVmR4QW84VkpXSWoxQzluYjg2N2VuX2JqTC1lRzhsM05xT1VucGVIWVZoN1dRX2dRLWxsbTZwZ2d1TzRMQlpaOXpjVDlr?oc=5",
-   "date": "2026-09-19"
-  },
-  {
    "cat": "media",
    "source": "Yahoo Finance",
    "title": "Gold Runner Expands Golden Girl Property in Golden Triangle of British Columbia",
@@ -59,14 +45,14 @@
   },
   {
    "cat": "media",
-   "source": "markets.businessinsider.com",
+   "source": "GlobeNewswire",
    "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTzQxTGNEaWVGRXZUNkN5Mm1MaTNmc1dNQ1lkQy1Db2Q3VnR0U2xCbEhzaEwxbTZNd2xvZlgyVVFiYW1rbnd6UXF0X0hGeFc2TlhyekZ0N21mcEZVOHljeXhQQTl6NnU0WWlOS0NpVXpzNzRqNnRmV2JnZDJvTndMeURubXVhank1MmVHTHI3RFplbTJIajludFlvZlF3MVQwOFRqRjVCZ3hQQnVieHZJOGh3Tk1kU0pzUWprTlBPQ1diVGN5Z19jd1lWcnhXa0FORnFsVTRUNnlILWoyRHRUeEcwblo0MGtsQW5FXy1SclB3UWFB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczF5UVctOU04Vl9tX0g4MHdlTmZHQ2F0cFhjMF9XQ1dRZjJ4WHhJV01RckQ0YjJHc09BU01NOExSd0dMcVZhR2VKM2VvUFdoVDJvZUZtMEsxaWpmVWd1aDF3WkQ3cVhUY0p6ajRFZDJsR0lZU3N6MnozRWwyNDNpSkRxb1ByUm96cjA4dGQ2aEluVVNqa0lyOEl4bjZKVmxlZ0M5SHRwT08tYXhmb1JyaHJiUlVPdFUzRnJnWTNqQkNEdjdsSndzNG1FNm9kZE5tVjBjMmV2V2ZoM1NTdTVNYU15ZklDZ2FqTXl3c3h6RkVUamdaQ0hqalRPUWZ2M0h1UzkxU3d3?oc=5",
    "date": "2026-09-02"
   },
   {
    "cat": "media",
-   "source": "theglobeandmail.com",
+   "source": "The Globe and Mail",
    "title": "Goldstorm Metals Provides Updates on the Ongoing Phase I Drilling and Reconnaissance Program and Completed Geophysical Survey at the Crown Project, Located in the Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOcGp5YkNHSENFcTRfU01nTnprVTU3andUVHpHS1NTTXdJcHNmY2V2eDF4bU1mX2dxUjlZNEpWUUthaU5reGxpZG96Z0pmQmQtMExXdGRtVUNlVGZtWUtJMzRKSWVnQ0hkemcydExIc25aV3VwQ01GZ0sybTJjbGdtNmlBakowQ3pXTURNeXN2ZURlazhld2lkS2VLV1VKWFN3ajNZSU10UjF6ajR4SzNYTWFsYzNlSjgyb2kzVTk1UzJwcGo2bmQyQnRQd2FoSzVvRkJ6SmViSHVrd0VxaE1yTWNTbzZybmNBZXR6YnF5eEdHRHFFVEg0U29PSkJNaWQwUDJySXgxU3VUb0ZfSllGSWRwM2t0TVNUZEptWkFHN3lWaEtVVkR0NzNqbHczLTNZRHREQ043d3NwOXQycDM3VTJiNXpHUmZzNVgtdlY3bEJMRmlkWFBzMW41bkJ3VFNmNDU0eW9XNmtuZFc4NmNCLUVNRzY4d0NKVzFhd2YxWTBZMXpqck1ta2xJTF95Q045VnNvMkw4OA?oc=5",
    "date": "2026-08-31"
@@ -122,7 +108,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
+   "source": "news.gov.bc.ca",
    "title": "Northwestern land-use planning at next engagement stage",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
    "date": "2026-07-02"
@@ -133,6 +119,13 @@
    "title": "Enduro Metals Commences First-Ever Drill Program at the Andrei Copper-Gold Porphyry Target Golden Triangle Region, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPa295MWdMTF9EbDhxbVJpblo2ZkRhdEJjRDZrZWFrSE90M20xWUxRRE43U0JNMDRVQ3RtSjNMVTVlY3RuUVpGdW80Ujd1QVVYUFRBUGVNcG5xYi1uQ1NVQ0VwaDduOUdxZENfRlU4cjh2OWlrTVM0TmRXc1lHQ0RxcXJDbjNTQUJoejZxZkp3SXpnTHBZTmsxUlE0aVJrWDVNa1p5Z0lSUDA5MFJlVHVmLXFvTEJ0TG5sQkYwN1ZBZ3R2cmZoaS1Pb3daNGdCejd4YVpBNUZTMERkcmhUVUJqUGxkMmEyR3BNWDYwVklhQlZPSk9jN0stMUp4YVVIbmNGSXFlLW1WSV9NZlFUeGJtRUt5b1BPWTN1M0hDZVlNQ2VvVUdiUUpqVDR3WldWTHBfUGJiblNsRkFuT19zR09OaEZlT1VYZlMtRUIzRHVWZ3VMaTQ?oc=5",
    "date": "2026-06-29"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "Red Chris Mine in northern B.C. extends operations into 2040",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
+   "date": "2026-06-26"
   },
   {
    "cat": "media",
@@ -185,16 +178,16 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "5 people ordered banished from Taku River Tlingit territory",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
+   "source": "CityNews Vancouver",
+   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
   },
   {
    "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
+   "source": "CBC",
+   "title": "5 people ordered banished from Taku River Tlingit territory",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
    "date": "2026-06-18"
   }
  ]
