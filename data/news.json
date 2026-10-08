@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:11:31.268Z",
+ "updated": "2026-10-08T06:52:49.258Z",
  "items": [
   {
    "cat": "media",
@@ -24,6 +24,13 @@
   },
   {
    "cat": "media",
+   "source": "SpaceRef",
+   "title": "Kitimat-Stikine E Weather Today & Hourly Forecast",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeW5YdjZZMWozQkFGcnJNOHFRa1dsZWZIZXh0VXZQV3dkYmV5SFREa1hSVmR4QW84VkpXSWoxQzluYjg2N2VuX2JqTC1lRzhsM05xT1VucGVIWVZoN1dRX2dRLWxsbTZwZ2d1TzRMQlpaOXpjVDlr?oc=5",
+   "date": "2026-09-19"
+  },
+  {
+   "cat": "media",
    "source": "Yahoo Finance",
    "title": "Gold Runner Expands Golden Girl Property in Golden Triangle of British Columbia",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWklSdnFPT2dYa3ZOZ1NYTUtvZE11aEs0M29zNFZPcmhHQUdtVUJCLXZxelM3azBuQjVTbDl1cU51UXpLRmZKd2VTNDFGWVFNWEJ1TXhWMG1Cd2U4allNajF6MDJzSDdCSFoyWnFoazFSSmU3MEVWcFhuMUQzRWdDQ2l2V3VsaHJTRWx3Um5jaEo5ZEJoQzZkd045b0lWd05HQTdr?oc=5",
@@ -31,23 +38,16 @@
   },
   {
    "cat": "media",
-   "source": "Investing News Network",
-   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia's Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVlNUzR1NXVqdUY1Z0w5b0NfdkFBd2hGejgxdVduMmdJcldueFF4aHFnLURvQUVvdGNNQnRrY1c3QnFYYXZhNnUzVk9jMl9GcnF1dE5MSFp5NWVEU05hR0JfNnMtdVNTOHBZeUNESGJOcWI5OGlFWXlyVkN2OEF2X1piX2pmMXBXSnh2UUw3TkNSVXhvMFV5Tk03bkczSnhCdExDSU9vVEJWOVdWUnlHVXZYZ25ZclpmNWhtR2xYZUhSeTFybEJWeGhB?oc=5",
-   "date": "2026-09-02"
-  },
-  {
-   "cat": "media",
-   "source": "GlobeNewswire",
-   "title": "GoldInxs Announces Completion of Field Program at Millar Property in British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQczF5UVctOU04Vl9tX0g4MHdlTmZHQ2F0cFhjMF9XQ1dRZjJ4WHhJV01RckQ0YjJHc09BU01NOExSd0dMcVZhR2VKM2VvUFdoVDJvZUZtMEsxaWpmVWd1aDF3WkQ3cVhUY0p6ajRFZDJsR0lZU3N6MnozRWwyNDNpSkRxb1ByUm96cjA4dGQ2aEluVVNqa0lyOEl4bjZKVmxlZ0M5SHRwT08tYXhmb1JyaHJiUlVPdFUzRnJnWTNqQkNEdjdsSndzNG1FNm9kZE5tVjBjMmV2V2ZoM1NTdTVNYU15ZklDZ2FqTXl3c3h6RkVUamdaQ0hqalRPUWZ2M0h1UzkxU3d3?oc=5",
-   "date": "2026-09-02"
-  },
-  {
-   "cat": "media",
    "source": "Alaska Beacon",
    "title": "Mining projects opposed by Alaska tribes get support from Canada, British Columbia and First Nation",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSV9QUVU0Y2VsRHdPV2g5ZmZmTlk0MHlRazctWW5SUXpOVXpWOEtpZGh6eFl4cHM4ZGdHLWxMdzdjS21EMDhWQU5sWUZ2bHQwUllvcFFqLWJsSVFGYUJ1VUItNWFITGF1c1NZT0lNMTdzUGZiOFY1UndMbE9qRkNWdHpvdVlpMFJ0d0xmNE40Wi00M0poNUs4cEhWYWQzQzlpeWFkbDM0Ym9fYVNtUk5uSkwtT3pZdlNuNXpQZVFXMzVnOS1tYVdzSGFsS3JjZlNU?oc=5",
+   "date": "2026-08-31"
+  },
+  {
+   "cat": "media",
+   "source": "SpaceRef",
+   "title": "Kitimat-Stikine A Weather Today & Hourly Forecast",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oYlhraUZ3cmdjOEx5b3k1a2hkQ2FXdzlDb2JZYkZ3bnVTOVJoaUV3ZVlsTm5SWmRzRkZmSXVhTmp0TEZMUkJCbHF5U2JzMU1INS15ckUzT18xUjdjS1ZpYTIyV3VhRzNZZHpHTWtzZ2J5X3ZIRWc?oc=5",
    "date": "2026-08-31"
   },
   {
@@ -77,13 +77,6 @@
    "title": "Gold Runner Exploration Announces Commencement of Radiometric and Airborne Magnetic Surveys at Golden Girl Property, Golden Triangle B.C.",
    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQOTBlb0hmOE5aSEhRQ1FHV2FXdHNoMU1aS1kzWGJVb1BYZTF6M2Z0MzcyVlU5STM5MVMxalhmb3lseFlOclZLOGstWjlfUm9MNGNTc1hja3RldmlGY3NlNHR3cWNoWC1VZ1Z5WDduTllFaVhPVnRsR1NBUFppZHk2S1Ytdkd1YUNjQU5ra1VWMFZsVTlZb2NuNnhuQTBXRTZTcVotenMwQk5UdzdFTnlrdmxObXdTd3JjbHZCLXZfdVppczJZQWRSMnFMRl9vWWd3SDA0dXVmNGcycVdPVjl0UkZKV0FRSTEyT1RzVmVYZElrZ3R4WjRvV1VucW9LeFdtbDRIZUpnNzB0MFl4dE0xejZ3VnJoUWhXeExPTHEyT3pQSHNYLU9YTzBrbnpILUhtd2YxNnl1dzBOVWF0a05jOUE1cmZzVDRISi1HXzREaw?oc=5",
    "date": "2026-07-07"
-  },
-  {
-   "cat": "media",
-   "source": "BNN Bloomberg",
-   "title": "Imperial Reports Red Chris Mine Block Cave to Receive $500 Million from the Government of Canada",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVWNMS1BaSmU1ZUZFeTkzd18xUGxOZjE2N3Q4Sk94MjdiWTd3OENiU29LbEdCMV92aGc3aFF5THgwNmJ0dFcxT0ZMeUdzTzJLZnllV0N0czVEUzVfLXNBQmwtb2gtcGVjSDZiVGQzc016WmlVcWtVTUF2QWQtcnpGVmVfN1dJd2VndDg1RXFIaWloWmxvTjBhZGtFT1Q0LXBacHVhMktfekwwNFlMc3NzdEctNlhsMktSTmhTcXR5R3U4Q19uOXdyNzRuUDZhZXBLSDkxNm5HTXpIdk1XY1BQaEVNVm8?oc=5",
-   "date": "2026-07-06"
   },
   {
    "cat": "media",
@@ -196,6 +189,13 @@
    "title": "5 people ordered banished from Taku River Tlingit territory",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
    "date": "2026-06-18"
+  },
+  {
+   "cat": "media",
+   "source": "Streetwise Reports",
+   "title": "Decade Resources Ltd. Advances Multiple Drill-Ready Projects in British Columbia's Golden Triangle Amid 2026 Metals Market Strength",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVldUNVVqdGhjYi1MLWlSZ1lNNlR6dHVBM0R4dzBfT2wyY1BaelNfSUoybFlHNFRjS1BKTFZ3cktDWnZlei11Qi1YR0lxRGxWSUVuWXBnMFJoU1M4LWZxY0NtNjVvUlYzaVU5bVZCaFd1dUt6YldpZHZWSGk2X1lHNXNCOUdOQkVldDc2UmV5alNNZFozVk9WclM1c0Z1bl9jbW9XZWhTYjJvdndfMXNDRzRvOVYyUHNZZ0JpREZKS1ZNWEM0UlZrSW41WjNtT1FkUTVMTjlMaGZKZ1NxMDZKVkRNQmNweG5YMTc5ZGk4WEFUb1lYdi1WV3YxTXZpck1XdkE1UnBZbV9pUXVwWVBpYTVVZ0Uzdw?oc=5",
+   "date": "2026-06-13"
   }
  ]
 }
