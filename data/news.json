@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:38:47.112Z",
+ "updated": "2026-10-11T01:18:10.363Z",
  "items": [
   {
    "cat": "media",
@@ -16,18 +16,18 @@
    "date": "2026-09-25"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Reminder: One more week to apply for the Tahltan Bursaries with Galore Creek",
+   "url": "https://gcmc.jotform.com/form/2026-tahltan-gcmc-and-ann-m-ball#new_tab",
+   "date": "2026-09-22"
+  },
+  {
    "cat": "media",
    "source": "SpaceRef",
    "title": "Kitimat-Stikine E Weather Today & Hourly Forecast",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeW5YdjZZMWozQkFGcnJNOHFRa1dsZWZIZXh0VXZQV3dkYmV5SFREa1hSVmR4QW84VkpXSWoxQzluYjg2N2VuX2JqTC1lRzhsM05xT1VucGVIWVZoN1dRX2dRLWxsbTZwZ2d1TzRMQlpaOXpjVDlr?oc=5",
    "date": "2026-09-19"
-  },
-  {
-   "cat": "media",
-   "source": "Yahoo Finance",
-   "title": "Gold Runner Expands Golden Girl Property in Golden Triangle of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWklSdnFPT2dYa3ZOZ1NYTUtvZE11aEs0M29zNFZPcmhHQUdtVUJCLXZxelM3azBuQjVTbDl1cU51UXpLRmZKd2VTNDFGWVFNWEJ1TXhWMG1Cd2U4allNajF6MDJzSDdCSFoyWnFoazFSSmU3MEVWcFhuMUQzRWdDQ2l2V3VsaHJTRWx3Um5jaEo5ZEJoQzZkd045b0lWd05HQTdr?oc=5",
-   "date": "2026-09-10"
   },
   {
    "cat": "media",
@@ -63,13 +63,6 @@
    "title": "Imperial Metals says B.C. copper-gold mine on track to hit 2026 targets",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWVOck94c0diRjlMdGV3LW5KbV9RbTVyQmhBNVRXSDh1TTVqUzAyM1VmakxxQUFZVzNjOXJnM1NOVVdYOWNzMUNOM2J6OHFiX0doTlI0U0oybGxzWmxSVmFMTVVkQ3JwdGZndDRwbWIza0tPUl82M2M1ZzFrSThKRF9SZ3BMN0t5NmtSN3JfX19uUk90NmhlRWZndUlFUQ?oc=5",
    "date": "2026-07-24"
-  },
-  {
-   "cat": "media",
-   "source": "The Northern Miner",
-   "title": "Barrick bets on BC with 9.9% Kingfisher stake",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm1lYUVCZjZEQXRhclRaUzBZX0xvdUllWkc4dXI5allZVmh2N3p3ejNQajhrbFcyTjFDYnJnbFd3blZRakp0SGZYNzZuMDZ4V2o5U2tXVnlUa3VscVZwUkRyaGZRdm5hMDJJTUQxS2hCWXVuQkpMeG1ERTU1VHdWT0lrRmZfcEFWdlpKRDlLZGw1OEdzRVE?oc=5",
-   "date": "2026-07-21"
   },
   {
    "cat": "media",
@@ -136,6 +129,13 @@
   },
   {
    "cat": "media",
+   "source": "APTN News",
+   "title": "Red Chris Mine in northern B.C. extends operations into 2040",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
+   "date": "2026-06-26"
+  },
+  {
+   "cat": "media",
    "source": "The Northern Miner",
    "title": "Newmont’s Red Chris underground expansion gets regulatory green light in BC",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVJHMHh5enBxVnJ3NkFkQUdzVU1ib0d5cWpQWkVXSmxna0pBMTlpT2VnNnAwUGZsbjd5dkRuLWVfNEhENjJvWlVWNVRzSms5UURJQmFySWhpd1N6aHRlTlZ2eWtBLXhiVkdsN2M5dWZsNDJkeVU0ZGtlRFBteFlNWUlFbGVnVExlSkdMR1pBUkxKMWNTMHR5Q1dFWGw0T05EYjh5SGpYMUJhSVc3a2MxclpzTVBoWW1aNlFqOWVB?oc=5",
@@ -171,10 +171,10 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "5 people ordered banished from Taku River Tlingit territory",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
-   "date": "2026-06-18"
+   "source": "BNN Bloomberg",
+   "title": "Newmont’s Red Chris mine gets key approval for block cave transition",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOengtSTUzTFBZVWdtSjBIdVhLSnBZZlJBSUlzUXl3SVFuakVreG1lQmlCajFHM3VJc3ZtU0l0a29DMlJaZVRqQ24yTjZpbzU4ZVZ3alY0SUQ0QVE2ZmFPMGQ4RTVLQ0JXcm1Fa3dqZlBtU1RfaEVMRmFuTWZHc2xhaERJNy0taktHakxtZC14YlBzcVJScFlLbjczNzl6RjVKalU5cFpVWGRkZXlBdzJRbzFwNVZtaVphWEd2THlHUUVIWEx1RUk5Rg?oc=5",
+   "date": "2026-06-19"
   },
   {
    "cat": "media",
@@ -185,10 +185,17 @@
   },
   {
    "cat": "media",
-   "source": "Streetwise Reports",
-   "title": "Decade Resources Ltd. Advances Multiple Drill-Ready Projects in British Columbia's Golden Triangle Amid 2026 Metals Market Strength",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVldUNVVqdGhjYi1MLWlSZ1lNNlR6dHVBM0R4dzBfT2wyY1BaelNfSUoybFlHNFRjS1BKTFZ3cktDWnZlei11Qi1YR0lxRGxWSUVuWXBnMFJoU1M4LWZxY0NtNjVvUlYzaVU5bVZCaFd1dUt6YldpZHZWSGk2X1lHNXNCOUdOQkVldDc2UmV5alNNZFozVk9WclM1c0Z1bl9jbW9XZWhTYjJvdndfMXNDRzRvOVYyUHNZZ0JpREZKS1ZNWEM0UlZrSW41WjNtT1FkUTVMTjlMaGZKZ1NxMDZKVkRNQmNweG5YMTc5ZGk4WEFUb1lYdi1WV3YxTXZpck1XdkE1UnBZbV9pUXVwWVBpYTVVZ0Uzdw?oc=5",
-   "date": "2026-06-13"
+   "source": "CBC",
+   "title": "5 people ordered banished from Taku River Tlingit territory",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
+   "date": "2026-06-18"
+  },
+  {
+   "cat": "media",
+   "source": "CityNews Vancouver",
+   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
+   "date": "2026-06-18"
   }
  ]
 }
