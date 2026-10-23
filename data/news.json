@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-23T12:42:07.373Z",
+ "updated": "2026-10-23T18:38:32.761Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "The Northern Miner",
+   "title": "Newmont prices Red Chris expansion at up to $4.8B",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVV0RHdIYUd6T1hFNFBoZG9UU0dEcEZTalIwVDN3S0haY0xHWUwtS1dQQTVjcUxFVURuTTNPbjR0YmZlQWdhV0xwMkY4TnA4a3pxVjBjNVhnODdOdGtpd3JsZzgxSHZkOWNtS0U2eDV3T2FnTGQySHgwOHEwa290MlNaQ1I2bmwzTTktbnljdnFqc1dpUUdjb0wzSQ?oc=5",
+   "date": "2026-10-23"
+  },
   {
    "cat": "media",
    "source": "markets.businessinsider.com",
@@ -16,6 +23,13 @@
    "date": "2026-10-21"
   },
   {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Pack Dogs and Family Pets: The Tahltan Bear Dogs in My Family",
+   "url": "https://tahltan.org/pack-dogs-and-family-pets-the-tahltan-bear-dogs-in-my-family/",
+   "date": "2026-10-18"
+  },
+  {
    "cat": "media",
    "source": "Investing News Network",
    "title": "Goldstorm Metals Completes 2026 Exploration Program and Provides Initial Results from Rock Sampling at the Crown Property, located in British Columbia's Golden Triangle",
@@ -24,10 +38,31 @@
   },
   {
    "cat": "media",
+   "source": "Farmonaut",
+   "title": "Gold Mining in BC, from Brucejack to Your First Cell Claim",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQODhvcEdhbnJMZUNNc2NTbzVLLTh4Y1h1b3F5Zm94aEg1Tl9adl9GZVRlRm1QX2JxM2dIbTY2YmNVa0s2NzFEMUJ6eWctZDBCaWRxY2RTSDhoTFMxdWc0LW5ycmY5VDVTMTVNSFROWTE0QVF2czczM1dhWF8zZVZ4WEZwUUxyQQ?oc=5",
+   "date": "2026-10-15"
+  },
+  {
+   "cat": "media",
+   "source": "Farmonaut",
+   "title": "Golden Triangle BC Exploration: Deposits, Ice and Access",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzZfZDhDTU1sdDgyUTRUcWpKN29MWDVPY210RndtVHA5d040bmxiY2czeEdlcEI5RjV1bk5wSkxGc1FZZkpKejdDSXF1S3ZUZDF4eUJ2TTdaaENXYTZtY2k4enFuT2dtcmtjZWUzT0QwU19GdjJrdjVrTndJVnA1dlpFUk1GTmlNME1sZ2tLdmE?oc=5",
+   "date": "2026-10-15"
+  },
+  {
+   "cat": "media",
    "source": "TradingView",
    "title": "Exploration Update from Treaty Creek Third Drill Added — Preliminary Economic Assessment Expected in Coming Weeks Golden Triangle, NW British Columbia",
    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPcjVwczNFU3pUQnVyVjV5UFdEU0ZpZllUYS1IZkU5R21mZHlvd0I3elhxdjhuOTRUbUNneGVnZlB0eXVDV3RWSFJhS29WaFBQMVZrbVBUX1JUZ2RYaDNoSDktSnNkRDE1MGJNQWlYZjVVVGxPbndzS3JNWDBpMUJpTkZ0RXpHa1EyTjJvaWNUclRqUTcwdWVJRExxTHROUm1Rb0ZReVMtcTl6WTl5eF9ETkp1VjN4WUZQbXdZLVlXWjFfbTkwVThWLW9rZDcwckd4ZzhHNGx0SE02c0d6WmZXTW5GdVgzbm4wLTdiSE9TS25MR1lwa3plU09sMUE2eGFhVm5uS2M1QktUZndVNnFOMzdYZ2phTDREdTdxZEtneUdDczMzSEdBd1JidmRramhneUtXRTZPNUNuaHFELWxJVi1RblNwZw?oc=5",
    "date": "2026-10-14"
+  },
+  {
+   "cat": "media",
+   "source": "Mining.com.au",
+   "title": "Scottie brings finance expertise aboard gold project",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODU4ZG9WTUZOdzdpdklMRnl2VWpfSDRYbnpzS3E2Nzl4bUwyY2JjSVR6TmlhcW5tTXk3VjE1MHRkY0dRdk8ycE0zOXBJV0J5RkxlNG1uLXJvdm44V185SXBEYlZibXVieUtNNFdnc0IyLW5BOXVZUmNObU9qYXFvdA?oc=5",
+   "date": "2026-10-02"
   },
   {
    "cat": "coalition",
@@ -150,13 +185,6 @@
   },
   {
    "cat": "media",
-   "source": "BNN Bloomberg",
-   "title": "Newmont’s Red Chris mine gets key approval for block cave transition",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOengtSTUzTFBZVWdtSjBIdVhLSnBZZlJBSUlzUXl3SVFuakVreG1lQmlCajFHM3VJc3ZtU0l0a29DMlJaZVRqQ24yTjZpbzU4ZVZ3alY0SUQ0QVE2ZmFPMGQ4RTVLQ0JXcm1Fa3dqZlBtU1RfaEVMRmFuTWZHc2xhaERJNy0taktHakxtZC14YlBzcVJScFlLbjczNzl6RjVKalU5cFpVWGRkZXlBdzJRbzFwNVZtaVphWEd2THlHUUVIWEx1RUk5Rg?oc=5",
-   "date": "2026-06-19"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "5 people ordered banished from Taku River Tlingit territory",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
@@ -168,27 +196,6 @@
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
-   "source": "Investing News Network",
-   "title": "2026 Drilling Program Begins at Treaty Creek Property, Golden Triangle, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTA5VG5OWUFFRlV4cDJrZFluTUV3VWtWcVNhdVIzRVlILUhNZy1GZ0E5WmJjOXY2aGF1dy1YRDh0SnVXUHlqZ0JINHN4bG92SndaWnhUTEdxaDE2elZjeXhBZXNHblhyV1Y0WEJtM0ZMZlJxcC1BNVM2MXcyR0oyeDBhbTdic1M4cHVtNDc3NjVuTzVDLUZna1FiNTh2YnpqRzlTeDFwQmhtbGlnUl9iOGxWUQ?oc=5",
-   "date": "2026-05-21"
-  },
-  {
-   "cat": "media",
-   "source": "Resource Works",
-   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
-   "date": "2026-02-13"
-  },
-  {
-   "cat": "media",
-   "source": "North of 60 Mining News",
-   "title": "Major copper shift in BC's Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
-   "date": "2026-01-14"
   }
  ]
 }
