@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-24T18:33:55.283Z",
+ "updated": "2026-10-25T01:06:11.703Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "Real Estate",
+   "title": "Property for Sale in Lillooet, British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1NmTVU5VjdtMzBJNlFKbW1NY0x0TEtwSjVQUlVEOS13ZjczR1hFR3hmQ1JQQ2dJMWF2MHBSbE5HMnFBQ3Y5UTNwYWJWdUhmRlhqNDNIV0ZJZWtrcTVtdnQwNGNkWG45N3pWeDRPaFVSN1lPemh6MG9uRGEtc3g0V28zTQ?oc=5",
+   "date": "2026-10-24"
+  },
   {
    "cat": "media",
    "source": "Mining.com",
@@ -115,6 +122,13 @@
   },
   {
    "cat": "media",
+   "source": "Mining.com",
+   "title": "Barrick makes Golden Triangle bet with 9.9% Kingfisher stake",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0k0NWw3bjZtcFAwR05aNHcwbjRCdzNsOEZNaW14M3JYdlNhVU9KeUdXUVl0dFhKYkh1WjJYT2ZvNzBSLUFLcWF0OERoSTdWcjZHVFIxUEl4TUNUWFA1a1hyUUJjbXZWaDA5MXFjOFQySzRZaUh4dW12eEZhY3ZRYzFBOUlPazlGbmpv?oc=5",
+   "date": "2026-07-21"
+  },
+  {
+   "cat": "media",
    "source": "Juneau Independent",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
@@ -178,23 +192,9 @@
   },
   {
    "cat": "media",
-   "source": "Mining.com",
-   "title": "Newmont’s Red Chris underground expansion gets regulatory green light",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTJPY0Q2REc5RDFYbVBEZkZEV1VTanRMNmxaXzN1cU5EWks4Q0tjUkVTbzA5dzVQMW42ZUwzVzJORWJrTFk4TWpGZkJtU3YzWm1QR2VvRlVpdmZuVmJDSjZ0ck44OU1ubzRFNFhieVBBZERrcE92ZlBqY09pQUNIX3VZN1VmSVJrNWpLQXBLOTVJTkdhVnp4VG5SNTJYRnM?oc=5",
-   "date": "2026-06-19"
-  },
-  {
-   "cat": "media",
    "source": "CBC",
    "title": "5 people ordered banished from Taku River Tlingit territory",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
-   "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
   }
  ]
