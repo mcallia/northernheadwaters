@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:28:55.059Z",
+ "updated": "2026-10-28T00:49:31.688Z",
  "items": [
   {
    "cat": "media",
@@ -7,6 +7,13 @@
    "title": "Newmont prices Red Chris expansion at up to $4.8B",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTkxGQUcxTGoyMDFybWdVQVJnVExXZUxHMkNxdlFidVlUSnZsZ0s3cGZpdkxTT0hhcDRWenN4ZzltcWdoUFoxWldJZUJtam1TcG1wbHo0VFdMZWpoamdGLXEwRm53cWxDT1pTenA1alNkV1VRWUU1YmNVeVk?oc=5",
    "date": "2026-10-23"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Pack Dogs and Family Pets: The Tahltan Bear Dogs in My Family",
+   "url": "https://tahltan.org/pack-dogs-and-family-pets-the-tahltan-bear-dogs-in-my-family/",
+   "date": "2026-10-18"
   },
   {
    "cat": "coalition",
@@ -35,13 +42,6 @@
    "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
    "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Northwestern land-use planning at next engagement stage",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVIzVFNfazBPRklwdnpwOGQ3dXRDOUdyLTFESUMxeWkweEJ6UTlUUHpfZXVsazFpTEtDcVd1UHBCY2xGOGZWSWJXUzRoSUhSa3ZCUHVicjB3bTNKVGtacw?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -77,13 +77,6 @@
    "title": "B.C. approves block-caving for Red Chris Mine, site where three workers were trapped",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkhfZnAtNUhHYTFyNGdsbGpybDM4UEE3bGQ5RFp4Njd2YW1XbVFVSkVJR1hWaVpqMVBLWGctT1RTeEVXNUo1SUNnM19XVDRIZWNaR09mRXh0ZjdKNy00TEdpdUZ1enhlbm5qb05iZjZQeWh3RVN4VzN2Zm1PekNFaU43YXZJUlY3dVFHbGRYcw?oc=5",
    "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
-   "source": "Government of British Columbia",
-   "title": "Tulsequah Chief mine clean-up",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWFWa1NURFBmN2VndVFhSm1ob01zMlFlOU1hOG16ZXlMWW55eHZvQmRwRE9QQUV6ekhuZ2lrdHhPLUlRVzJaeDlHMEJfMFBPdmQ1dl9KTEk4YnU5ekYzZ3BfbGxDRnFKLXJKcU91QmNzbU0yRDVnbkRWdGFKT0MzWFhqa2djeG4tMEJSYXpwU0JQb1dGblRlM0dFdnBUa2Fvd2tCOHBR?oc=5",
-   "date": "2026-05-26"
   },
   {
    "cat": "media",
@@ -175,6 +168,20 @@
    "title": "(Un)buried treasure: Melting glaciers in B.C.'s Golden Triangle are revealing rich mineral deposits",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2JfSmpES2RoazVqS0hsWWlTdlFTYUFOT202RjJQR2wwbUMteGxlQnVrOXpOTDRIZG1nMVRVeUtDZ2pQdEQwTzRwSXdCZU1DZkFHb2RQWEpiR29xOEdJY1VxeDdVQ1pnOU1rbXdkZVdvQkg3OF93SGJfYUttMXJnVUNEdDFpQW4zSGJpOEFEQVhCODdLRkk4Yndib0thUVcyYi1HLU5JVVFvOEhMZ0k4UHNPNC1mVUFpZHJ4MDZTZDVJMk5VcFo5VUtMR2dLd3FEYTh5dUhsbTFYSEo0TjIxRGdqck5aeU1VUlE?oc=5",
    "date": "2018-08-25"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
+   "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Meziadin Junction, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWG5iYkM1V1J6TVpqeWk1dUFseTJKbGU2RmhJMkRxVzhQS3Yyd254Vmkzd0xaeGF4elV6M21qZEtpQU0tVDJCbHlXYjRVODhBVW8yR2N1NGxRN1lkZms0cmtoWWNtUllyQ1phNFdvZGFGZEo3cUFkbkhfanZxNTRubEljWUg5NVk?oc=5",
+   "date": "2017-03-04"
   },
   {
    "cat": "media",
