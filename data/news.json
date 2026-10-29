@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:50:40.091Z",
+ "updated": "2026-10-29T06:37:19.308Z",
  "items": [
   {
    "cat": "coalition",
@@ -21,13 +21,6 @@
    "title": "Newmont prices Red Chris expansion at up to $4.8B",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTkxGQUcxTGoyMDFybWdVQVJnVExXZUxHMkNxdlFidVlUSnZsZ0s3cGZpdkxTT0hhcDRWenN4ZzltcWdoUFoxWldJZUJtam1TcG1wbHo0VFdMZWpoamdGLXEwRm53cWxDT1pTenA1alNkV1VRWUU1YmNVeVk?oc=5",
    "date": "2026-10-23"
-  },
-  {
-   "cat": "media",
-   "source": "Junior Mining Network",
-   "title": "Imperial Metals Reports Red Chris Mine Block Cave Planning Progress and 2026 Third Quarter Production Update",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZml2aXMtZlF4THVUOVFCQ09RajlKVVNmQk1KY3Z0NXQ3OG91RlVQaTV1b19Kc0ZjVC1oNEU3djVTNmFuVDE2Y1JpVnFUanJFeHhENEtQd29LanZmbDN1SThpX1h1Tk5zRzU4VF9YWDRlcFpVU2xCeUpZOHQ4Q0VmS252NDczQXlCVF9xUGZrbnBXc2pSaEoyWm9qTllNRnJ6OVVmanE3ME9rb0dfWE1qSEptb2ZtTEJ3N0xGXzBfSGJGdHlMUzNhN2NNQmhTYnluOW50bEhfLUlyZ2ozc0lGWTZOLW5CQUU5eXNPLW5CRmtQcWg2c091cE5tcTYtWXFpcThpc2VRR0ZzSzNOM19mdUo2OHA5eTJKNm1SdzBJbw?oc=5",
-   "date": "2026-10-22"
   },
   {
    "cat": "coalition",
@@ -178,10 +171,17 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "(Un)buried treasure: Melting glaciers in B.C.'s Golden Triangle are revealing rich mineral deposits",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2JfSmpES2RoazVqS0hsWWlTdlFTYUFOT202RjJQR2wwbUMteGxlQnVrOXpOTDRIZG1nMVRVeUtDZ2pQdEQwTzRwSXdCZU1DZkFHb2RQWEpiR29xOEdJY1VxeDdVQ1pnOU1rbXdkZVdvQkg3OF93SGJfYUttMXJnVUNEdDFpQW4zSGJpOEFEQVhCODdLRkk4Yndib0thUVcyYi1HLU5JVVFvOEhMZ0k4UHNPNC1mVUFpZHJ4MDZTZDVJMk5VcFo5VUtMR2dLd3FEYTh5dUhsbTFYSEo0TjIxRGdqck5aeU1VUlE?oc=5",
-   "date": "2018-08-25"
+   "source": "AccuWeather",
+   "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
+   "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Meziadin Junction, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWG5iYkM1V1J6TVpqeWk1dUFseTJKbGU2RmhJMkRxVzhQS3Yyd254Vmkzd0xaeGF4elV6M21qZEtpQU0tVDJCbHlXYjRVODhBVW8yR2N1NGxRN1lkZms0cmtoWWNtUllyQ1phNFdvZGFGZEo3cUFkbkhfanZxNTRubEljWUg5NVk?oc=5",
+   "date": "2017-03-04"
   },
   {
    "cat": "media",
