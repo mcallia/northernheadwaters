@@ -1,19 +1,26 @@
 {
- "updated": "2026-10-31T00:41:18.499Z",
+ "updated": "2026-10-31T06:29:50.907Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "Resource World Magazine",
+   "title": "Goliath raises $9.8 million for Golden Triangle exploration",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2x4NXdabHd1N3BlbFA3MUktS21POGtlcnRuZXFEUTRXa0R5eXZOZVl5cEtBV0o2M1pZWGlHSzR2bnFIWGdCdDJsOFdtNFEtZUI2TWpFQUNkc3RzN2tVVEpTVXFCTUFWODBoNXVDZUZQNE5JdUphNGtpYzRSUkxWRkhVckxUWDdlZ09ISFBB?oc=5",
+   "date": "2026-10-30"
+  },
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Leadership Visits Eskay Creek",
+   "url": "https://tahltan.org/leadership-visits-eskay-creek/",
+   "date": "2026-10-28"
+  },
   {
    "cat": "media",
    "source": "ABN Newswire",
    "title": "Goldstorm Metals (CVE:GSTM) CEO Ken Konkin Discusses High-Grade Gold Exploration Results in British Columbia's Golden Triangle with Ellis Martin",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZk9EbzNtQkRJWXlKcDIxdzlfV0NqTVNtOEFSRkZ3TEZUM1RENXRaZ0ZuMkFCenpIZGFTSGcxbTQ0WC1pMHJrSmNLMW54VU15UGEySjBUYmJkWW1KUzBGdFZVYTVVYzNLNXF0TFVhbVhDQ0NtVjVGMm9peUIzc3UxQTFEdFZZZXNZZzBjV3RiYXp4d1BHdWdwdWJ5MUMzNldjMEtnUlRtQURUN3lBMDFMVi0tSnpIUzRpZUFVTDJZc2c0MThLQzczNFhNc2NDc2tZSFVJdmpOWnhiRnE2SHp4eGlKSXNweklzNk9aSUZLU1IzQXhtY2xZYWVuS2ZHNFU1T3l6ZmZsMzJZLWlydi1rc1A0c2FKRTM1VUhDSg?oc=5",
    "date": "2026-10-28"
-  },
-  {
-   "cat": "media",
-   "source": "Real Estate",
-   "title": "Property for Sale in Lillooet, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1NmTVU5VjdtMzBJNlFKbW1NY0x0TEtwSjVQUlVEOS13ZjczR1hFR3hmQ1JQQ2dJMWF2MHBSbE5HMnFBQ3Y5UTNwYWJWdUhmRlhqNDNIV0ZJZWtrcTVtdnQwNGNkWG45N3pWeDRPaFVSN1lPemh6MG9uRGEtc3g0V28zTQ?oc=5",
-   "date": "2026-10-24"
   },
   {
    "cat": "media",
@@ -73,6 +80,13 @@
   },
   {
    "cat": "media",
+   "source": "Yahoo Finance",
+   "title": "Goldstorm Metals Provides Updates on the Ongoing Phase I Drilling and Reconnaissance Program and Completed Geophysical Survey at the Crown Project, Located in the Golden Triangle of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEd6dWQ1QWcwcjR0RlNsYzdFOXh0OWt2d1d1NHNJZXV6NFhGSjY0dTgwQTg4N1V6OV9mUjhNeU1PMFFVc2d5aFUxOEJpV1ZhVEYwUDlRWmZRY3NsQjNkZFBMV1Q0a1VQbEZHb2tSZVI2dlBXcG9HSWZfRXlsWENyVmJKNnVVNkZCTmp2X2JLNk5sS2U2NUpZZnhld091bHBySnB4NUViSkR1akdlUzdmSw?oc=5",
+   "date": "2026-08-31"
+  },
+  {
+   "cat": "media",
    "source": "Juneau Independent",
    "title": "Canada will help pay for power line to expand mine in Stikine watershed",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3dSUmx2UzhpOUZMeVRFZm1vUWhqeFFIMFA1MFdJcG51N0ZOTm1TMXEzQkVyaUZfYU9SSkNyVWlUUjRXRUR2X2ZhUktzZVk2MWNZbjJZZm9EeDhmM0ZTaWZmT3BxclctWTllRHY0UTQzUVEyWndIU2V3Qm1sc2hwTEZMZzhza1k3Z1BzN0s4cHFqXzBaOWxTa0c1WFByc0FHZXhIbzVEbERLWXIzMUdZ?oc=5",
@@ -98,13 +112,6 @@
    "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
    "date": "2026-07-03"
-  },
-  {
-   "cat": "media",
-   "source": "APTN News",
-   "title": "Red Chris Mine in northern B.C. extends operations into 2040",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTVLaDdZZHRsWkYyVEpTazRiVzdhdk5qbTdaQ05RTm1YT3ZjMWV3YW1ORlBVZkFzZGkxb0lNbjdOb1VCRUlhbHJGVnBvQzRZdGk3Ry05cUs2M25aZ1FpWUdNWFFPMDV5V3NQVTZUV2l6Y0RNajVkeXlkQlFFelFBU2tSRlo1RW50bmlUV0VSV2NremVrcFE?oc=5",
-   "date": "2026-06-26"
   },
   {
    "cat": "media",
