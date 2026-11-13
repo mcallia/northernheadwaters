@@ -1,9 +1,9 @@
 # Northern Headwaters — site redesign prototype
 
-Password-gated review prototype of a redesigned **northernheadwaters.ca**, built as static,
+Open review prototype of a redesigned **northernheadwaters.ca**, built as static,
 dependency-light HTML for GitHub Pages.
 
-**Live preview:** https://mcallia.github.io/northernheadwaters/ (password required — ask Angus)
+**Live preview:** https://mcallia.github.io/northernheadwaters/ (no password since November 2026; still `noindex`)
 
 ## How it's put together
 
@@ -21,8 +21,8 @@ dependency-light HTML for GitHub Pages.
 
 | Path | What |
 |---|---|
-| `index.html` | Password gate (client-side SHA-256; sessionStorage). Not real security — review privacy only. |
-| `home.html` … `404.html` | The site (gated by `js/gate.js` in the shared shell) |
+| `index.html` | Redirects to `home.html` (was the password gate until November 2026) |
+| `home.html` … `404.html` | The site. `js/gate.js` is now a no-op still loaded by the shared shell — see below |
 | `css/site.css` | Design system — brand tokens from the NHI badge + 2026 Narrative Branding Strategy |
 | `css/fonts.css` + `fonts/` | Self-hosted Barlow Condensed / Barlow / IBM Plex Mono |
 | `js/live-tiles.js` | Live river gauges (Water Survey of Canada + USGS Taku), weather (Open-Meteo), and the Aug 4 countdown — keyless, CORS-open, fail-soft |
@@ -75,17 +75,17 @@ and the ~55 GB `NHI Project.zip` archive (OneDrive).
   the Washington Post graphic sourced to the same survey says **$1T**. The Case says
   "$1 trillion or more" pending reconciliation — flagged inline on the page.
 
-## Changing the password
+## Password gate (retired November 2026)
 
-The gate compares a SHA-256 hash in `tools/pages/index.html`. To change it:
-`python -c "import hashlib;print(hashlib.sha256('newpassword'.encode()).hexdigest())"`,
-paste the hash into the `HASH` constant, rebuild, push. (Password is lower-cased before hashing.)
-Current password: ask Angus (set July 2026).
+The site no longer asks for a password: `index.html` redirects to `home.html`, and `js/gate.js`
+is an empty no-op. Every built page still loads `js/gate.js` from the shell in `tools/build.py`;
+on the next full rebuild, delete that `<script>` line from the shell, rebuild, and remove the file.
+The `noindex` metatags and the `robots.txt` disallow are still in place.
 
 ## Going live for real (later)
 
-This prototype ships with `noindex` metatags, `robots.txt` disallow, and the password gate.
-A real launch would remove those three things, point the northernheadwaters.ca domain,
+This prototype ships with `noindex` metatags and a `robots.txt` disallow (the password gate is already gone).
+A real launch would remove those two things, point the northernheadwaters.ca domain,
 swap `BASE` in `tools/build.py`, replace all `SAMPLE ONLY` imagery, resolve every
 `DRAFT` flag (issues briefs, $1.28T vs $1T, Ascot status), and move video hosting to YouTube
 embeds once the channel is up.
