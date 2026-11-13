@@ -111,6 +111,7 @@ strong{font-weight:700}
 .hero h1{margin:0 0 .35em;text-wrap:balance}
 .hero h1 .tint{color:var(--ice)}
 .hero .lede{max-width:640px;color:#d7e8ee}
+.hero .hero-note{color:#b9cdd5;margin:.2rem 0 0}
 .hero-actions{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.6rem}
 .hero-credit{position:absolute;right:.9rem;bottom:.5rem;z-index:3;font-size:.72rem;color:#b9cdd5;opacity:.75}
 
