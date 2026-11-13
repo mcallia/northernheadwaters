@@ -1,13 +1,4 @@
-/* Review-gate check: runs synchronously in <head> of every gated page.
-   The gate page (index.html) sets sessionStorage "nhi_gate" after a correct
-   password. Client-side only — this keeps casual visitors and search engines
-   out of a review prototype; it is not bank-grade security. */
-(function () {
-  try {
-    if (sessionStorage.getItem("nhi_gate") !== "ok") {
-      location.replace("index.html");
-    }
-  } catch (e) {
-    /* storage blocked — let the page load rather than loop */
-  }
-})();
+/* Password gate retired November 2026 — the preview is now open to anyone with the link.
+   This file is kept as a no-op because every built page still loads it from the shared shell
+   (tools/build.py). Next full rebuild: remove the <script src="js/gate.js"> line from the
+   shell in tools/build.py, rebuild, and delete this file. */
