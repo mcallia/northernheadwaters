@@ -102,7 +102,7 @@ FOOTER = """</main>
     <div class="foot-col">
       <h3>Contact</h3>
       <a href="mailto:info@northernheadwaters.ca">info@northernheadwaters.ca</a>
-      <p>3556 Second Avenue<br>Smithers, BC<br>+1 867-467-7575</p>
+      <p>+1 867-467-7575</p>
       <div class="foot-social">
         <a href="https://www.facebook.com/NorthernHeadwatersBC" rel="noopener">Facebook</a>
         <a href="https://www.instagram.com/northernheadwatersbc/" rel="noopener">Instagram</a>
