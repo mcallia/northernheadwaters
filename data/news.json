@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-17T00:43:44.233Z",
+ "updated": "2026-11-17T06:34:24.938Z",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "Leadership Visits Eskay Creek",
+   "url": "https://tahltan.org/leadership-visits-eskay-creek/",
+   "date": "2026-10-28"
+  },
   {
    "cat": "coalition",
    "source": "The Skeena",
@@ -108,6 +115,13 @@
   },
   {
    "cat": "media",
+   "source": "Mining.com",
+   "title": "Goliath Resources makes discovery in British Columbia’s Golden Triangle",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2FvNWpqdU5zNVVXV3o4QWF5YWN2YTNSZmtTMkw2S0Y3SEY0YmYwbjRSRzFVcmFWVkZsbm5JNHNMb19Gb0RidmdnNzNGUGgtOFd6c0FRakhQb2J0UEhVREZFZVZlV2xnZjdyYk5iY2RubXlYc3pQMjY3VU9Ec1FrZGwtVWdVY0hfalBIdXpwX3RNWV9lXzQ4X0otbFcyaG5Z?oc=5",
+   "date": "2024-07-15"
+  },
+  {
+   "cat": "media",
    "source": "BC Gov News",
    "title": "Tahltan Nation, B.C. sign historic consent-based decision-making agreement",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZy1BbUd1Z1RXdng3M1Y4R1VJMFp4NXN2OG0zYTJmX0xkUG9XUUdqV3lIYzNIVlVPZnd4a2ktODFtY29uWWdqMzQ1alNya1NicGxnUGdWaHpQN2pwWThV?oc=5",
@@ -182,13 +196,6 @@
    "title": "Red Chris Copper-Gold Mine, British Columbia",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21qbVl3aThLbzEtRldic2FGaHRyclVUUjB6UEJ1WUZDTmo2UEpRcFlPbmllanNZMllXc0xhSHFULWRraDFxZU5rUjMwVDBFSmZGdGx1SDZjbWZRcXV2YzhrcHcwelktdmt2cGNaVUhsMWZkZkN0QWVsMUY5TURrRFh4c29zQ25KWl9JZ284aGw?oc=5",
    "date": "2015-02-26"
-  },
-  {
-   "cat": "media",
-   "source": "Mining Technology",
-   "title": "Galore Creek Project, British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4taDU2bklqd1o1d25xZExVVWw1a0JmVkl6Y1JsLTFtMHJOQ2l6ZUl5c2M3eW5hV0dXVjh0NUpTTFZnR3hEWEpxOUZ4OVFzdjJHUkdpRzZGQTJnNTNaWEJnTnhGSmd2TmM?oc=5",
-   "date": "2010-02-11"
   }
  ]
 }
