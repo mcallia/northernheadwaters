@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:44:16.841Z",
+ "updated": "2026-11-18T06:34:15.538Z",
  "items": [
   {
    "cat": "coalition",
@@ -157,13 +157,6 @@
   },
   {
    "cat": "media",
-   "source": "the deep dive",
-   "title": "The Golden Triangle: British Columbia’s Exploration Hotbed",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm9BM2QxaG9DS0dZcG1vRFJiQ2d6dndHV0lUU1UwaVluc3JkZE1TSzlrUkd5MkdGUjdQWmwxOWplR1dLUTdiSU92dUhOcnpheXdZdEQwNTE0R0dXV3A5Yk9tX3RfTmtUY1JtZFFFYUh4TkVzRklMaGI0MXNCLTUtSEMwQlg3VUk?oc=5",
-   "date": "2020-07-19"
-  },
-  {
-   "cat": "media",
    "source": "Government of British Columbia",
    "title": "The Groundhog Coalfield",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWNycVBNVjktZnc0WU1ERWptNUtTajk2b2VCemg4cWE3YUNNbU4xckhZQmJvMnVGVVNQXzdkSm8xdE1vMmV0cVZIVHBCUVpORnZqa1c4SWJiQUNuODUzSzBHTS1BNGFjR2NJYlJDSElLTXdfREVMNTlvTDJYZUJ3VFVRYl9leVFNamkteTFXVFQ3cXRPTW16TFdpdGdCdjhTLW1DUnQycHBSRmxGZVBScU42dmlYOWl1NG9IR004eFZGbFliV0hmUHRzNGl2dWM?oc=5",
@@ -175,6 +168,13 @@
    "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
    "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Taku River Tlingit, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDY0OElLTzZzNW1WcGkzanB2ZmxMOEhDTncwcXJrUjZRYXpkbFVlNThmblJCTnF5cENfMUhLeFNJbExCSzNKT1EtYm1KdnVJYk9FalJoR1BRXzlZaVRrUHk1WXo2V2ozejJ3LW9ueElZOWhYRVNyMWFFdWxGV2pES0JSX21IeTFY?oc=5",
+   "date": "2017-03-10"
   },
   {
    "cat": "media",
