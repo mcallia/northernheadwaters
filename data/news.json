@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:29:04.575Z",
+ "updated": "2026-11-21T18:26:20.829Z",
  "items": [
   {
    "cat": "coalition",
@@ -25,15 +25,15 @@
   {
    "cat": "media",
    "source": "Mining.com",
-   "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
-   "date": "2026-07-05"
+   "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1A1b3RuSFYwU0N2VXJOckdBQ1ZzYlh6TG9SRWo1ZnBzekx3NHZ6WHNMd012UzFZMkNjbl9YRmVzMFpvbzkwZWdxSmg5V0NRdkpNN3o2aWJ4MklXeEZDRGljN1RBbTQ4d2s2Q3dxcTBsbGh5LWhfRjdWVWtwSnFFWThWWm5GUzRhQ1Y1LXF2NWN3czZ2dVFhV2s5WVVzdWs?oc=5",
+   "date": "2026-07-03"
   },
   {
    "cat": "media",
    "source": "Mining.com",
-   "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1A1b3RuSFYwU0N2VXJOckdBQ1ZzYlh6TG9SRWo1ZnBzekx3NHZ6WHNMd012UzFZMkNjbl9YRmVzMFpvbzkwZWdxSmg5V0NRdkpNN3o2aWJ4MklXeEZDRGljN1RBbTQ4d2s2Q3dxcTBsbGh5LWhfRjdWVWtwSnFFWThWWm5GUzRhQ1Y1LXF2NWN3czZ2dVFhV2s5WVVzdWs?oc=5",
+   "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
    "date": "2026-07-03"
   },
   {
@@ -143,13 +143,6 @@
   },
   {
    "cat": "media",
-   "source": "Mining.com",
-   "title": "Visualizing the economic impact of British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUNIVWlDOFlhTGRTZEloZXVTb0RXR241eUZmRGc5ZUd0NmRaeWxOTXhkcllTWnlMeXZyaGV1QThBWHN5bTZpY1dNc1BDLWxxdFMzZW5NMlV4RnJWNlNKWTZqeFNEZGdmM0NwRjJDQkdvSFhDLU96dlM0ODRIYVJ0YWdVSHN5S2l4NzJnWXEzRzcteFpObTNiUTgzSzA?oc=5",
-   "date": "2021-09-17"
-  },
-  {
-   "cat": "media",
    "source": "North of 60 Mining News",
    "title": "Newcrest digs deeper into Red Chris Mine",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1c0V3NfZldEN29CcUQtcGEwbjRhZ3l2QUNnSjJGaVptaG9uUlJ1SkZpb3NFRTJjYWdSRHhMODEwN2UzR0MzRXFPLW5jLW1udDQ4MWlNem5aamhBV1VMdDU0MlI0Mm1DakVjMnBEU2RieDJ6NGgyanFIMVBtQUhpRlhjRGM2VGQ0Q2wxZkQxVmIydF9XME5WWmMyME5sWV9VVkxrNldwM29hYjJHMnYzX28wc3p5R0VNS2ZCTWRn?oc=5",
@@ -168,6 +161,13 @@
    "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
    "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Taku River Tlingit, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDY0OElLTzZzNW1WcGkzanB2ZmxMOEhDTncwcXJrUjZRYXpkbFVlNThmblJCTnF5cENfMUhLeFNJbExCSzNKT1EtYm1KdnVJYk9FalJoR1BRXzlZaVRrUHk1WXo2V2ozejJ3LW9ueElZOWhYRVNyMWFFdWxGV2pES0JSX21IeTFY?oc=5",
+   "date": "2017-03-10"
   },
   {
    "cat": "media",
