@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:46:51.515Z",
+ "updated": "2026-11-23T06:45:28.919Z",
  "items": [
   {
    "cat": "coalition",
@@ -45,7 +45,7 @@
   },
   {
    "cat": "media",
-   "source": "Canadian Institute of Mining, Metallurgy",
+   "source": "CIM Magazine",
    "title": "Red Chris mine expansion receives provincial approvals",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFB3dExhekFncy11c0h1cTNBcVh5cnFRX1k4SHVHUzBBZnZKS01scTZWQzRxREV5MXV2OG1wOWVGN0xvM1VrOHU5c0h4RW5NV3ZtNzZYZ2EyUlZsaW91VHVibU9TR2ZoUjVaUmNQbzg1MGFIWnVseXFKTG5jemI4eHZSNHliN1U5SEVoN0YzTXVUelRfcS1rRzFxeVU?oc=5",
    "date": "2026-06-22"
@@ -122,13 +122,6 @@
   },
   {
    "cat": "media",
-   "source": "Mining.com",
-   "title": "Goliath Resources makes discovery in British Columbia’s Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2FvNWpqdU5zNVVXV3o4QWF5YWN2YTNSZmtTMkw2S0Y3SEY0YmYwbjRSRzFVcmFWVkZsbm5JNHNMb19Gb0RidmdnNzNGUGgtOFd6c0FRakhQb2J0UEhVREZFZVZlV2xnZjdyYk5iY2RubXlYc3pQMjY3VU9Ec1FrZGwtVWdVY0hfalBIdXpwX3RNWV9lXzQ4X0otbFcyaG5Z?oc=5",
-   "date": "2024-07-15"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Tahltan Nation, B.C. sign historic consent-based decision-making agreement",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZy1BbUd1Z1RXdng3M1Y4R1VJMFp4NXN2OG0zYTJmX0xkUG9XUUdqV3lIYzNIVlVPZnd4a2ktODFtY29uWWdqMzQ1alNya1NicGxnUGdWaHpQN2pwWThV?oc=5",
@@ -168,6 +161,13 @@
    "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
    "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Taku River Tlingit, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDY0OElLTzZzNW1WcGkzanB2ZmxMOEhDTncwcXJrUjZRYXpkbFVlNThmblJCTnF5cENfMUhLeFNJbExCSzNKT1EtYm1KdnVJYk9FalJoR1BRXzlZaVRrUHk1WXo2V2ozejJ3LW9ueElZOWhYRVNyMWFFdWxGV2pES0JSX21IeTFY?oc=5",
+   "date": "2017-03-10"
   },
   {
    "cat": "media",
