@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:31:50.909Z",
+ "updated": "2026-11-25T18:27:34.419Z",
  "items": [
   {
    "cat": "coalition",
@@ -31,10 +31,24 @@
   },
   {
    "cat": "media",
+   "source": "Geomechanics.io",
+   "title": "Newmont’s Red Chris $4.8B block cave: capex, schedule and design notes for engineers",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHRNbzVtUndNV1JKZHgwME1wbjVCMmpCTm9XeklVYVZqbXlmZWd2eXdjVmJzeDRmMFBzdEVhNVBnQXBHWk9rcGo1MldDcHB1cHhVUmNyTEkyaE1mcGJnOEhHSWF4TkVKdTNFNEpaNWw4UW96alVLbzRIeTlkV2NoZHNieXc3LVFvdS1sSkdqR0hIUHI5ajZQQ0RpTlpBeXA3N3pLTE1HMEdiN0dCeHB3YzFPWll0TGtmaUd0Qg?oc=5",
+   "date": "2026-10-24"
+  },
+  {
+   "cat": "media",
    "source": "Mining.com",
    "title": "Newmont prices Red Chris expansion at up to $4.8B",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTkxGQUcxTGoyMDFybWdVQVJnVExXZUxHMkNxdlFidVlUSnZsZ0s3cGZpdkxTT0hhcDRWenN4ZzltcWdoUFoxWldJZUJtam1TcG1wbHo0VFdMZWpoamdGLXEwRm53cWxDT1pTenA1alNkV1VRWUU1YmNVeVk?oc=5",
    "date": "2026-10-23"
+  },
+  {
+   "cat": "media",
+   "source": "Morningstar",
+   "title": "Imperial Reports Red Chris Mine Block Cave Planning Progress and 2026 Third Quarter Production Update",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaExfa25BLTdWbnk4U29QS2RlVnFNeDlMMFNnQ1pjVEU1eXh6cWpoRjhKd2VyalRnWTEybW02cE10Q281ZDZHbV9xU2VSeVRiNGNQVEM5T3RsWk9CWFZSRFg1alpDSGlUWlQ3clpSVnc5dTliSWI3WERTWDRJZkY4cjBueEowTHdiWl9BLUZoaWh5R1hRek5ualNZRVJvWVc0eWpNdE1hVzdFaXdYT1dNTDJMMVNadGVlLXNHOU9BSjhVZi1NUEpscTd2R0sxNTVVVGNmSmg3Yk84Y25FVWNZa2Y4cG9oa0dLLUduX3RR?oc=5",
+   "date": "2026-10-22"
   },
   {
    "cat": "media",
@@ -56,6 +70,13 @@
    "title": "Hupačasath First Nation orders Cermaq to close Port Alberni salmon hatchery",
    "url": "https://theskeena.com/2026/09/25/hupacasath-first-nation-orders-cermaq-to-close-port-alberni-salmon-hatchery/",
    "date": "2026-09-25"
+  },
+  {
+   "cat": "media",
+   "source": "Wrangell Sentinel",
+   "title": "Canada, B.C., First Nation all line up in support of mines in transboundary watershed",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEs1M1VyM0EyNjVCNXk2cm9BNEdLeDJ2ZEV6V0hVYV92OUpGRzIxbUI2NW85blJqaV9idVlFSGtNOU55emFBWkpaRGFkbUVFWkZtYjlhbmdMck5JcVc4d29wTG9zVmxQeXdDazh5aWZEeV9NQ0ctdmtINmRvQ1RFZFkzc096YVU5LVV6dlVhNGxtRlBfd3d5aUs5aDZrNGttclgtUWwtdEg5dk50SUJJdlF1cHhXdTY1SDJRYXBUNDI1UQ?oc=5",
+   "date": "2026-09-23"
   },
   {
    "cat": "media",
@@ -97,6 +118,13 @@
    "source": "northernminer.com",
    "title": "Barrick bets on BC with 9.9% Kingfisher stake",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm1lYUVCZjZEQXRhclRaUzBZX0xvdUllWkc4dXI5allZVmh2N3p3ejNQajhrbFcyTjFDYnJnbFd3blZRakp0SGZYNzZuMDZ4V2o5U2tXVnlUa3VscVZwUkRyaGZRdm5hMDJJTUQxS2hCWXVuQkpMeG1ERTU1VHdWT0lrRmZfcEFWdlpKRDlLZGw1OEdzRVE?oc=5",
+   "date": "2026-07-21"
+  },
+  {
+   "cat": "media",
+   "source": "Mining.com",
+   "title": "Barrick makes Golden Triangle bet with 9.9% Kingfisher stake",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0k0NWw3bjZtcFAwR05aNHcwbjRCdzNsOEZNaW14M3JYdlNhVU9KeUdXUVl0dFhKYkh1WjJYT2ZvNzBSLUFLcWF0OERoSTdWcjZHVFIxUEl4TUNUWFA1a1hyUUJjbXZWaDA5MXFjOFQySzRZaUh4dW12eEZhY3ZRYzFBOUlPazlGbmpv?oc=5",
    "date": "2026-07-21"
   },
   {
@@ -150,13 +178,6 @@
   },
   {
    "cat": "media",
-   "source": "mining-journal.com",
-   "title": "Newmont's Red Chris expansion gets regulatory nod",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnYwQ3o0eUJUcGJYM0ppSzhZSzlBN29KMEI4TlptS2UyeWZCUjFybHI2NEtMZ0hNbjVWbjBjRGJqVWdPOW53d2ZJTDh2c0RRMk9Ba1hsTU1xVXJ5WXJSbEVvMlZyNE9RTzMwaERoY1VhOVhXYlRWcG1wZElvRzFncFQ3ampKZU9IVFVLUDByd1F3ZDNsVVQxN280VkowQm11Um5aSjJra2FWQUk?oc=5",
-   "date": "2026-06-22"
-  },
-  {
-   "cat": "media",
    "source": "CPAC",
    "title": "B.C. Premier Eby Announces Expansion of Red Chris Mine – June 19, 2026",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORGt1ZnJIa2xkOU1rcE5wUEpyV2IxaTJIQm05dEdxenpaN0NtckRjTkJ1TTVncHJ3bXRhdUFDdjNXTE40RE9NVE5qZk9aeVVmdW9hVWtDQld6MzNOaTE2MDhxRDNtR3dfaW5pMUpXdzJYeGx6S252amhJZ1BwUkk0YlZCRlZXN2hKZkVEN0NwUnJELU8zZXlNZE9qSTFvdklKaTlVWUtHbUlZTVllaVYyYUNaaGFNanl5YmVXUFpXWVZkWTFfQXdKTW51azVOeTdWVGE2NGlVSWFBTy1MU1Vyc1hYdUltWjA?oc=5",
@@ -175,27 +196,6 @@
    "title": "Newmont’s Red Chris underground expansion gets regulatory green light",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTJPY0Q2REc5RDFYbVBEZkZEV1VTanRMNmxaXzN1cU5EWks4Q0tjUkVTbzA5dzVQMW42ZUwzVzJORWJrTFk4TWpGZkJtU3YzWm1QR2VvRlVpdmZuVmJDSjZ0ck44OU1ubzRFNFhieVBBZERrcE92ZlBqY09pQUNIX3VZN1VmSVJrNWpLQXBLOTVJTkdhVnp4VG5SNTJYRnM?oc=5",
    "date": "2026-06-19"
-  },
-  {
-   "cat": "media",
-   "source": "CBC",
-   "title": "5 people ordered banished from Taku River Tlingit territory",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGdvb1RJQ3JQMy1NT2VON0k2dFlsZGZBYjlVT1hLcEhOUDN5WUowX21oNzJJTXE4WEZjRmhLR2Z3NGVFUGRSX3dGWkpkc2stMGxnUHJtNWs1RGd2OFBLbUpLYTZtb25xSmFhVnNaN0dheFl6U0lNbUI2UHF3NVRPZkVENVdQbmxPRGlRRU9JM21tN0NGRkJwamN0a0J4bUVSeFFweEc1Z2VQQQ?oc=5",
-   "date": "2026-06-18"
-  },
-  {
-   "cat": "media",
-   "source": "Resource Works",
-   "title": "World’s largest gold miner plans overhaul of B.C. mine, estimated at approximately $3B |",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFJpNnJWT3B5YTM0T3dIT0lKSEZKZk5kX1FZODJfV3c3OGw2Vi1VVXVEMEdnV05KMHZhRkt0WXV3eFdNMXRfdkhlM2lES1JRdGF2b0FqZTRNSFYxanJESFFjWW5zUThiNlNXT3FsQzNlc0V5RURfa0ZtcGtDU09wN0FmeUlzWnpVSnA0TGZSbmkxeFk?oc=5",
-   "date": "2026-02-13"
-  },
-  {
-   "cat": "media",
-   "source": "North of 60 Mining News",
-   "title": "Major copper shift in BC's Golden Triangle",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkFiMU1MRk5kSDdIbmQ2Q19WamlCRmJOdTR4TDRodzNkdFhMM0xUczAyeDh6YzhfMUo4TW92dDJ4MGxZTkFNMkYtd1l5VnFGSWRadGhIVUdjYWRiQXBTaVdrQkNKdDRsOTlrRWxDdkhSbGl4MUFKN0NIRHA5R1ozYUpaWEVyTmFlNjVuOVpxRTdPR3gxaTFOVWRCVFF0b2o4QWt6Sk9ITFVkNkI0dHlINGt2cnp6cWo3aDhHeW1jUQ?oc=5",
-   "date": "2026-01-14"
   }
  ]
 }
