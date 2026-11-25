@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-24T18:27:42.668Z",
+ "updated": "2026-11-25T00:44:29.863Z",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "Tahltan Central Government",
+   "title": "NISGA’A NATION AND TAHLTAN NATION STAND UNITED IN SUPPORT OF SEABRIDGE GOLD’S KSM PROJECT AND REJECT ONGOING INTERFERENCE BY TSKLH",
+   "url": "https://tahltan.org/wp-content/uploads/2026/11/NISGAA-NATION-AND-TAHLTAN-NATION-STAND-UNITED-IN-SUPPORT-OF-THE-KSM-PROJECT-FINAL.pdf#new_tab",
+   "date": "2026-11-23"
+  },
   {
    "cat": "media",
    "source": "North of 60 Mining News",
@@ -115,6 +122,13 @@
   },
   {
    "cat": "media",
+   "source": "Mining Weekly",
+   "title": "Newmont marks decade at Red Chris with C$8m commitment to Tahltan communities",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1ZZa200X1hUbkhwd3FGaGNuUDhibUlDam9jc0psM3FVcXdjOXQ3NTlCdG9KeS0wMGZrU3BKSTB6TjdBbTFNS1NNSlFzT0MxMU1LS3hZZlpPcVozTVZnYUxNOTRPYjM2cjFtUFptSUVRUFJtTlNqS0h5Ukl1emEzUVVWR2pmcmQwZ3RidnBFemVYMzM2OXllRG4zclU0MmEySHE1YlQ3MlpVTV9MWW15ZTZfZXowMmI1NFp1RFFrUVRDdw?oc=5",
+   "date": "2025-05-27"
+  },
+  {
+   "cat": "media",
    "source": "Alaska Beacon",
    "title": "Above Stikine River, Canadian government boosts huge mining project you’ve probably never heard of",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckNQVm9tY29wZnhGV2hia2NScWVzbEY1cHZSd1VNM0lSeWlDc3Jzd2RNRFNMWkw2VGIxZ01tYnN1c3o3ZS00SVh6TGNxVy1TZkhhenhTZEhkNEdaaE9RaEh5cFhHek5Uai1wMmpNTFV0MjJLVnV5ZFNyTmdtZUhqZ3ZkNXlvNm9UY3ZpenRad3d2SGNhV3FQcHFiY3VDSmhtZG5xUGp4R211bXZIdjRTME8wdUNkZHZxNEdEM2ZEbXI5eVo0c0VFYUVWa1QzUHVVTkNVMklJNXBDRS1oeVFPVGRR?oc=5",
@@ -143,13 +157,6 @@
   },
   {
    "cat": "media",
-   "source": "the deep dive",
-   "title": "The Golden Triangle: British Columbia’s Exploration Hotbed",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORm9BM2QxaG9DS0dZcG1vRFJiQ2d6dndHV0lUU1UwaVluc3JkZE1TSzlrUkd5MkdGUjdQWmwxOWplR1dLUTdiSU92dUhOcnpheXdZdEQwNTE0R0dXV3A5Yk9tX3RfTmtUY1JtZFFFYUh4TkVzRklMaGI0MXNCLTUtSEMwQlg3VUk?oc=5",
-   "date": "2020-07-19"
-  },
-  {
-   "cat": "media",
    "source": "Government of British Columbia",
    "title": "The Groundhog Coalfield",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWNycVBNVjktZnc0WU1ERWptNUtTajk2b2VCemg4cWE3YUNNbU4xckhZQmJvMnVGVVNQXzdkSm8xdE1vMmV0cVZIVHBCUVpORnZqa1c4SWJiQUNuODUzSzBHTS1BNGFjR2NJYlJDSElLTXdfREVMNTlvTDJYZUJ3VFVRYl9leVFNamkteTFXVFQ3cXRPTW16TFdpdGdCdjhTLW1DUnQycHBSRmxGZVBScU42dmlYOWl1NG9IR004eFZGbFliV0hmUHRzNGl2dWM?oc=5",
@@ -161,6 +168,13 @@
    "title": "Stikine River 7, British Columbia, Canada Weather Forecast",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGNwMGhuTTVERjRjMWkwckk1M0dydDZySXdnTWc5MXQ5ZGduRG9vQUR6WFBSdnVtQkxsUDVfX3JZbXNLaEpUdDF4ZGhEMXZoQXczaWc5amlieDZsQTBwQzZ2WXdCTFNwb0M5NTdoLUlUVHdNSFFVSjhqeWdyVzlOemlBWFA?oc=5",
    "date": "2017-06-30"
+  },
+  {
+   "cat": "media",
+   "source": "AccuWeather",
+   "title": "Taku River Tlingit, British Columbia, Canada Weather Forecast",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDY0OElLTzZzNW1WcGkzanB2ZmxMOEhDTncwcXJrUjZRYXpkbFVlNThmblJCTnF5cENfMUhLeFNJbExCSzNKT1EtYm1KdnVJYk9FalJoR1BRXzlZaVRrUHk1WXo2V2ozejJ3LW9ueElZOWhYRVNyMWFFdWxGV2pES0JSX21IeTFY?oc=5",
+   "date": "2017-03-10"
   },
   {
    "cat": "media",
@@ -182,13 +196,6 @@
    "title": "INFOGRAPHIC: The story of the Golden Triangle in British Columbia",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnoyMUFnakQ5Vkw2dm1Td0N5S3VJUnN1OTdJd2xTS1NOQzhVczZwajNfVENRUUxqVWRpNVpyZ0VKS1lpT1E4eWtadnRiQURkSTlXV0tJRkZrbGNGMmhSU05PTnRERXlIdE5EbDA1MmlHX19yb3NldkNDQ0pzdXlyOWtXSXl2UEk?oc=5",
    "date": "2016-07-07"
-  },
-  {
-   "cat": "media",
-   "source": "APTN News",
-   "title": "Tahltan Nation protest along sacred headwaters in northern British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzdmbVNyRE4xZS13VnR2WFl3QVo2QTd5N29BV2xKTU9tX1lPbkRCMW1yVHJOb3FuN3pLR0czU1JWRF92UjhRMHVKM3Nsb1NmR1VpeW5jVnh5Z1Z5OGpsenpTSUp2VndDdnF0SDFydWRxZGVOcE1lVWM5WUExUlNjWGY0VFlRb3lLVWlLcnZmcnQwTElHRkZLYl96STl0MGhZMTNFQjFLZF96ZEgwdzV3dmZYVHM?oc=5",
-   "date": "2013-09-26"
   }
  ]
 }
