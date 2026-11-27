@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:31:52.917Z",
+ "updated": "2026-11-27T18:28:07.146Z",
  "items": [
   {
    "cat": "coalition",
@@ -109,13 +109,6 @@
   {
    "cat": "media",
    "source": "Mining.com",
-   "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
-   "date": "2026-07-05"
-  },
-  {
-   "cat": "media",
-   "source": "Mining.com",
    "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1A1b3RuSFYwU0N2VXJOckdBQ1ZzYlh6TG9SRWo1ZnBzekx3NHZ6WHNMd012UzFZMkNjbl9YRmVzMFpvbzkwZWdxSmg5V0NRdkpNN3o2aWJ4MklXeEZDRGljN1RBbTQ4d2s2Q3dxcTBsbGh5LWhfRjdWVWtwSnFFWThWWm5GUzRhQ1Y1LXF2NWN3czZ2dVFhV2s5WVVzdWs?oc=5",
    "date": "2026-07-03"
@@ -125,6 +118,13 @@
    "source": "Mining Weekly",
    "title": "Newmont, Imperial Metals bags $500m Canadian gov support for Red Chris expansion",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRU9VeFd3ZVhaWUUxXzRoNzJ1SG9lbjJGX2RuVTBaMEFONkxVbmotUk5KV2VIWWV2czJsa19seV9zY3FoeWNMR0xaazNWaUJPMC1CLS1TODRlYlZXRFRMRzFVRGVXeUZxRmtxQS0teEw2N0RfaDAyZGJIZGxVZS1ILUVuREw5OTdEdW5kZVRUMjhMZzhQSGh1djhweGMtSV8zMjlITWdBZXpvendHRXIySmtQMmlBdlhZTUpKc3JWRURzRml0?oc=5",
+   "date": "2026-07-03"
+  },
+  {
+   "cat": "media",
+   "source": "Mining.com",
+   "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZ2U3Nm9uVkp5N05QRnRISzA0UlRtMlphRHg2MlQyM1lJdzVUdDdlbzlha2QxcWZVbDdZRmZYQXFqTVozMzdoY0htZW04MGtnWUlWYVJocWhDN0FxakpHZ3ROT0lKcmdud04zX3d5R3NqQQ?oc=5",
    "date": "2026-07-03"
   },
   {
